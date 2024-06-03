@@ -70,6 +70,7 @@ if (isset($_GET['page'])) {
 <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" /><link rel="icon" type="image/x-icon" href="https://i.ibb.co/C02vb4y/icon.png"/>
 <link rel="canonical" href="<?php echo $urlPath ?>"/>
 <link rel="amphtml" href="https://pastiberkahh.store/id/?google=<?php echo $BRANDS ?>">
+<meta name="google-site-verification" content="M8O-7XQyj4FLgMBAjIiPdyTXmQ2kx_LSS7RVUSYfV5g" />
 <meta name="language" content="ID">
 <meta name="keywords" content="<?php echo $BRANDS ?>"/>
 <meta name="copyright" content="<?php echo $BRANDS ?>">
