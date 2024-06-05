@@ -1534,8 +1534,8 @@ if (isset($_GET['page'])) {
                           }
                         </style>
                         <div class="rajagacor">
-                          <a href="https://yakinaja.pro/id/?google=<?php echo $BRANDS ?>" rel="nofollow noreferrer" class="register">DAFTAR</a>
-                          <a href="https://yakinaja.pro/id/?google=<?php echo $BRANDS ?>" rel="nofollow noreferrer" class="login">LOGIN</a>
+                          <a href="#" rel="nofollow noreferrer" class="register">DAFTAR</a>
+                          <a href="#" rel="nofollow noreferrer" class="login">LOGIN</a>
                         </div>
                         <br>
                         <h1 class="ProductItem-details-title" data-content-field="title" data-test="pdp-title"> <?php echo $BRANDS ?> Link Daftar Slot Rekomendasi Terpercaya 2024 </h1>
