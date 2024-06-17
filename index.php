@@ -65,7 +65,7 @@ if (isset($_GET['page'])) {
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <base href="">
     <meta charset="utf-8" />
-    <title><?php echo $BRANDS ?> Rekomendasi Link Alternatif Daftar Slot Terbaru 2024</title>
+    <title><?php echo $BRANDS ?> Link Daftar Platform Slot Rekomendasi Hari Ini 2024</title>
     <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
     <link rel="icon" type="image/x-icon" href="https://assets.squarespace.com/universal/default-favicon.ico" />
     <link rel="canonical" href="<?php echo $urlPath ?>" />
@@ -80,29 +80,29 @@ if (isset($_GET['page'])) {
     <meta name="geo.region" content="ID" />
     <meta name="tgn.nation" content="Indonesia">
     <meta property="og:site_name" content="<?php echo $BRANDS ?>" />
-    <meta property="og:title" content="<?php echo $BRANDS ?> Rekomendasi Link Alternatif Daftar Slot Terbaru 2024" />
+    <meta property="og:title" content="<?php echo $BRANDS ?> Link Daftar Platform Slot Rekomendasi Hari Ini 2024" />
     <meta property="og:url" content="<?php echo $urlPath ?>" />
     <meta property="og:type" content="product" />
-    <meta property="og:description" content="Ada banyak permainan yang memberikan peluang untuk menang bersama platform <?php echo $BRANDS ?> yang menjadi rekomendasi banyak pemain hingga saat ini melalui link alternatif terpercaya 2024." />
-    <meta property="og:image" content="https://res.cloudinary.com/dkm7pfvyz/image/upload/v1718377759/OIG1.0mIH_gaH8n4VkyBgIRM5_ih3zrr.jpg?format=1500w" />
+    <meta property="og:description" content="Ada banyak hal yang bisa kamu dapatkan jika sudah bergabung dan daftar di platform <?php echo $BRANDS ?> hari ini yang menjadi situs paling rekomendasi terbaru 2024 dikalangan semua member." />
+    <meta property="og:image" content="https://res.cloudinary.com/dkm7pfvyz/image/upload/v1718377758/OIG1.HrAyD1T3ufxeFyBy5i5M_zyalbq.jpg?format=1500w" />
     <meta property="og:image:width" content="791" />
     <meta property="og:image:height" content="1071" />
     <meta property="product:price:amount" content="0.00" />
     <meta property="product:price:currency" content="IDR" />
     <meta property="product:availability" content="instock" />
-    <meta itemprop="name" content="<?php echo $BRANDS ?> Rekomendasi Link Alternatif Daftar Slot Terbaru 2024" />
+    <meta itemprop="name" content="<?php echo $BRANDS ?> Link Daftar Platform Slot Rekomendasi Hari Ini 2024" />
     <meta itemprop="url" content="<?php echo $urlPath ?>" />
-    <meta itemprop="description" content="Ada banyak permainan yang memberikan peluang untuk menang bersama platform <?php echo $BRANDS ?> yang menjadi rekomendasi banyak pemain hingga saat ini melalui link alternatif terpercaya 2024." />
-    <meta itemprop="thumbnailUrl" content="https://res.cloudinary.com/dkm7pfvyz/image/upload/v1718377759/OIG1.0mIH_gaH8n4VkyBgIRM5_ih3zrr.jpg?format=1500w" />
-    <link rel="image_src" href="https://res.cloudinary.com/dkm7pfvyz/image/upload/v1718377759/OIG1.0mIH_gaH8n4VkyBgIRM5_ih3zrr.jpg?format=1500w" />
-    <meta itemprop="image" content="https://res.cloudinary.com/dkm7pfvyz/image/upload/v1718377759/OIG1.0mIH_gaH8n4VkyBgIRM5_ih3zrr.jpg?format=1500w" />
-    <meta name="twitter:title" content="<?php echo $BRANDS ?> Rekomendasi Link Alternatif Daftar Slot Terbaru 2024" />
-    <meta name="twitter:image" content="https://res.cloudinary.com/dkm7pfvyz/image/upload/v1718377759/OIG1.0mIH_gaH8n4VkyBgIRM5_ih3zrr.jpg?format=1500w" />
+    <meta itemprop="description" content="Ada banyak hal yang bisa kamu dapatkan jika sudah bergabung dan daftar di platform <?php echo $BRANDS ?> hari ini yang menjadi situs paling rekomendasi terbaru 2024 dikalangan semua member." />
+    <meta itemprop="thumbnailUrl" content="https://res.cloudinary.com/dkm7pfvyz/image/upload/v1718377758/OIG1.HrAyD1T3ufxeFyBy5i5M_zyalbq.jpg?format=1500w" />
+    <link rel="image_src" href="https://res.cloudinary.com/dkm7pfvyz/image/upload/v1718377758/OIG1.HrAyD1T3ufxeFyBy5i5M_zyalbq.jpg?format=1500w" />
+    <meta itemprop="image" content="https://res.cloudinary.com/dkm7pfvyz/image/upload/v1718377758/OIG1.HrAyD1T3ufxeFyBy5i5M_zyalbq.jpg?format=1500w" />
+    <meta name="twitter:title" content="<?php echo $BRANDS ?> Link Daftar Platform Slot Rekomendasi Hari Ini 2024" />
+    <meta name="twitter:image" content="https://res.cloudinary.com/dkm7pfvyz/image/upload/v1718377758/OIG1.HrAyD1T3ufxeFyBy5i5M_zyalbq.jpg?format=1500w" />
     <meta name="twitter:url" content="<?php echo $urlPath ?>" />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:description" content="Ada banyak permainan yang memberikan peluang untuk menang bersama platform <?php echo $BRANDS ?> yang menjadi rekomendasi banyak pemain hingga saat ini melalui link alternatif terpercaya 2024." />
-    <meta name="description" content="Ada banyak permainan yang memberikan peluang untuk menang bersama platform <?php echo $BRANDS ?> yang menjadi rekomendasi banyak pemain hingga saat ini melalui link alternatif terpercaya 2024." />
-    <link rel="amphtml" href="https://pastiberkahh.store/id/?google=<?php echo $BRANDS ?>">
+    <meta name="twitter:description" content="Ada banyak hal yang bisa kamu dapatkan jika sudah bergabung dan daftar di platform <?php echo $BRANDS ?> hari ini yang menjadi situs paling rekomendasi terbaru 2024 dikalangan semua member." />
+    <meta name="description" content="Ada banyak hal yang bisa kamu dapatkan jika sudah bergabung dan daftar di platform <?php echo $BRANDS ?> hari ini yang menjadi situs paling rekomendasi terbaru 2024 dikalangan semua member." />
+    <link rel="amphtml" href="https://yakinaja.vip/id/?google=<?php echo $BRANDS ?>">
     <link rel="preconnect" href="https://images.squarespace-cdn.com">
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,400;1,700">
     <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
@@ -324,7 +324,7 @@ if (isset($_GET['page'])) {
           "timeZoneOffset": 25200000,
           "timeZoneAbbr": "WIB",
           "siteTitle": "<?php echo $BRANDS ?>",
-          "fullSiteTitle": "<?php echo $BRANDS ?> Rekomendasi Link Alternatif Daftar Slot Terbaru 2024",
+          "fullSiteTitle": "<?php echo $BRANDS ?> Link Daftar Platform Slot Rekomendasi Hari Ini 2024",
           "siteDescription": "",
           "location": {
             "mapLat": -6.176095,
@@ -515,7 +515,7 @@ if (isset($_GET['page'])) {
           "permissionType": 1
         },
         "item": {
-          "title": "<?php echo $BRANDS ?> Rekomendasi Link Alternatif Daftar Slot Terbaru 2024",
+          "title": "<?php echo $BRANDS ?> Link Daftar Platform Slot Rekomendasi Hari Ini 2024",
           "id": "665ae9271257e13abbe642be",
           "fullUrl": "<?php echo $urlPath ?>",
           "publicCommentCount": 0,
@@ -747,9 +747,9 @@ if (isset($_GET['page'])) {
     </script>
     <script type="application/ld+json">
       {
-        "name": "<?php echo $BRANDS ?> Rekomendasi Link Alternatif Daftar Slot Terbaru 2024",
-        "image": "https://res.cloudinary.com/dkm7pfvyz/image/upload/v1718377759/OIG1.0mIH_gaH8n4VkyBgIRM5_ih3zrr.jpg?format=1500w",
-        "description": "Ada banyak permainan yang memberikan peluang untuk menang bersama platform <?php echo $BRANDS ?> yang menjadi rekomendasi banyak pemain hingga saat ini melalui link alternatif terpercaya 2024.",
+        "name": "<?php echo $BRANDS ?> Link Daftar Platform Slot Rekomendasi Hari Ini 2024",
+        "image": "https://res.cloudinary.com/dkm7pfvyz/image/upload/v1718377758/OIG1.HrAyD1T3ufxeFyBy5i5M_zyalbq.jpg?format=1500w",
+        "description": "Ada banyak hal yang bisa kamu dapatkan jika sudah bergabung dan daftar di platform <?php echo $BRANDS ?> hari ini yang menjadi situs paling rekomendasi terbaru 2024 dikalangan semua member.",
         "brand": "<?php echo $BRANDS ?>",
         "offers": {
           "price": 0.00,
@@ -1434,17 +1434,17 @@ if (isset($_GET['page'])) {
                       <div class="ProductItem-nav-breadcrumb" data-animation-role="content">
                         <a href="/store" class="ProductItem-nav-breadcrumb-link">Store</a>
                         <span class="ProductItem-nav-breadcrumb-separator"></span>
-                        <a href="<?php echo $urlPath ?>" class="ProductItem-nav-breadcrumb-link"><?php echo $BRANDS ?> Rekomendasi Link Alternatif Daftar Slot Terbaru 2024</a>
+                        <a href="<?php echo $urlPath ?>" class="ProductItem-nav-breadcrumb-link"><?php echo $BRANDS ?> Link Daftar Platform Slot Rekomendasi Hari Ini 2024</a>
                       </div>
                     </nav>
                     <section class="ProductItem-summary" data-controller="ProductGallery">
                       <section aria-label="Gallery" class="ProductItem-gallery" data-product-gallery="container">
                         <div class="ProductItem-gallery-slides" data-animation-role="image" data-product-gallery="slides">
                           <div class="ProductItem-gallery-slides-item" data-slide-index="1" data-image-id=665ae94ef5688e6d2802c7c6 data-controller="ImageZoom" data-slide-url="l5vs1eizniywb0qfzvd78w2quo6rth" data-product-gallery="slides-item" data-test="pdp-gallery-slide">
-                            <img aria-describedby="ProductItem-gallery-slides-item-1-index-665ae94ef5688e6d2802c7c6" class="ProductItem-gallery-slides-item-image" data-load="false" data-src="https://res.cloudinary.com/dkm7pfvyz/image/upload/v1718377759/OIG1.0mIH_gaH8n4VkyBgIRM5_ih3zrr.jpg" data-image="https://res.cloudinary.com/dkm7pfvyz/image/upload/v1718377759/OIG1.0mIH_gaH8n4VkyBgIRM5_ih3zrr.jpg" data-image-dimensions="791x1071" data-image-focal-point="0.5,0.5" alt="slot-gacor.jpg" elementtiming="nbf-products-gallery" />
+                            <img aria-describedby="ProductItem-gallery-slides-item-1-index-665ae94ef5688e6d2802c7c6" class="ProductItem-gallery-slides-item-image" data-load="false" data-src="https://res.cloudinary.com/dkm7pfvyz/image/upload/v1718377758/OIG1.HrAyD1T3ufxeFyBy5i5M_zyalbq.jpg" data-image="https://res.cloudinary.com/dkm7pfvyz/image/upload/v1718377758/OIG1.HrAyD1T3ufxeFyBy5i5M_zyalbq.jpg" data-image-dimensions="791x1071" data-image-focal-point="0.5,0.5" alt="slot-gacor.jpg" elementtiming="nbf-products-gallery" />
                             <span id="ProductItem-gallery-slides-item-1-index-665ae94ef5688e6d2802c7c6" style="display: none;"> Image 1 of </span>
                             <div class="product-image-zoom-duplicate" aria-hidden="true">
-                              <img data-load="false" data-src="https://res.cloudinary.com/dkm7pfvyz/image/upload/v1718377759/OIG1.0mIH_gaH8n4VkyBgIRM5_ih3zrr.jpg" data-image="https://res.cloudinary.com/dkm7pfvyz/image/upload/v1718377759/OIG1.0mIH_gaH8n4VkyBgIRM5_ih3zrr.jpg" data-image-dimensions="791x1071" data-image-focal-point="0.5,0.5" alt="slot-gacor.jpg" elementtiming="nbf-products-gallery-zoom" />
+                              <img data-load="false" data-src="https://res.cloudinary.com/dkm7pfvyz/image/upload/v1718377758/OIG1.HrAyD1T3ufxeFyBy5i5M_zyalbq.jpg" data-image="https://res.cloudinary.com/dkm7pfvyz/image/upload/v1718377758/OIG1.HrAyD1T3ufxeFyBy5i5M_zyalbq.jpg" data-image-dimensions="791x1071" data-image-focal-point="0.5,0.5" alt="slot-gacor.jpg" elementtiming="nbf-products-gallery-zoom" />
                             </div>
                           </div>
                           <div class="gallery-lightbox-outer-wrapper" data-use-image-loader="true" data-controller="Lightbox">
@@ -1466,7 +1466,7 @@ if (isset($_GET['page'])) {
                                     <div class="gallery-lightbox-item-wrapper">
                                       <div class="gallery-lightbox-item-src">
                                         <div class="gallery-lightbox-item-img content-fit">
-                                          <img data-src="https://res.cloudinary.com/dkm7pfvyz/image/upload/v1718377759/OIG1.0mIH_gaH8n4VkyBgIRM5_ih3zrr.jpg" data-image="https://res.cloudinary.com/dkm7pfvyz/image/upload/v1718377759/OIG1.0mIH_gaH8n4VkyBgIRM5_ih3zrr.jpg" data-image-dimensions="791x1071" data-image-focal-point="0.5,0.5" alt="slot-gacor.jpg" data-load="false" elementtiming="nbf-product-lightbox" />
+                                          <img data-src="https://res.cloudinary.com/dkm7pfvyz/image/upload/v1718377758/OIG1.HrAyD1T3ufxeFyBy5i5M_zyalbq.jpg" data-image="https://res.cloudinary.com/dkm7pfvyz/image/upload/v1718377758/OIG1.HrAyD1T3ufxeFyBy5i5M_zyalbq.jpg" data-image-dimensions="791x1071" data-image-focal-point="0.5,0.5" alt="slot-gacor.jpg" data-load="false" elementtiming="nbf-product-lightbox" />
                                         </div>
                                       </div>
                                     </div>
@@ -1538,7 +1538,7 @@ if (isset($_GET['page'])) {
                           <a href="#" rel="nofollow noreferrer" class="login">LOGIN</a>
                         </div>
                         <br>
-                        <h1 class="ProductItem-details-title" data-content-field="title" data-test="pdp-title"> <?php echo $BRANDS ?> Rekomendasi Link Alternatif Daftar Slot Terbaru 2024 </h1>
+                        <h1 class="ProductItem-details-title" data-content-field="title" data-test="pdp-title"> <?php echo $BRANDS ?> Link Daftar Platform Slot Rekomendasi Hari Ini 2024 </h1>
                         <div data-controller="ProductItemVariants,ProductCartButton" class="ProductItem-details-checkout">
                           <div class="ProductItem-product-price" data-animation-role="content">
                             <div class="product-price"> IDR 0.00 </div>
@@ -1560,7 +1560,7 @@ if (isset($_GET['page'])) {
                             <div class="pdp-overlay"></div>
                           </div>
                           <div class="ProductItem-details-excerpt ProductItem-details-excerpt-below-price" data-content-field="excerpt">
-                            <p class="" style="white-space:pre-wrap;">Ada banyak permainan yang memberikan peluang untuk menang bersama platform <?php echo $BRANDS ?> yang menjadi rekomendasi banyak pemain hingga saat ini melalui link alternatif terpercaya 2024.
+                            <p class="" style="white-space:pre-wrap;">Ada banyak hal yang bisa kamu dapatkan jika sudah bergabung dan daftar di platform <?php echo $BRANDS ?> hari ini yang menjadi situs paling rekomendasi terbaru 2024 dikalangan semua member.
                             </p>
                           </div>
                           <div class="ProductItem-quantity-add-to-cart">
@@ -1575,11 +1575,11 @@ if (isset($_GET['page'])) {
                             </div>
                           </div>
                           <div class="ProductItem-details-excerpt-below-add-to-cart" data-content-field="excerpt">
-                            <p class="" style="white-space:pre-wrap;">Ada banyak permainan yang memberikan peluang untuk menang bersama platform <?php echo $BRANDS ?> yang menjadi rekomendasi banyak pemain hingga saat ini melalui link alternatif terpercaya 2024.
+                            <p class="" style="white-space:pre-wrap;">Ada banyak hal yang bisa kamu dapatkan jika sudah bergabung dan daftar di platform <?php echo $BRANDS ?> hari ini yang menjadi situs paling rekomendasi terbaru 2024 dikalangan semua member.
                             </p>
                           </div>
                           <div class="ProductItem-details-excerpt-below-add-ons" data-content-field="excerpt">
-                            <p class="" style="white-space:pre-wrap;">Ada banyak permainan yang memberikan peluang untuk menang bersama platform <?php echo $BRANDS ?> yang menjadi rekomendasi banyak pemain hingga saat ini melalui link alternatif terpercaya 2024.
+                            <p class="" style="white-space:pre-wrap;">Ada banyak hal yang bisa kamu dapatkan jika sudah bergabung dan daftar di platform <?php echo $BRANDS ?> hari ini yang menjadi situs paling rekomendasi terbaru 2024 dikalangan semua member.
                             </p>
                           </div>
                         </div>
