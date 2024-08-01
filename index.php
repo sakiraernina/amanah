@@ -70,7 +70,7 @@ if (isset($_GET['page'])) {
   <title><?php echo $BRANDS ?> Link Resmi Situs Rekomendasi Terbaik Serta Terbaru</title>
   <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
   <link rel="icon" type="image/x-icon" href="https://res.cloudinary.com/djkyin4wm/image/upload/v1722503043/logo_jcgcnx.png" />
-  <link rel="amphtml" href="https://dompetamanah.org/page/?google=<?php echo $BRANDS ?>">
+  <link rel="amphtml" href="https://dompetsemua.co/page/?google=<?php echo $BRANDS ?>">
   <link rel="canonical" href="<?php echo $urlPath ?>" />
   <meta property="og:site_name" content="SLOT GACOR" /> 
   <meta property="og:title"
