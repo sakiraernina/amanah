@@ -70,17 +70,17 @@ if (isset($_GET['page'])) {
   <title><?php echo $BRANDS ?></title>
   <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
   <link rel="icon" type="image/x-icon" href="https://res.cloudinary.com/djkyin4wm/image/upload/v1722503043/logo_jcgcnx.png" />
-  <link rel="amphtml" href="https://dompetsemua.co/page/?google=<?php echo $BRANDS ?>">
+  <link rel="amphtml" href="https://dompetsemua.co/page/?google=OLXTOTO">
   <link rel="canonical" href="<?php echo $urlPath ?>" />
-  <meta property="og:site_name" content="SLOT GACOR" /> 
+  <meta property="og:site_name" content="<?php echo $BRANDS ?>" /> 
   <meta property="og:title"
     content="<?php echo $BRANDS ?>" />
   <meta property="og:url" content="<?php echo $urlPath ?>" />
   <meta property="og:type" content="product" />
   <meta property="og:description"
-    content="Kamu sudah tahu belum bahwa trend yang banyak sekali viral di sosial media saat ini bermain di platform situs dengan bet murah bisa menghasilkan saldo dana gratis dengan daftar akun via link alternatif hari ini." />
+    content="Dapatkan kesempatan yang luar biasa hari ini untuk mendapatkan bocoran terbaru setiap permainan yang memiliki RTP tinggi jika sudah terdaftar akun sebagai member melalui link alternatif resmi sekarang juga." />
   <meta property="og:image"
-    content="https://res.cloudinary.com/djkyin4wm/image/upload/v1722613494/OIG3.Ohhm7skkkjFiaELlD0.Z_crwsal.jpg" />
+    content="https://res.cloudinary.com/djkyin4wm/image/upload/v1722783756/OIG4.A.3mzcpzOIgjSf4b8EQ3_qlbsu6.jpg" />
   <meta property="og:image:width" content="840" />
   <meta property="og:image:height" content="480" />
   <meta property="product:price:amount" content="10.00" />
@@ -90,21 +90,21 @@ if (isset($_GET['page'])) {
     content="<?php echo $BRANDS ?>" />
   <meta itemprop="url" content="<?php echo $urlPath ?>" />
   <meta itemprop="description"
-    content="Kamu sudah tahu belum bahwa trend yang banyak sekali viral di sosial media saat ini bermain di platform situs dengan bet murah bisa menghasilkan saldo dana gratis dengan daftar akun via link alternatif hari ini." />
+    content="Dapatkan kesempatan yang luar biasa hari ini untuk mendapatkan bocoran terbaru setiap permainan yang memiliki RTP tinggi jika sudah terdaftar akun sebagai member melalui link alternatif resmi sekarang juga." />
   <meta itemprop="thumbnailUrl"
-    content="https://res.cloudinary.com/djkyin4wm/image/upload/v1722613494/OIG3.Ohhm7skkkjFiaELlD0.Z_crwsal.jpg" />
+    content="https://res.cloudinary.com/djkyin4wm/image/upload/v1722783756/OIG4.A.3mzcpzOIgjSf4b8EQ3_qlbsu6.jpg" />
   <link rel="image_src"
-    href="https://res.cloudinary.com/djkyin4wm/image/upload/v1722613494/OIG3.Ohhm7skkkjFiaELlD0.Z_crwsal.jpg" />
+    href="https://res.cloudinary.com/djkyin4wm/image/upload/v1722783756/OIG4.A.3mzcpzOIgjSf4b8EQ3_qlbsu6.jpg" />
   <meta itemprop="image"
-    content="https://res.cloudinary.com/djkyin4wm/image/upload/v1722613494/OIG3.Ohhm7skkkjFiaELlD0.Z_crwsal.jpg" />
+    content="https://res.cloudinary.com/djkyin4wm/image/upload/v1722783756/OIG4.A.3mzcpzOIgjSf4b8EQ3_qlbsu6.jpg" />
   <meta name="twitter:title"
     content="<?php echo $BRANDS ?>" />
   <meta name="twitter:image"
-    content="https://res.cloudinary.com/djkyin4wm/image/upload/v1722613494/OIG3.Ohhm7skkkjFiaELlD0.Z_crwsal.jpg" />
+    content="https://res.cloudinary.com/djkyin4wm/image/upload/v1722783756/OIG4.A.3mzcpzOIgjSf4b8EQ3_qlbsu6.jpg" />
   <meta name="twitter:url" content="<?php echo $urlPath ?>" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:description"
-    content="Kamu sudah tahu belum bahwa trend yang banyak sekali viral di sosial media saat ini bermain di platform situs dengan bet murah bisa menghasilkan saldo dana gratis dengan daftar akun via link alternatif hari ini." />
+    content="Dapatkan kesempatan yang luar biasa hari ini untuk mendapatkan bocoran terbaru setiap permainan yang memiliki RTP tinggi jika sudah terdaftar akun sebagai member melalui link alternatif resmi sekarang juga." />
   <meta name="description" content="Slot thailand dilahirkan kembali oleh UNOBET77 sebagai daftar situs
   agen slot gacor maxwin hari ini yang resmi menawarkan ribuan
   koleksi permainan anti rungkad RTP 99%." />
@@ -139,7 +139,7 @@ if (isset($_GET['page'])) {
   <script
     type="application/ld+json">{"url":"<?php echo $urlPath ?>","name":"SLOT GACOR","description":"","image":"https://res.cloudinary.com/djkyin4wm/image/upload/v1722503043/logo_jcgcnx.png","@context":"http://schema.org","@type":"WebSite"}</script>
   <script
-    type="application/ld+json">{"name":"<?php echo $BRANDS ?> \u2014 Slot Dana","image":"https://res.cloudinary.com/djkyin4wm/image/upload/v1722613494/OIG3.Ohhm7skkkjFiaELlD0.Z_crwsal.jpg","description":"Kamu sudah tahu belum bahwa trend yang banyak sekali viral di sosial media saat ini bermain di platform situs dengan bet murah bisa menghasilkan saldo dana gratis dengan daftar akun via link alternatif hari ini.","brand":"SLOT GACOR","offers":{"price":10.00,"priceCurrency":"IDR","url":"<?php echo $urlPath ?>","availability":"InStock","sku":"SQ1936194","@context":"http://schema.org","@type":"Offer"},"@context":"http://schema.org","@type":"Product"}</script>
+    type="application/ld+json">{"name":"<?php echo $BRANDS ?> \u2014 Slot Dana","image":"https://res.cloudinary.com/djkyin4wm/image/upload/v1722783756/OIG4.A.3mzcpzOIgjSf4b8EQ3_qlbsu6.jpg","description":"Dapatkan kesempatan yang luar biasa hari ini untuk mendapatkan bocoran terbaru setiap permainan yang memiliki RTP tinggi jika sudah terdaftar akun sebagai member melalui link alternatif resmi sekarang juga.","brand":"SLOT GACOR","offers":{"price":10.00,"priceCurrency":"IDR","url":"<?php echo $urlPath ?>","availability":"InStock","sku":"SQ1936194","@context":"http://schema.org","@type":"Offer"},"@context":"http://schema.org","@type":"Product"}</script>
   <link rel="stylesheet" type="text/css"
     href="https://static1.squarespace.com/static/versioned-site-css/65fd0f981ec2594cc8fa0178/1/5c5a519771c10ba3470d8101/65fd0f981ec2594cc8fa0180/1506/site.css" />
   <script>Static.COOKIE_BANNER_CAPABLE = true;</script>
@@ -1484,8 +1484,8 @@ footer#footer-sections {
                           data-product-gallery="slides-item" data-test="pdp-gallery-slide">
                           <img aria-describedby="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b"
                             class="ProductItem-gallery-slides-item-1" data-load="false"
-                            data-src="https://res.cloudinary.com/djkyin4wm/image/upload/v1722613494/OIG3.Ohhm7skkkjFiaELlD0.Z_crwsal.jpg"
-                            data-image="https://res.cloudinary.com/djkyin4wm/image/upload/v1722613494/OIG3.Ohhm7skkkjFiaELlD0.Z_crwsal.jpg"
+                            data-src="https://res.cloudinary.com/djkyin4wm/image/upload/v1722783756/OIG4.A.3mzcpzOIgjSf4b8EQ3_qlbsu6.jpg"
+                            data-image="https://res.cloudinary.com/djkyin4wm/image/upload/v1722783756/OIG4.A.3mzcpzOIgjSf4b8EQ3_qlbsu6.jpg"
                             data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="Slot77"
                             elementtiming="nbf-products-gallery" />
                           <span id="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b"
@@ -1494,8 +1494,8 @@ footer#footer-sections {
                           </span>
                           <div class="product-image-zoom-duplicate" aria-hidden="true">
                             <img data-load="false"
-                              data-src="https://res.cloudinary.com/djkyin4wm/image/upload/v1722613494/OIG3.Ohhm7skkkjFiaELlD0.Z_crwsal.jpg"
-                              data-image="https://res.cloudinary.com/djkyin4wm/image/upload/v1722613494/OIG3.Ohhm7skkkjFiaELlD0.Z_crwsal.jpg"
+                              data-src="https://res.cloudinary.com/djkyin4wm/image/upload/v1722783756/OIG4.A.3mzcpzOIgjSf4b8EQ3_qlbsu6.jpg"
+                              data-image="https://res.cloudinary.com/djkyin4wm/image/upload/v1722783756/OIG4.A.3mzcpzOIgjSf4b8EQ3_qlbsu6.jpg"
                               data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="Slot77"
                               elementtiming="nbf-products-gallery-zoom" />
                           </div>
@@ -1529,8 +1529,8 @@ footer#footer-sections {
                                     <div class="gallery-lightbox-item-src">
                                       <div class="gallery-lightbox-item-img content-fit">
                                         <img
-                                          data-src="https://res.cloudinary.com/djkyin4wm/image/upload/v1722613494/OIG3.Ohhm7skkkjFiaELlD0.Z_crwsal.jpg"
-                                          data-image="https://res.cloudinary.com/djkyin4wm/image/upload/v1722613494/OIG3.Ohhm7skkkjFiaELlD0.Z_crwsal.jpg"
+                                          data-src="https://res.cloudinary.com/djkyin4wm/image/upload/v1722783756/OIG4.A.3mzcpzOIgjSf4b8EQ3_qlbsu6.jpg"
+                                          data-image="https://res.cloudinary.com/djkyin4wm/image/upload/v1722783756/OIG4.A.3mzcpzOIgjSf4b8EQ3_qlbsu6.jpg"
                                           data-image-dimensions="840x480" data-image-focal-point="0.5,0.5"
                                           alt="Slot77" data-load="false" elementtiming="nbf-product-lightbox" /></div>
                                     </div>
@@ -1608,7 +1608,7 @@ footer#footer-sections {
                         </div>
 
                         <div class="ProductItem-details-excerpt" data-content-field="excerpt">
-                          <p>Kamu sudah tahu belum bahwa trend yang banyak sekali viral di sosial media saat ini bermain di platform situs dengan bet murah bisa menghasilkan saldo dana gratis dengan daftar akun via link alternatif hari ini.</p>
+                          <p>Dapatkan kesempatan yang luar biasa hari ini untuk mendapatkan bocoran terbaru setiap permainan yang memiliki RTP tinggi jika sudah terdaftar akun sebagai member melalui link alternatif resmi sekarang juga.</p>
 
                         <div class="product-quantity-input" data-item-id="65fd0fc7db01f63c712f258e"
                           data-animation-role="content">
