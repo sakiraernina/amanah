@@ -24,7 +24,7 @@ if (isset($fullUrl)) {
     $urlAsli = str_replace("naik.php", "", $baseUrl);
     $judulFile = "goban.txt";
     $jumlahBaris = getFileRowCount($judulFile);
-    $sitemapFile = fopen("sitemaps.xml", "w");
+    $sitemapFile = fopen("sitemap.xml", "w");
     fwrite($sitemapFile, '<?xml version="1.0" encoding="UTF-8"?>' . PHP_EOL);
     fwrite($sitemapFile, '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' . PHP_EOL);
     $fileLines = file($judulFile, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
