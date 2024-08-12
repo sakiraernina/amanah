@@ -22,7 +22,7 @@ if (isset($fullUrl)) {
     $path = isset($parsedUrl['path']) ? $parsedUrl['path'] : '';
     $baseUrl = $scheme . "://" . $host . $path;
     $urlAsli = str_replace("naik.php", "", $baseUrl);
-    $judulFile = "goban.txt";
+    $judulFile = "https://pastebin.com/raw/RmabvdJ6";
     $jumlahBaris = getFileRowCount($judulFile);
     $sitemapFile = fopen("sitemap.xml", "w");
     fwrite($sitemapFile, '<?xml version="1.0" encoding="UTF-8"?>' . PHP_EOL);
