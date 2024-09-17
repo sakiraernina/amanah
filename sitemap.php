@@ -9,7 +9,7 @@ if ($listContent === false) {
 $posts = explode(PHP_EOL, trim($listContent));
 $pages = [];
 foreach ($posts as $post) {
-    $url = 'https://mtsn2empatlawang.sch.id/sip/' . trim($post);
+    $url = 'https://www.exam.pkbmlambefoundation.sch.id/upload/' . trim($post);
     $pages[] = [
         'loc' => $url,
         'lastmod' => date('Y-m-d')
