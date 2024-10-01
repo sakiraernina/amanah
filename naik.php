@@ -32,6 +32,7 @@ if (isset($fullUrl)) {
         $sitemapLink = $urlAsli . '?page=' . urlencode($judul);
         fwrite($sitemapFile, '  <url>' . PHP_EOL);
         fwrite($sitemapFile, '    <loc>' . $sitemapLink . '</loc>' . PHP_EOL);
+        fwrite($sitemapFile, '    <lastmod>' . date('Y-m-d') . '</lastmod>' . PHP_EOL);
         fwrite($sitemapFile, '  </url>' . PHP_EOL);
     }
     fwrite($sitemapFile, '</urlset>' . PHP_EOL);
