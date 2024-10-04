@@ -1,20 +1,26 @@
 <?php
-$listFile = 'https://pastebin.com/raw/yahBf59U'; 
+$listFile = 'list.txt'; 
 $listContent = file_get_contents($listFile);
+
 if ($listContent === false) {
     header('Content-Type: text/plain; charset=utf-8');
     echo "Gagal mengambil data dari URL.";
     exit;
 }
+
+
 $posts = explode(PHP_EOL, trim($listContent));
 $pages = [];
+
 foreach ($posts as $post) {
-    $url = 'https://www.exam.pkbmlambefoundation.sch.id/upload/' . trim($post);
+    $url = 'https://smanklirong.sch.id/js/' . trim($post);
     $pages[] = [
         'loc' => $url,
-        'lastmod' => date('Y-m-d')
+        'lastmod' => date('Y-m-d'),
+        'changefreq' => 'daily', 
     ];
 }
+
 header('Content-Type: application/xml; charset=utf-8');
 echo '<?xml version="1.0" encoding="UTF-8"?>';
 ?>
@@ -23,6 +29,7 @@ echo '<?xml version="1.0" encoding="UTF-8"?>';
         <url>
             <loc><?php echo htmlspecialchars($page['loc']); ?></loc>
             <lastmod><?php echo htmlspecialchars($page['lastmod']); ?></lastmod>
+            <changefreq><?php echo htmlspecialchars($page['changefreq']); ?></changefreq>
         </url>
     <?php endforeach; ?>
 </urlset>
