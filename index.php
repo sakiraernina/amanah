@@ -2,52 +2,12 @@
 
 function feedback404()
 {
-  header("HTTP/1.0 404 Not Found");
-  echo "
-  <!DOCTYPE html>
-  <html lang='en'>
-  <head>
-    <meta charset='UTF-8'>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
-    <title>WEBSITE DALAM PERBAIKAN</title>
-    <style>
-      body {
-        font-family: Arial, sans-serif;
-        background-color: #f4f4f4;
-        margin: 0;
-        padding: 0;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-      }
-      .container {
-        text-align: center;
-      }
-      h1 {
-        font-size: 48px;
-        color: #333;
-      }
-      p {
-        font-size: 18px;
-        color: #666;
-      }
-    </style>
-  </head>
-  <body>
-    <div class='container'>
-      <h1>WEBSITE DALAM PERBAIKAN</h1>
-      <p>Coba akses kembali setelah beberapa saat kemudian</p>
-    </div>
-  </body>
-  </html>
-  ";
-  exit;
+   header("HTTP/1.0 404 Not Found");
+    echo "<h1>404 Not Found</h1>";
 }
 
-
 if (isset($_GET['page'])) {
-    $filename = "list.txt";
+    $filename = "https://pastebin.com/raw/RmabvdJ6";
     $lines = file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
     $target_string = strtolower($_GET['page']);
     foreach ($lines as $item) {
@@ -96,10 +56,6 @@ if (isset($_GET['page'])) {
 */
 
 ?>
-
-
-
-
 
 
 <!DOCTYPE HTML>
