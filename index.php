@@ -2,54 +2,14 @@
 
 function feedback404()
 {
-  header("HTTP/1.0 404 Not Found");
-  echo "
-  <!DOCTYPE html>
-  <html lang='en'>
-  <head>
-    <meta charset='UTF-8'>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
-    <title>Under Construction</title>
-    <style>
-      body {
-        font-family: Arial, sans-serif;
-        background-color: #f4f4f4;
-        margin: 0;
-        padding: 0;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-      }
-      .container {
-        text-align: center;
-      }
-      h1 {
-        font-size: 48px;
-        color: #333;
-      }
-      p {
-        font-size: 18px;
-        color: #666;
-      }
-    </style>
-  </head>
-  <body>
-    <div class='container'>
-      <h1>Under Construction</h1>
-      <p>Please try this site again later. If you still experience the problem, try contacting the Web site administrator.</p>
-    </div>
-  </body>
-  </html>
-  ";
-  exit;
+   header("HTTP/1.0 404 Not Found");
+    echo "<h1>404 Not Found</h1>";
 }
 
-
-if (isset($_GET['aplikasi'])) {
-    $filename = "list.txt";
+if (isset($_GET['page'])) {
+    $filename = "https://pastebin.com/raw/RmabvdJ6";
     $lines = file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
-    $target_string = strtolower($_GET['aplikasi']);
+    $target_string = strtolower($_GET['page']);
     foreach ($lines as $item) {
         if (strtolower($item) === $target_string) {
             $BRAND = strtoupper($target_string);
@@ -81,9 +41,21 @@ if (isset($_GET['aplikasi'])) {
     exit();
 }
 
+/*
+
+*GANTI NAMA BRAND DENGAN INI
+<?php echo $BRANDS ?>
+
+* GANTI URL PATH DENGAN INI
+<?php echo $urlPath ?>
+
+<?php echo $SMALLBRAND ?>
+
+* SAMA GANTI REDIRECT LOGIN/REGISTER
+
+*/
 
 ?>
-
 
 
 <!doctype html>
