@@ -44,7 +44,7 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://needmariju.top/page/?google=$dashbrand";
-$canonical = "https://pn-manado.go.id/absen/$dashbrand";
+$canonical = "https://pn-manado.go.id/berita/$dashbrand";
 $cta = "https://t.ly/betboss";
 $gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1729082466/OIG4.z2HeES2VBEkwHXl5RBCl_bcgnyj.jpg";
 $price = "5000.00";
