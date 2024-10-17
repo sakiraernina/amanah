@@ -13,7 +13,7 @@ $posts = explode(PHP_EOL, trim($listContent));
 $pages = [];
 
 foreach ($posts as $post) {
-    $url = 'https://kel-semarang.banjarnegarakab.go.id/berita/' . trim($post);
+    $url = 'https://kel-semarang.banjarnegarakab.go.id/berita/?post=' . trim($post);
     $pages[] = [
         'loc' => $url,
         'lastmod' => date('Y-m-d'),
