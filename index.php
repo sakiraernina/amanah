@@ -43,15 +43,15 @@ foreach ($keywords as $keyword) {
 if (!$found) {
     show404();
 }
-$amphtml = "https://needmariju.top/page/?google=$dashbrand";
-$canonical = "https://pn-manado.go.id/absen/$dashbrand";
-$cta = "https://t.ly/betboss";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1729082466/OIG4.z2HeES2VBEkwHXl5RBCl_bcgnyj.jpg";
+$amphtml = "https://tamuramah.com/id/$dashbrand";
+$canonical = "https://smknu-tulungagung.sch.id/berita/$dashbrand";
+$cta = "https://t.ly/betserulink";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1729171278/OIG1.lL3DsLBH1rjOd4mzGikn_mjqmzj.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Link Absen Pengadilan Negeri Manado";
-$desc = "Pengadilan Negeri Manado adalah lembaga peradilan yang berada di bawah naungan Mahkamah Agung Republik Indonesia dan memiliki yurisdiksi di wilayah Kota Manado, Sulawesi Utara. Sebagai bagian dari sistem peradilan umum di $namabrand, Pengadilan Negeri Manado berperan dalam menangani berbagai perkara perdata, pidana, dan sengketa tata usaha negara di tingkat pertama.";
-$konten = "Pengadilan Negeri Manado adalah lembaga peradilan yang berada di bawah naungan Mahkamah Agung Republik Indonesia dan memiliki yurisdiksi di wilayah Kota Manado, Sulawesi Utara. Sebagai bagian dari sistem peradilan umum di $namabrand, Pengadilan Negeri Manado berperan dalam menangani berbagai perkara perdata, pidana, dan sengketa tata usaha negara di tingkat pertama.";
+$judul = "$namabrand Kompetensi Keahlian SMK NU Tulungagung";
+$desc = "Sekolah yang paling banyak digemari di wilayah Tulungagung yakni SMK NU banyak sekali fasilitas yang lengkap untuk mendukung setiap siswa dan siswi bisa belajar dengan baik dengan kurikulum merdeka belajar melalui platform $namabrand untuk belajar online dengan mudah.";
+$konten = "Sekolah yang paling banyak digemari di wilayah Tulungagung yakni SMK NU banyak sekali fasilitas yang lengkap untuk mendukung setiap siswa dan siswi bisa belajar dengan baik dengan kurikulum merdeka belajar melalui platform $namabrand untuk belajar online dengan mudah.";
 ?>
 
 
@@ -345,7 +345,8 @@ $konten = "Pengadilan Negeri Manado adalah lembaga peradilan yang berada di bawa
       fill="#9E9E9E"></path>
   </symbol>
   <symbol id="lazadaicon_facebook" viewBox="0 0 1024 1024">
-    <pathd="M548.864 1024h-73.728C212.992 1024 0 811.008 0 548.864v-73.728C0 212.992 212.992 0 475.136 0h73.728C811.008 0 1024 212.992 1024 475.136v73.728C1024 811.008 811.008 1024 548.864 1024z"
+    <path
+      d="M548.864 1024h-73.728C212.992 1024 0 811.008 0 548.864v-73.728C0 212.992 212.992 0 475.136 0h73.728C811.008 0 1024 212.992 1024 475.136v73.728C1024 811.008 811.008 1024 548.864 1024z"
       fill="#3B5998"></path>
     <path
       d="M534.528 778.24h-110.592V512H368.64v-92.16h55.296v-55.296c0-75.776 30.72-118.784 118.784-118.784h73.728v92.16h-45.056c-34.816 0-36.864 12.288-36.864 36.864v45.056h83.968l-10.24 92.16h-73.728v266.24z"
@@ -836,7 +837,7 @@ $konten = "Pengadilan Negeri Manado adalah lembaga peradilan yang berada di bawa
                   <div class="top-links-item" id="topActionFeedback">
                       <a class="highlight" target="_blank" href="<?php echo $canonical ?>" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">Masukan</a>
                   </div>
-                    <div class="top-links-item orange" id="topActionDownload"data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
+                    <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
                         <span><?php echo $dashbrand ?></span>
                         <div class="lzd-download-popup top-popup-wrap" id="lzdDownloadPopup">
   <div class="top-popup-content lzd-download-content">
@@ -1008,7 +1009,8 @@ $konten = "Pengadilan Negeri Manado adalah lembaga peradilan yang berada di bawa
             </div>
         </div>
         <div class="lzd-logo-bar">
-          <div class="logo-bar-content header-content"><div class="lzd-logo-content"><a href="<?php echo $canonical ?>" data-spm="dhome"><p><img src="https://res.cloudinary.com/dt3xlwq3j/image/upload/v1728222298/betboss_z7sr1c.png" alt="Logo <?php echo $dashbrand ?> Toko Online Indonesia" /></p></a></div>
+          <div class="logo-bar-content header-content">
+              <div class="lzd-logo-content"><a href="<?php echo $canonical ?>" data-spm="dhome"><p><img src="https://res.cloudinary.com/dt3xlwq3j/image/upload/v1728222298/betboss_z7sr1c.png" alt="Logo <?php echo $dashbrand ?> Toko Online Indonesia" /></p></a></div>
               <div class="lzd-nav-search " data-spm="search">
                 <div id="button" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go"></div>
               </div>
@@ -1189,7 +1191,7 @@ $konten = "Pengadilan Negeri Manado adalah lembaga peradilan yang berada di bawa
                 <a href="<?php echo $canonical ?>beli-printers/">
                     <span>Printer</span>
                 </a>
-                        <script type="text"class="J_data_1_6">
+                        <script type="text" class="J_data_1_6">
                             [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Printer","childCategoryUrl":"<?php echo $canonical ?>beli-printers/"},{"childCategoryName":"Tinta Printer","childCategoryUrl":"<?php echo $canonical ?>tinta-printer/"},{"childCategoryName":"Printer 3D","childCategoryUrl":"<?php echo $canonical ?>pencetak-3d/"},{"childCategoryName":"Printer POS & Thermal","childCategoryUrl":"<?php echo $canonical ?>beli-printer-stand/"},{"childCategoryName":"Mesin Faks","childCategoryUrl":"<?php echo $canonical ?>beli-mesin-fax/"},{"childCategoryName":"Mesin Cutting Sticker","childCategoryUrl":"<?php echo $canonical ?>printer-pemotong/"},{"childCategoryName":"Memori Printer","childCategoryUrl":"<?php echo $canonical ?>modul-memori-printer/"}]
                         </script>
             </li>
@@ -1979,7 +1981,7 @@ $konten = "Pengadilan Negeri Manado adalah lembaga peradilan yang berada di bawa
                     <span>Kamera Mobil, Audio &amp; Video</span>
                 </a>
                         <script type="text" class="J_data_11_3">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kamera Mobil & Aksesoris","childCategoryUrl":"<?php echo $canonical ?>shop-kamera-mobil/"},{"childCategoryName":"Headunit","childCategoryUrl":"<?php echo $canonical ?>shop-car-video-in-dash-navigation/"},{"childCategoryName":"Spiker","childCategoryUrl":"<?php echo $canonical ?>shop-car-audio-speakers/"},{"childCategoryName":"Subwoofer","childCategoryUrl":"<?php echo $canonical ?>shop-car-audio-subwoofers/"},{"childCategoryName":"Power, amplifier & Kapasitor Bank","childCategoryUrl":"<?php echo $canonical ?>shop-car-audio-equalizers/"},{"childCategoryName":"GPS","childCategoryUrl":"<?php echo $canonical ?>shop-motors-gps/"},{"childCategoryName":"Video, TV Aksesoris mobil","childCategoryUrl":"<?php echo $canonical ?>shop-car-video/"},{"childCategoryName":"Aksesoris Audio & Video Lainya","childCategoryUrl":"<?phpecho $canonical ?>shop-audio-video-accessories/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kamera Mobil & Aksesoris","childCategoryUrl":"<?php echo $canonical ?>shop-kamera-mobil/"},{"childCategoryName":"Headunit","childCategoryUrl":"<?php echo $canonical ?>shop-car-video-in-dash-navigation/"},{"childCategoryName":"Spiker","childCategoryUrl":"<?php echo $canonical ?>shop-car-audio-speakers/"},{"childCategoryName":"Subwoofer","childCategoryUrl":"<?php echo $canonical ?>shop-car-audio-subwoofers/"},{"childCategoryName":"Power, amplifier & Kapasitor Bank","childCategoryUrl":"<?php echo $canonical ?>shop-car-audio-equalizers/"},{"childCategoryName":"GPS","childCategoryUrl":"<?php echo $canonical ?>shop-motors-gps/"},{"childCategoryName":"Video, TV Aksesoris mobil","childCategoryUrl":"<?php echo $canonical ?>shop-car-video/"},{"childCategoryName":"Aksesoris Audio & Video Lainya","childCategoryUrl":"<?php echo $canonical ?>shop-audio-video-accessories/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_5">
@@ -2169,7 +2171,8 @@ $konten = "Pengadilan Negeri Manado adalah lembaga peradilan yang berada di bawa
         <ul class="lzd-site-menu-sub Level_1_Category_No1" data-spm="cate_1">
             <li class="sub-item-remove-arrow" data-cate="cate_1_1">
                 <a href="<?php echo $canonical ?>beli-handphone">
-                    <span>Handphone</span></a>
+                    <span>Handphone</span>
+                </a>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_2">
                 <a href="<?php echo $canonical ?>shop-beli-laptop/">
@@ -2419,7 +2422,7 @@ $konten = "Pengadilan Negeri Manado adalah lembaga peradilan yang berada di bawa
                     <span>Jam Tangan Pria</span>
                 </a>
                         <script type="text" class="J_data_3_7">
-                            [{"childCategoryName":"Aksesoris Jam Tangan Pria","childCategoryUrl":"<?php echo $canonical ?>beli-aksesoris-jam-tangan-pria/"},{"childCategoryName":"JamTangan Kasual Pria","childCategoryUrl":"<?php echo $canonical ?>beli-jam-tangan-kasual-pria/"},{"childCategoryName":"Formal","childCategoryUrl":"<?php echo $canonical ?>beli-jam-tangan-formal-pria/"},{"childCategoryName":"Mewah","childCategoryUrl":"<?php echo $canonical ?>shop-jam-tangan-mewah-pria/"},{"childCategoryName":"Pra Dimiliki","childCategoryUrl":"<?php echo $canonical ?>shop-jam-tangan-pre-owned-pria/"},{"childCategoryName":"Jam Tangan Olahraga Pria","childCategoryUrl":"<?php echo $canonical ?>beli-jam-tangan-olahraga-pria/"}]
+                            [{"childCategoryName":"Aksesoris Jam Tangan Pria","childCategoryUrl":"<?php echo $canonical ?>beli-aksesoris-jam-tangan-pria/"},{"childCategoryName":"Jam Tangan Kasual Pria","childCategoryUrl":"<?php echo $canonical ?>beli-jam-tangan-kasual-pria/"},{"childCategoryName":"Formal","childCategoryUrl":"<?php echo $canonical ?>beli-jam-tangan-formal-pria/"},{"childCategoryName":"Mewah","childCategoryUrl":"<?php echo $canonical ?>shop-jam-tangan-mewah-pria/"},{"childCategoryName":"Pra Dimiliki","childCategoryUrl":"<?php echo $canonical ?>shop-jam-tangan-pre-owned-pria/"},{"childCategoryName":"Jam Tangan Olahraga Pria","childCategoryUrl":"<?php echo $canonical ?>beli-jam-tangan-olahraga-pria/"}]
                         </script>
             </li>
         </ul>
@@ -2680,7 +2683,8 @@ $konten = "Pengadilan Negeri Manado adalah lembaga peradilan yang berada di bawa
                 <a href="<?php echo $canonical ?>beli-olahraga-permainan-luar-ruangan/">
                     <span>Mainan Olahraga &amp; Luar Ruangan</span>
                 </a>
-                        <script type="text" class="J_data_6_10">[{"childCategoryName":"Kolam Renang & Mainan Air","childCategoryUrl":"<?php echo $canonical ?>beli-mainan-air-kolam-renang/"},{"childCategoryName":"Mainan Olahraga","childCategoryUrl":"<?php echo $canonical ?>shop-mainan-baseball-softball/"},{"childCategoryName":"Mainan Luar Ruangan","childCategoryUrl":"<?php echo $canonical ?>beli-aktivitas-dan-olahraga-luar-ruangan/"},{"childCategoryName":"Mainan Blaster","childCategoryUrl":"<?php echo $canonical ?>beli-mainan-blaster/"},{"childCategoryName":"Kolam Bola & Aksesoris","childCategoryUrl":"<?php echo $canonical ?>beli-bola-pit-aksesori/"},{"childCategoryName":"Mainan Terbang","childCategoryUrl":"<?php echo $canonical ?>beli-mainan-terbang/"},{"childCategoryName":"Layangan & Kincir Angin","childCategoryUrl":"<?php echo $canonical ?>beli-mainan-layang-layang/"},{"childCategoryName":"Istana Balon","childCategoryUrl":"<?php echo $canonical ?>beli-balon-loncat-istana-balon/"},{"childCategoryName":"Yoyo & Kendama","childCategoryUrl":"<?php echo $canonical ?>beli-yo-yo-kendama/"},{"childCategoryName":"Set Mainan Taman Bermain","childCategoryUrl":"<?php echo $canonical ?>beli-set-peralatan-permainan-playground/"},{"childCategoryName":"Kemah & Terowongan Mainan","childCategoryUrl":"<?php echo $canonical ?>beli-mainan-tenda-terowongan/"},{"childCategoryName":"Mainan Rumah-rumahan","childCategoryUrl":"<?php echo $canonical ?>beli-playhouses/"}]
+                        <script type="text" class="J_data_6_10">
+                            [{"childCategoryName":"Kolam Renang & Mainan Air","childCategoryUrl":"<?php echo $canonical ?>beli-mainan-air-kolam-renang/"},{"childCategoryName":"Mainan Olahraga","childCategoryUrl":"<?php echo $canonical ?>shop-mainan-baseball-softball/"},{"childCategoryName":"Mainan Luar Ruangan","childCategoryUrl":"<?php echo $canonical ?>beli-aktivitas-dan-olahraga-luar-ruangan/"},{"childCategoryName":"Mainan Blaster","childCategoryUrl":"<?php echo $canonical ?>beli-mainan-blaster/"},{"childCategoryName":"Kolam Bola & Aksesoris","childCategoryUrl":"<?php echo $canonical ?>beli-bola-pit-aksesori/"},{"childCategoryName":"Mainan Terbang","childCategoryUrl":"<?php echo $canonical ?>beli-mainan-terbang/"},{"childCategoryName":"Layangan & Kincir Angin","childCategoryUrl":"<?php echo $canonical ?>beli-mainan-layang-layang/"},{"childCategoryName":"Istana Balon","childCategoryUrl":"<?php echo $canonical ?>beli-balon-loncat-istana-balon/"},{"childCategoryName":"Yoyo & Kendama","childCategoryUrl":"<?php echo $canonical ?>beli-yo-yo-kendama/"},{"childCategoryName":"Set Mainan Taman Bermain","childCategoryUrl":"<?php echo $canonical ?>beli-set-peralatan-permainan-playground/"},{"childCategoryName":"Kemah & Terowongan Mainan","childCategoryUrl":"<?php echo $canonical ?>beli-mainan-tenda-terowongan/"},{"childCategoryName":"Mainan Rumah-rumahan","childCategoryUrl":"<?php echo $canonical ?>beli-playhouses/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_12">
@@ -2734,7 +2738,8 @@ $konten = "Pengadilan Negeri Manado adalah lembaga peradilan yang berada di bawa
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_6">
-                <a href="<?php echo $canonical ?>shop-peralatan-perawatan-personal/"><span>Alat Perawatan Diri</span>
+                <a href="<?php echo $canonical ?>shop-peralatan-perawatan-personal/">
+                    <span>Alat Perawatan Diri</span>
                 </a>
                         <script type="text" class="J_data_7_5">
                             [{"childCategoryName":""},{"childCategoryName":"Hair Dryer","childCategoryUrl":"<?php echo $canonical ?>beli-pengering-rambut/"},{"childCategoryName":"Alat Penata Rambut","childCategoryUrl":"<?php echo $canonical ?>beli-perlengkapan-styling-rambut/"},{"childCategoryName":"Shaver & Pencukur Kumis Jenggot","childCategoryUrl":"<?php echo $canonical ?>beli-shaver/"},{"childCategoryName":"Sikat Gigi Elektrik","childCategoryUrl":"<?php echo $canonical ?>beli-sikat-gigi-elektrik/"}]
@@ -2983,7 +2988,8 @@ $konten = "Pengadilan Negeri Manado adalah lembaga peradilan yang berada di bawa
                     <span>Olahraga Sepeda</span>
                 </a>
                         <script type="text" class="J_data_10_6">
-                            [{"childCategoryName":"Komponen Part Sepeda","childCategoryUrl":"<?php echo $canonical ?>komponen-dan-parts-sepeda/"},{"childCategoryName":"Aksesoris Sepeda","childCategoryUrl":"<?php echo $canonical ?>aksesoris-sepeda/"},{"childCategoryName":"Sepeda","childCategoryUrl":"<?php echo $canonical ?>sepeda/"},{"childCategoryName":"Kaos Sepeda","childCategoryUrl":"<?php echo $canonical ?>jual-baju-kaos-sepeda/"},{"childCategoryName":"Sepatu Sepeda Pria","childCategoryUrl":"<?php echo $canonical ?>jual-sepatu-sepeda-pria/"},{"childCategoryName":"Sepatu Sepeda Wanita","childCategoryUrl":"<?php echo $canonical ?>sepatu-sepeda-wanita/"},{"childCategoryName":"Sepatu Sepeda Perempuan","childCategoryUrl":"<?php echo $canonical ?>jual-sepatu-sepeda-anak-perempuan/"},{"childCategoryName":"Sepatu Sepeda Laki-Laki","childCategoryUrl":"<?php echo $canonical ?>jual-sepatu-sepeda-anak-laki-laki/"}]</script>
+                            [{"childCategoryName":"Komponen Part Sepeda","childCategoryUrl":"<?php echo $canonical ?>komponen-dan-parts-sepeda/"},{"childCategoryName":"Aksesoris Sepeda","childCategoryUrl":"<?php echo $canonical ?>aksesoris-sepeda/"},{"childCategoryName":"Sepeda","childCategoryUrl":"<?php echo $canonical ?>sepeda/"},{"childCategoryName":"Kaos Sepeda","childCategoryUrl":"<?php echo $canonical ?>jual-baju-kaos-sepeda/"},{"childCategoryName":"Sepatu Sepeda Pria","childCategoryUrl":"<?php echo $canonical ?>jual-sepatu-sepeda-pria/"},{"childCategoryName":"Sepatu Sepeda Wanita","childCategoryUrl":"<?php echo $canonical ?>sepatu-sepeda-wanita/"},{"childCategoryName":"Sepatu Sepeda Perempuan","childCategoryUrl":"<?php echo $canonical ?>jual-sepatu-sepeda-anak-perempuan/"},{"childCategoryName":"Sepatu Sepeda Laki-Laki","childCategoryUrl":"<?php echo $canonical ?>jual-sepatu-sepeda-anak-laki-laki/"}]
+                        </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_8">
                 <a href="<?php echo $canonical ?>olahraga-air/">
@@ -3156,7 +3162,8 @@ $konten = "Pengadilan Negeri Manado adalah lembaga peradilan yang berada di bawa
                     <img alt="SITUS BONUS" class="lzd-site-nav-menu-iconfont-img" src="https://i.imgur.com/FtGWxyY.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
-                <span class="lzd-menu-labels-item-text">BONUS <?php echo $dashbrand ?></span></a>
+                <span class="lzd-menu-labels-item-text">BONUS <?php echo $dashbrand ?></span>
+            </a>
         </nav>
     </div>
 </div>
