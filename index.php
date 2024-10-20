@@ -44,14 +44,14 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.site/id/$dashbrand";
-$canonical = "https://e-journal.ar-rum.ac.id/js/$dashbrand";
+$canonical = "https://manajemen.unupurwokerto.ac.id/fakultas/$dashbrand";
 $cta = "https://t.ly/betserulink";
 $gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1729350835/OIG2.9KnXY7KcTQ0v.6SoL86G_h6bile.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand E-Journal Akbid Ar-Rum Salatiga 2024";
-$desc = "Akbid Ar-Rum memiliki sistem belajar online atau biasa dikenal dengan jurnal elektronik yang biasa dipublish melalui sistem yang bernama OJS atau disebut open jurnal system yang dipakai oleh setiap pelajar untuk mencari berbagai contoh jurnal $namabrand dari jurusannya masing-masing secara gratis.";
-$konten = "Akbid Ar-Rum memiliki sistem belajar online atau biasa dikenal dengan jurnal elektronik yang biasa dipublish melalui sistem yang bernama OJS atau disebut open jurnal system yang dipakai oleh setiap pelajar untuk mencari berbagai contoh jurnal $namabrand dari jurusannya masing-masing secara gratis.";
+$judul = "$namabrand Universitas Nahdlatul Ulama Purwokerto";
+$desc = "Program Studi Manajenem Universitas Nahdlatul Ulama Purwokerto adalah salah satu program studi di Fakultas $namabrand, Sosial, Ekonomi, dan Humaniora yang telah terakreditasi Baik. Universitas Nahdlatul Ulama Purwokerto menyediakan berbagai pilihan beasiswa bagi mahasiswa berprestasi atau yang membutuhkan bantuan keuangan, sehingga pendidikan di Program Studi Manajemen menjadi lebih terjangkau.";
+$konten = "Program Studi Manajenem Universitas Nahdlatul Ulama Purwokerto adalah salah satu program studi di Fakultas $namabrand, Sosial, Ekonomi, dan Humaniora yang telah terakreditasi Baik. Universitas Nahdlatul Ulama Purwokerto menyediakan berbagai pilihan beasiswa bagi mahasiswa berprestasi atau yang membutuhkan bantuan keuangan, sehingga pendidikan di Program Studi Manajemen menjadi lebih terjangkau.";
 ?>
 
 
