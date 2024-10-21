@@ -44,14 +44,14 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.site/id/$dashbrand";
-$canonical = "https://manajemen.unupurwokerto.ac.id/fakultas/$dashbrand";
+$canonical = "https://www.pa-tebingtinggi.go.id/berita/$dashbrand";
 $cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1729350835/OIG2.9KnXY7KcTQ0v.6SoL86G_h6bile.jpg";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1729514448/OIG2.oxH47gQSSzaA6_ZaRufg_jh5c3z.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Universitas Nahdlatul Ulama Purwokerto";
-$desc = "Program Studi Manajenem Universitas Nahdlatul Ulama Purwokerto adalah salah satu program studi di Fakultas $namabrand, Sosial, Ekonomi, dan Humaniora yang telah terakreditasi Baik. Universitas Nahdlatul Ulama Purwokerto menyediakan berbagai pilihan beasiswa bagi mahasiswa berprestasi atau yang membutuhkan bantuan keuangan, sehingga pendidikan di Program Studi Manajemen menjadi lebih terjangkau.";
-$konten = "Program Studi Manajenem Universitas Nahdlatul Ulama Purwokerto adalah salah satu program studi di Fakultas $namabrand, Sosial, Ekonomi, dan Humaniora yang telah terakreditasi Baik. Universitas Nahdlatul Ulama Purwokerto menyediakan berbagai pilihan beasiswa bagi mahasiswa berprestasi atau yang membutuhkan bantuan keuangan, sehingga pendidikan di Program Studi Manajemen menjadi lebih terjangkau.";
+$judul = "$namabrand Pendaftaran Pengadilan Agama Tebing Tinggi";
+$desc = "Pengadilan Agama Tebing Tinggi adalah lembaga peradilan yang berwenang menangani perkara-perkara tertentu di bidang hukum perdata Islam, seperti perceraian, waris, wasiat, hibah, wakaf, dan zakat, serta perkara-perkara lainnya yang diatur oleh hukum syariah di Indonesia yang bisa diakses oleh masyarakat yang ingin mengajuhkan permohonan perkara melalui platform $namabrand hari ini.";
+$konten = "Pengadilan Agama Tebing Tinggi adalah lembaga peradilan yang berwenang menangani perkara-perkara tertentu di bidang hukum perdata Islam, seperti perceraian, waris, wasiat, hibah, wakaf, dan zakat, serta perkara-perkara lainnya yang diatur oleh hukum syariah di Indonesia yang bisa diakses oleh masyarakat yang ingin mengajuhkan permohonan perkara melalui platform $namabrand hari ini.";
 ?>
 
 
