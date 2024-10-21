@@ -44,14 +44,14 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.site/id/$dashbrand";
-$canonical = "https://www.pa-tebingtinggi.go.id/berita/$dashbrand";
+$canonical = "https://pa-pacitan.go.id/logs/$dashbrand";
 $cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1729514448/OIG2.oxH47gQSSzaA6_ZaRufg_jh5c3z.jpg";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1729514448/OIG2.59K_QPBMdbivIH33X2zn_kog54h.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Pendaftaran Pengadilan Agama Tebing Tinggi";
-$desc = "Pengadilan Agama Tebing Tinggi adalah lembaga peradilan yang berwenang menangani perkara-perkara tertentu di bidang hukum perdata Islam, seperti perceraian, waris, wasiat, hibah, wakaf, dan zakat, serta perkara-perkara lainnya yang diatur oleh hukum syariah di Indonesia yang bisa diakses oleh masyarakat yang ingin mengajuhkan permohonan perkara melalui platform $namabrand hari ini.";
-$konten = "Pengadilan Agama Tebing Tinggi adalah lembaga peradilan yang berwenang menangani perkara-perkara tertentu di bidang hukum perdata Islam, seperti perceraian, waris, wasiat, hibah, wakaf, dan zakat, serta perkara-perkara lainnya yang diatur oleh hukum syariah di Indonesia yang bisa diakses oleh masyarakat yang ingin mengajuhkan permohonan perkara melalui platform $namabrand hari ini.";
+$judul = "$namabrand Sistem Informasi Penelusuran Perkara PA Pacitan";
+$desc = "Seiring dengan perkembangan teknologi informasi $namabrand, Pengadilan Agama Daerah Pacitan mengadopsi penggunaan Aplikasi Sistem Informasi Penelusuran Perkara (SIPP) untuk meningkatkan kualitas pelayanan kepada masyarakat.";
+$konten = "Seiring dengan perkembangan teknologi informasi $namabrand, Pengadilan Agama Daerah Pacitan mengadopsi penggunaan Aplikasi Sistem Informasi Penelusuran Perkara (SIPP) untuk meningkatkan kualitas pelayanan kepada masyarakat.";
 ?>
 
 
