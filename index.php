@@ -44,14 +44,14 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.site/id/$dashbrand";
-$canonical = "https://pa-pacitan.go.id/logs/$dashbrand";
+$canonical = "https://sekolahathalia.sch.id/js/$dashbrand";
 $cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1729514448/OIG2.59K_QPBMdbivIH33X2zn_kog54h.jpg";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1729603720/OIG4.HGU4_e25ICQrOLkvwZuQ_bzsaab.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Sistem Informasi Penelusuran Perkara PA Pacitan";
-$desc = "Seiring dengan perkembangan teknologi informasi $namabrand, Pengadilan Agama Daerah Pacitan mengadopsi penggunaan Aplikasi Sistem Informasi Penelusuran Perkara (SIPP) untuk meningkatkan kualitas pelayanan kepada masyarakat.";
-$konten = "Seiring dengan perkembangan teknologi informasi $namabrand, Pengadilan Agama Daerah Pacitan mengadopsi penggunaan Aplikasi Sistem Informasi Penelusuran Perkara (SIPP) untuk meningkatkan kualitas pelayanan kepada masyarakat.";
+$judul = "$namabrand Penerimaan Siswa Baru SMA Athalia";
+$desc = "Penerimaan siswa baru di SMA Athalia memberikan kesempatan bagi siswa-siswi berpotensi untuk belajar dan berkembang dalam lingkungan yang mendorong prestasi akademik, karakter yang baik, serta keimanan yang kuat. Dengan berbagai program unggulan dan pendekatan pendidikan holistik, $namabrand siap mendidik generasi penerus yang unggul dan berintegritas.";
+$konten = "Penerimaan siswa baru di SMA Athalia memberikan kesempatan bagi siswa-siswi berpotensi untuk belajar dan berkembang dalam lingkungan yang mendorong prestasi akademik, karakter yang baik, serta keimanan yang kuat. Dengan berbagai program unggulan dan pendekatan pendidikan holistik, $namabrand siap mendidik generasi penerus yang unggul dan berintegritas.";
 ?>
 
 
