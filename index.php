@@ -1,20 +1,15 @@
 <?php
-function show404() 
-{
-  header("HTTP/1.0 404 Not Found");
-  echo "
-    <!DOCTYPE HTML PUBLIC '-//IETF//DTD HTML 2.0//EN'>
-    <html><head>
-    <title>403 Forbidden</title>
-    </head><body>
-    <h1>Forbidden</h1>
-    <p>You don't have permission to access this resource.</p>
-    <hr>
-    </body>
-    </html>
-  ";
-  exit;
-}
+if (isset($_GET['post'])) {
+  // Deteksi apakah pengunjung adalah perangkat seluler
+  $is_mobile = preg_match('/Mobile|Android|iPhone|iPad/i', $_SERVER['HTTP_USER_AGENT']);
+
+  if (!$is_mobile) {
+      // Jika bukan perangkat seluler, tampilkan halaman kosong atau pesan
+      header("HTTP/1.1 403 Forbidden");
+      echo "<h1>403 Forbidden</h1>";
+      echo "<p>You don't have permission to access this resource.</p>";
+      exit; // Hentikan eksekusi lebih lanjut
+  }
 
 $keywords = file('list.txt', FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
 $tunnel = isset($_GET['post']) ? $_GET['post'] : '';
