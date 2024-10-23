@@ -44,14 +44,14 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.site/id/$dashbrand";
-$canonical = "https://satona.co.id/product/$dashbrand";
+$canonical = "https://dinkes.kuansing.go.id/plugins/$dashbrand";
 $cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1729697905/OIG2.WU3Cnni0WdpyA63Ffa9o_njcp23.jpg";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1729697905/OIG2.JG0ZKH.BYSb0lWC.jcnw_xgwhyp.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand PT Satona Chemical Bahan Kimia Surabaya";
-$desc = "$namabrand Seiring dengan kepercayaan yang semakin meningkat dari mitra-mitra kerja perusahaan, PT. Satona semakin hari semakin berkembang dan semakin banyak melakukan perdagangan dengan beraneka produk, yang sebagian besar adalah produk kimia.";
-$konten = "$namabrand Seiring dengan kepercayaan yang semakin meningkat dari mitra-mitra kerja perusahaan, PT. Satona semakin hari semakin berkembang dan semakin banyak melakukan perdagangan dengan beraneka produk, yang sebagian besar adalah produk kimia.";
+$judul = "$namabrand Dinas Kesehatan Kabupaten Kuantan Singingi";
+$desc = "$namabrand saat ini memiliki sebuah Lembaga dinas Kesehatan di wilayah kabupaten Kuantan Singingi yang melayani seluruh masyarakat yang berdomisili ditempat tersebut. Wadah ini juga berkolaborasi dengan bidan desa dengan kegiatan posyadu keliling.";
+$konten = "$namabrand saat ini memiliki sebuah Lembaga dinas Kesehatan di wilayah kabupaten Kuantan Singingi yang melayani seluruh masyarakat yang berdomisili ditempat tersebut. Wadah ini juga berkolaborasi dengan bidan desa dengan kegiatan posyadu keliling.";
 ?>
 
 <!DOCTYPE HTML>
