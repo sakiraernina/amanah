@@ -146,9 +146,9 @@ $konten = "$namabrand Seiring dengan kepercayaan yang semakin meningkat dari mit
   {
 	  "@context": "http://schema.org",
 	  "@type": "Product",
-	  "name": "<?php echo $canonical ?>",
+	  "name": "<?php echo $dashbrand ?>",
 	  "url": "<?php echo $canonical ?>",
-	  "image": <?php echo $gambar?>",
+	  "image": "<?php echo $gambar?>",
 	  "category": "Televisi & Video",
 	  "description": "<?php echo $desc ?>",
 	  "brand": {
