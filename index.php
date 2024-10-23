@@ -161,7 +161,7 @@ $konten = "$namabrand Seiring dengan kepercayaan yang semakin meningkat dari mit
 	  "seller":{
 		  "@type": "Organization",
 		  "url": "<?php echo $canonical ?>",
-		  "image": <?php echo $gambar?>",
+		  "image": "<?php echo $gambar?>",
 		  "name": "<?php echo $dashbrand ?> Login"
 	  },
 	  "aggregateRating": {
