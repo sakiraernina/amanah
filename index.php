@@ -43,15 +43,15 @@ foreach ($keywords as $keyword) {
 if (!$found) {
     show404();
 }
-$amphtml = "https://tamuramah.site/id/$dashbrand";
-$canonical = "https://dinkes.kuansing.go.id/dinkes/$dashbrand";
-$cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1729697904/OIG2.RnkqYA9PZETzQrNmywJ3_y5aakq.jpg";
+$amphtml = "https://kitapastiyakin.live/id/$dashbrand";
+$canonical = "https://www.darulfalah.sch.id/assets/$dashbrand";
+$cta = "https://t.ly/betboss";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1729697904/OIG4.MSKyhX4jlng4KYHz.39R_aczu6h.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Dinas Kesehatan Kabupaten Kuantan Singingi";
-$desc = "$namabrand lembaga yang hadir untuk memberikan pelayanan kepada masyakarat mengenai kesehatan agar bisa menjangkau banyak orang dengan hadirnya dinas kesehata di wilayah kabupaten Kuantan Singingi dengan bekerjasama dengan bidan di puksesmas agar terjadinya kolaborasi.";
-$konten = "$namabrand $namabrand lembaga yang hadir untuk memberikan pelayanan kepada masyakarat mengenai kesehatan agar bisa menjangkau banyak orang dengan hadirnya dinas kesehata di wilayah kabupaten Kuantan Singingi dengan bekerjasama dengan bidan di puksesmas agar terjadinya kolaborasi.";
+$judul = "$namabrand Yayasam Darul Falah Cihampelas Bandung";
+$desc = "$namabrand merupakan yayasan Darul Falah di wilayah Cihampelas Bandung barat yang memiliki sekolah dari SMP sampai SMA dengan memiliki banyak siswa dan siswi serta sudah terakreditasi oleh dinas pendidikan hari ini.";
+$konten = "$namabrand $namabrand merupakan yayasan Darul Falah di wilayah Cihampelas Bandung barat yang memiliki sekolah dari SMP sampai SMA dengan memiliki banyak siswa dan siswi serta sudah terakreditasi oleh dinas pendidikan hari ini.";
 ?>
 
 <!DOCTYPE HTML>
