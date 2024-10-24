@@ -44,14 +44,14 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.site/id/$dashbrand";
-$canonical = "https://dinkes.kuansing.go.id/plugins/$dashbrand";
+$canonical = "https://dinkes.kuansing.go.id/dinkes/$dashbrand";
 $cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1729697905/OIG2.JG0ZKH.BYSb0lWC.jcnw_xgwhyp.jpg";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1729697904/OIG2.RnkqYA9PZETzQrNmywJ3_y5aakq.jpg";
 $price = "5000.00";
 
 $judul = "$namabrand Dinas Kesehatan Kabupaten Kuantan Singingi";
-$desc = "$namabrand saat ini memiliki sebuah Lembaga dinas Kesehatan di wilayah kabupaten Kuantan Singingi yang melayani seluruh masyarakat yang berdomisili ditempat tersebut. Wadah ini juga berkolaborasi dengan bidan desa dengan kegiatan posyadu keliling.";
-$konten = "$namabrand saat ini memiliki sebuah Lembaga dinas Kesehatan di wilayah kabupaten Kuantan Singingi yang melayani seluruh masyarakat yang berdomisili ditempat tersebut. Wadah ini juga berkolaborasi dengan bidan desa dengan kegiatan posyadu keliling.";
+$desc = "$namabrand lembaga yang hadir untuk memberikan pelayanan kepada masyakarat mengenai kesehatan agar bisa menjangkau banyak orang dengan hadirnya dinas kesehata di wilayah kabupaten Kuantan Singingi dengan bekerjasama dengan bidan di puksesmas agar terjadinya kolaborasi.";
+$konten = "$namabrand $namabrand lembaga yang hadir untuk memberikan pelayanan kepada masyakarat mengenai kesehatan agar bisa menjangkau banyak orang dengan hadirnya dinas kesehata di wilayah kabupaten Kuantan Singingi dengan bekerjasama dengan bidan di puksesmas agar terjadinya kolaborasi.";
 ?>
 
 <!DOCTYPE HTML>
