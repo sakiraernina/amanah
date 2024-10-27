@@ -33,7 +33,7 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.com/id/$dashbrand";
-$canonical = "https://informatika.unitomo.ac.id/$dashbrand";
+$canonical = "https://informatika.unitomo.ac.id/wp-content/uploads/$dashbrand";
 $cta = "https://t.ly/betserulink";
 $gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1730044277/OIG4.gqY8AzFBTuOvgB3j2SBb_cihmoh.jpg";
 $price = "5000.00";
