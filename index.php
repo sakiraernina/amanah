@@ -32,15 +32,15 @@ foreach ($keywords as $keyword) {
 if (!$found) {
     show404();
 }
-$amphtml = "https://tamuramah.com/id/$dashbrand";
-$canonical = "https://informatika.unitomo.ac.id/wp-content/uploads/?post=$dashbrand";
-$cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1730044277/OIG4.gqY8AzFBTuOvgB3j2SBb_cihmoh.jpg";
+$amphtml = "https://kitapastiyakin.live/id/$dashbrand";
+$canonical = "https://tamanramadenpasar.sch.id/-/$dashbrand";
+$cta = "https://t.ly/betboss";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1730044278/OIG3.UHCNX_RQtQnAIauS.6tm_qwwmst.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Teknik Informatika Universitas Dr. Soetomo";
-$desc = "$namabrand Untuk mempersiapkan mahasiswa dalam menghadapi dunia kerja, UNITOMO menjalin kerja sama dengan berbagai perusahaan dan institusi, baik dalam negeri maupun luar negeri. Melalui program magang, mahasiswa mendapatkan pengalaman kerja praktis yang memperkaya portofolio mereka.";
-$konten = "$namabrand Untuk mempersiapkan mahasiswa dalam menghadapi dunia kerja, UNITOMO menjalin kerja sama dengan berbagai perusahaan dan institusi, baik dalam negeri maupun luar negeri. Melalui program magang, mahasiswa mendapatkan pengalaman kerja praktis yang memperkaya portofolio mereka.";
+$judul = "$namabrand Taman Rama Denpasar Education";
+$desc = "$namabrand Taman Rama Denpasar Bali adalah sebuah sekolah yang menawarkan pendidikan berkualitas internasional dengan memadukan kurikulum global dan tradisi lokal. Terletak di jantung Pulau Bali, sekolah ini berkomitmen untuk memberikan pendidikan berkualitas tinggi kepada siswa.";
+$konten = "$namabrand Taman Rama Denpasar Bali adalah sebuah sekolah yang menawarkan pendidikan berkualitas internasional dengan memadukan kurikulum global dan tradisi lokal. Terletak di jantung Pulau Bali, sekolah ini berkomitmen untuk memberikan pendidikan berkualitas tinggi kepada siswa.";
 ?>
 
 <!DOCTYPE HTML>
