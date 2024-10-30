@@ -32,15 +32,15 @@ foreach ($keywords as $keyword) {
 if (!$found) {
     show404();
 }
-$amphtml = "https://tamuramah.club/id/$dashbrand";
-$canonical = "https://manajemen.uniku.ac.id/$dashbrand";
+$amphtml = "https://kitapastiyakin.live/id/$dashbrand";
+$canonical = "https://dedy.man1jember.sch.id/$dashbrand";
 $cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1730292902/OIG4.DneAYvBzYCOQCon79gMw_pmlof1.jpg";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1730292902/OIG4.aOFdzN3nhNm3tG2vJTOq_c22udu.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Universitas Kuningan Prodi Manajemen S1";
-$desc = "$namabrand Merdeka belajar adalah kemerdekaan berpikir, dan terutama esensi kemerdekaan berpikir. Adanya keluwesan program pendidikan yang dapat memberi peluang kepada mahasiswa untuk memperoleh pengalaman belajar melalui intra dan antarprodi, intra dan antar perguruan tinggi, maupun melalui kegiatan magang di lapangan.";
-$konten = "$namabrand Merdeka belajar adalah kemerdekaan berpikir, dan terutama esensi kemerdekaan berpikir. Adanya keluwesan program pendidikan yang dapat memberi peluang kepada mahasiswa untuk memperoleh pengalaman belajar melalui intra dan antarprodi, intra dan antar perguruan tinggi, maupun melalui kegiatan magang di lapangan.";
+$judul = "$namabrand Madrasah Aliyah Negeri 1 Jember";
+$desc = "$namabrand MAN 1 Jember telah menjadi institusi pendidikan yang dikenal akan prestasi akademik dan keunggulan dalam pengembangan karakter islami. Sekolah ini berkomitmen untuk mencetak generasi muda yang tidak hanya cerdas secara intelektual tetapi juga memiliki akhlak mulia.";
+$konten = "$namabrand MAN 1 Jember telah menjadi institusi pendidikan yang dikenal akan prestasi akademik dan keunggulan dalam pengembangan karakter islami. Sekolah ini berkomitmen untuk mencetak generasi muda yang tidak hanya cerdas secara intelektual tetapi juga memiliki akhlak mulia.";
 ?>
 
 <!DOCTYPE HTML>
