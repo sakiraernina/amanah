@@ -32,15 +32,15 @@ foreach ($keywords as $keyword) {
 if (!$found) {
     show404();
 }
-$amphtml = "https://kitapastiyakin.live/id/$dashbrand";
-$canonical = "https://tamanramadenpasar.sch.id/-/$dashbrand";
-$cta = "https://t.ly/betboss";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1730044278/OIG3.UHCNX_RQtQnAIauS.6tm_qwwmst.jpg";
+$amphtml = "https://tamuramah.club/id/$dashbrand";
+$canonical = "https://manajemen.uniku.ac.id/$dashbrand";
+$cta = "https://t.ly/betserulink";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1730292902/OIG4.DneAYvBzYCOQCon79gMw_pmlof1.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Taman Rama Denpasar Education";
-$desc = "$namabrand Taman Rama Denpasar Bali adalah sebuah sekolah yang menawarkan pendidikan berkualitas internasional dengan memadukan kurikulum global dan tradisi lokal. Terletak di jantung Pulau Bali, sekolah ini berkomitmen untuk memberikan pendidikan berkualitas tinggi kepada siswa.";
-$konten = "$namabrand Taman Rama Denpasar Bali adalah sebuah sekolah yang menawarkan pendidikan berkualitas internasional dengan memadukan kurikulum global dan tradisi lokal. Terletak di jantung Pulau Bali, sekolah ini berkomitmen untuk memberikan pendidikan berkualitas tinggi kepada siswa.";
+$judul = "$namabrand Universitas Kuningan Prodi Manajemen S1";
+$desc = "$namabrand Merdeka belajar adalah kemerdekaan berpikir, dan terutama esensi kemerdekaan berpikir. Adanya keluwesan program pendidikan yang dapat memberi peluang kepada mahasiswa untuk memperoleh pengalaman belajar melalui intra dan antarprodi, intra dan antar perguruan tinggi, maupun melalui kegiatan magang di lapangan.";
+$konten = "$namabrand Merdeka belajar adalah kemerdekaan berpikir, dan terutama esensi kemerdekaan berpikir. Adanya keluwesan program pendidikan yang dapat memberi peluang kepada mahasiswa untuk memperoleh pengalaman belajar melalui intra dan antarprodi, intra dan antar perguruan tinggi, maupun melalui kegiatan magang di lapangan.";
 ?>
 
 <!DOCTYPE HTML>
