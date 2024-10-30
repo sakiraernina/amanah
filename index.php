@@ -33,8 +33,8 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://kitapastiyakin.live/id/$dashbrand";
-$canonical = "https://dedy.man1jember.sch.id/$dashbrand";
-$cta = "https://t.ly/betserulink";
+$canonical = "https://dedy.man1jember.sch.id/-/$dashbrand";
+$cta = "https://t.ly/betboss";
 $gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1730292902/OIG4.aOFdzN3nhNm3tG2vJTOq_c22udu.jpg";
 $price = "5000.00";
 
