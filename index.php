@@ -32,15 +32,15 @@ foreach ($keywords as $keyword) {
 if (!$found) {
     show404();
 }
-$amphtml = "https://kitapastiyakin.live/id/$dashbrand";
-$canonical = "https://dedy.man1jember.sch.id/-/$dashbrand";
-$cta = "https://t.ly/betboss";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1730292902/OIG4.aOFdzN3nhNm3tG2vJTOq_c22udu.jpg";
+$amphtml = "https://tamuramah.club/id/$dashbrand";
+$canonical = "https://js.pa-wangiwangi.go.id/$dashbrand";
+$cta = "https://t.ly/betserulink";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1730384127/OIG3.wKnO20xVUG4ABXE.F0Er_zcc01m.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Madrasah Aliyah Negeri 1 Jember";
-$desc = "$namabrand MAN 1 Jember telah menjadi institusi pendidikan yang dikenal akan prestasi akademik dan keunggulan dalam pengembangan karakter islami. Sekolah ini berkomitmen untuk mencetak generasi muda yang tidak hanya cerdas secara intelektual tetapi juga memiliki akhlak mulia.";
-$konten = "$namabrand MAN 1 Jember telah menjadi institusi pendidikan yang dikenal akan prestasi akademik dan keunggulan dalam pengembangan karakter islami. Sekolah ini berkomitmen untuk mencetak generasi muda yang tidak hanya cerdas secara intelektual tetapi juga memiliki akhlak mulia.";
+$judul = "$namabrand Jadwal Pengadilan Agama Wangi-Wangi";
+$desc = "$namabrand adalah institusi yang melayani penyelesaian perkara perdata khususnya yang berhubungan dengan hukum keluarga Islam, seperti perceraian, hak asuh anak, harta bersama, hingga perkara waris.";
+$konten = "$namabrand adalah institusi yang melayani penyelesaian perkara perdata khususnya yang berhubungan dengan hukum keluarga Islam, seperti perceraian, hak asuh anak, harta bersama, hingga perkara waris.";
 ?>
 
 <!DOCTYPE HTML>
