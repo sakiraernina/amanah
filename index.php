@@ -33,14 +33,14 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.club/id/$dashbrand";
-$canonical = "https://absen.stkiprosaliametro.ac.id/absen/?post=$dashbrand";
+$canonical = "http://siswas.bappebti.go.id/themes/$dashbrand";
 $cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1730384127/OIG3.Wg9OhK3IPyoteJ.pO9Fj_tvxosw.jpg";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1730549662/OIG2.jeL92dIB.tdS9o7NAad__p7o5zq.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Sistem Informasi Akademik STKIP Rosalia";
-$desc = "$namabrand merupakan salah satu alat penting dalam mengelola data dan informasi yang berkaitan dengan kegiatan akademik. Dengan kemajuan teknologi, SIA membantu meningkatkan efisiensi administrasi, mempermudah akses informasi, serta meningkatkan pengalaman belajar bagi mahasiswa.";
-$konten = "$namabrand merupakan salah satu alat penting dalam mengelola data dan informasi yang berkaitan dengan kegiatan akademik. Dengan kemajuan teknologi, SIA membantu meningkatkan efisiensi administrasi, mempermudah akses informasi, serta meningkatkan pengalaman belajar bagi mahasiswa.";
+$judul = "$namabrand Mengembangkan Pasar Komoditi Berjangka";
+$desc = "$namabrand adalah lembaga pemerintah di bawah Kementerian Perdagangan Republik Indonesia yang bertugas mengawasi, mengatur, dan mengembangkan perdagangan berjangka komoditi untuk semua daerah.";
+$konten = "$namabrand adalah lembaga pemerintah di bawah Kementerian Perdagangan Republik Indonesia yang bertugas mengawasi, mengatur, dan mengembangkan perdagangan berjangka komoditi untuk semua daerah.";
 ?>
 
 <!DOCTYPE HTML>
