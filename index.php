@@ -33,14 +33,14 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.club/id/$dashbrand";
-$canonical = "http://siswas.bappebti.go.id/themes/$dashbrand";
+$canonical = "https://smkn5blampung.sch.id/bkk/$dashbrand";
 $cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1730549662/OIG2.jeL92dIB.tdS9o7NAad__p7o5zq.jpg";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1730731573/OIG4.NM1f80vu9kcgV177IhzH_clqhsu.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Mengembangkan Pasar Komoditi Berjangka";
-$desc = "$namabrand adalah lembaga pemerintah di bawah Kementerian Perdagangan Republik Indonesia yang bertugas mengawasi, mengatur, dan mengembangkan perdagangan berjangka komoditi untuk semua daerah.";
-$konten = "$namabrand adalah lembaga pemerintah di bawah Kementerian Perdagangan Republik Indonesia yang bertugas mengawasi, mengatur, dan mengembangkan perdagangan berjangka komoditi untuk semua daerah.";
+$judul = "$namabrand Bursa Kerja Khusus SMKN 5 Bandar Lampung";
+$desc = "$namabrand memberikan kemajuan untuk setiap siswa dan siswi yang ingin mengikuti forum bursa kerja khususnya di sekolah SMK Negeri 5 di kota Bandar Lampung dengan mudah dan gratis.";
+$konten = "$namabrand memberikan kemajuan untuk setiap siswa dan siswi yang ingin mengikuti forum bursa kerja khususnya di sekolah SMK Negeri 5 di kota Bandar Lampung dengan mudah dan gratis.";
 ?>
 
 <!DOCTYPE HTML>
