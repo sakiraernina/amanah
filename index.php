@@ -33,14 +33,14 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.club/id/$dashbrand";
-$canonical = "https://smkn5blampung.sch.id/bkk/$dashbrand";
+$canonical = "https://manselayar.sch.id/assets/$dashbrand";
 $cta = "https://t.ly/betserulink";
 $gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1730731573/OIG4.NM1f80vu9kcgV177IhzH_clqhsu.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Bursa Kerja Khusus SMKN 5 Bandar Lampung";
-$desc = "$namabrand memberikan kemajuan untuk setiap siswa dan siswi yang ingin mengikuti forum bursa kerja khususnya di sekolah SMK Negeri 5 di kota Bandar Lampung dengan mudah dan gratis.";
-$konten = "$namabrand memberikan kemajuan untuk setiap siswa dan siswi yang ingin mengikuti forum bursa kerja khususnya di sekolah SMK Negeri 5 di kota Bandar Lampung dengan mudah dan gratis.";
+$judul = "$namabrand Madrasah Aliyah Negeri Kepulauan Selayar";
+$desc = "$namabrand sekolah negeri Madrasah Aliya dari Kepulauan Selayar memberikan fasilitas terbaru untuk setiap siswa dan siswi yang ingin belajar untuk melanjukan dan mempersiapkan ke pendidikan yang lebih tinggi.";
+$konten = "$namabrand sekolah negeri Madrasah Aliya dari Kepulauan Selayar memberikan fasilitas terbaru untuk setiap siswa dan siswi yang ingin belajar untuk melanjukan dan mempersiapkan ke pendidikan yang lebih tinggi.";
 ?>
 
 <!DOCTYPE HTML>
