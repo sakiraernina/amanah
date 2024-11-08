@@ -32,15 +32,15 @@ foreach ($keywords as $keyword) {
 if (!$found) {
     show404();
 }
-$amphtml = "https://tamuramah.club/id/$dashbrand";
-$canonical = "https://manselayar.sch.id/assets/$dashbrand";
+$amphtml = "https://tamuramah.store/id/$dashbrand";
+$canonical = "https://stkiprosaliametro.ac.id/resources/$dashbrand";
 $cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1730731573/OIG4.NM1f80vu9kcgV177IhzH_clqhsu.jpg";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1730815425/OIG1.kgN5dmhp2XE1IxNzPSUd_mdu9lk.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Madrasah Aliyah Negeri Kepulauan Selayar";
-$desc = "$namabrand sekolah negeri Madrasah Aliya dari Kepulauan Selayar memberikan fasilitas terbaru untuk setiap siswa dan siswi yang ingin belajar untuk melanjukan dan mempersiapkan ke pendidikan yang lebih tinggi.";
-$konten = "$namabrand sekolah negeri Madrasah Aliya dari Kepulauan Selayar memberikan fasilitas terbaru untuk setiap siswa dan siswi yang ingin belajar untuk melanjukan dan mempersiapkan ke pendidikan yang lebih tinggi.";
+$judul = "$namabrand Pendaftaran Mahasiswa STKIP Rosalia";
+$desc = "$namabrand memberikan ruang untuk pendaftaran mahasiswa baru dengan kuota yang terbatas karena banyaknya pendaftar dari berbagai sekolah SMA maupun SMK dengan persaingan yang cukup kuat serta terbatasnya jumlah kelas.";
+$konten = "$namabrand memberikan ruang untuk pendaftaran mahasiswa baru dengan kuota yang terbatas karena banyaknya pendaftar dari berbagai sekolah SMA maupun SMK dengan persaingan yang cukup kuat serta terbatasnya jumlah kelas.";
 ?>
 
 <!DOCTYPE HTML>
