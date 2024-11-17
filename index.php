@@ -33,14 +33,14 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.com/id/$dashbrand";
-$canonical = "https://iconf.unikastpaulus.ac.id/assets/$dashbrand";
+$canonical = "https://conference.umk.ac.id/cache/$dashbrand";
 $cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1731840465/OIG1.z0HwWvZvTyWOWNWyN.yd_c1k3bo.jpg";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1731680826/OIG3.DXIh4TfBCHHsZOuWKzB._apctkm.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand International Conference on Education";
-$desc = "$namabrand memberikan ruang kepada setiap mahasiswa dan mahasiwi agar dapat menghadiri acara International Conference untuk Edukasi agar mereka bisa mendapatkan pengalaman serta networking di dunia kerja setelah selesai pendidikan nantinya.";
-$konten = "$namabrand memberikan ruang kepada setiap mahasiswa dan mahasiwi agar dapat menghadiri acara International Conference untuk Edukasi agar mereka bisa mendapatkan pengalaman serta networking di dunia kerja setelah selesai pendidikan nantinya.";
+$judul = "$namabrand Sunan Sinau Temenanan E-Learning UMK";
+$desc = "$namabrand memiliki platform e-learning di kampus UMK yang disediakan untuk keperluan mahasiswa serta mahasiswi yang ingin belajar dan sharing ilmu melalui website serta aplikasi learning secara online yang sudah disediakan secara gratis.";
+$konten = "$namabrand memiliki platform e-learning di kampus UMK yang disediakan untuk keperluan mahasiswa serta mahasiswi yang ingin belajar dan sharing ilmu melalui website serta aplikasi learning secara online yang sudah disediakan secara gratis.";
 ?>
 
 <!DOCTYPE HTML>
