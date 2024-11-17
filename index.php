@@ -33,12 +33,12 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.com/id/$dashbrand";
-$canonical = "https://stmik-bandung.ac.id/assets/$dashbrand";
+$canonical = "https://iconf.unikastpaulus.ac.id/assets/$dashbrand";
 $cta = "https://t.ly/betserulink";
 $gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1731840465/OIG1.pAySQ_O5WYP8RRfdmzF__willin.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Pendaftaran Mahasiswa STMIK Bandung";
+$judul = "$namabrand International Conference on Education";
 $desc = "$namabrand saat ini menjadi portal untuk pendaftaran mahasiswa baru di STMIK Bandung dengan ditambahnya kuota masuk yang cukup banyak agar dapat menampung semua pelajar yang ingin meneruskan pendidikan ketingkat yang lebih tinggi lagi.";
 $konten = "$namabrand saat ini menjadi portal untuk pendaftaran mahasiswa baru di STMIK Bandung dengan ditambahnya kuota masuk yang cukup banyak agar dapat menampung semua pelajar yang ingin meneruskan pendidikan ketingkat yang lebih tinggi lagi.";
 ?>
