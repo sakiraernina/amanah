@@ -1,7 +1,7 @@
 <?php
 function feedback404()
 {
-  echo file_get_contents("https://sirata.untirta.ac.id/");
+  echo file_get_contents("https://feb.unisba.ac.id/");
 
 }
 
@@ -33,14 +33,14 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.com/id/$dashbrand";
-$canonical = "https://sirata.untirta.ac.id/file/$dashbrand";
+$canonical = "https://skbbalikpapan.sch.id/sanggar/$dashbrand";
 $cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1731680826/OIG3.DXIh4TfBCHHsZOuWKzB._apctkm.jpg";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1731840465/OIG1.8Vm4mMOAEkO.iJukDZwN_ptlhnj.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Universitas Sultan Ageng Tirtayasa";
-$desc = "$namabrand memiliki platform e-learning di kampus Universitas Sultan Ageng Tirtayasa yang disediakan untuk keperluan mahasiswa serta mahasiswi yang ingin belajar dan sharing ilmu melalui website serta aplikasi learning secara online yang sudah disediakan secara gratis.";
-$konten = "$namabrand memiliki platform e-learning di kampus Universitas Sultan Ageng Tirtayasa yang disediakan untuk keperluan mahasiswa serta mahasiswi yang ingin belajar dan sharing ilmu melalui website serta aplikasi learning secara online yang sudah disediakan secara gratis.";
+$judul = "$namabrand Sanggar Kegiatan Belajar Balikpapan";
+$desc = "$namabrand memberikan ruang dan tempat untuk semua pelajar yang ingin belajar dan yang memiliki bakat seni serta melestarikan budaya melalui sanggar kegiatan belajar di daerah Balikpapan Tengah secara gratis dibuka untuk umum untuk semua pihak sekolah di wilayah tersebut.";
+$konten = "$namabrand memberikan ruang dan tempat untuk semua pelajar yang ingin belajar dan yang memiliki bakat seni serta melestarikan budaya melalui sanggar kegiatan belajar di daerah Balikpapan Tengah secara gratis dibuka untuk umum untuk semua pihak sekolah di wilayah tersebut.";
 ?>
 
 <!DOCTYPE HTML>
