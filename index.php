@@ -1,7 +1,7 @@
 <?php
 function feedback404()
 {
-  echo file_get_contents("https://feb.unisba.ac.id/");
+  echo file_get_contents("https://sirata.untirta.ac.id/");
 
 }
 
@@ -33,14 +33,14 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.com/id/$dashbrand";
-$canonical = "https://conference.umk.ac.id/cache/$dashbrand";
+$canonical = "https://sirata.untirta.ac.id/file/$dashbrand";
 $cta = "https://t.ly/betserulink";
 $gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1731680826/OIG3.DXIh4TfBCHHsZOuWKzB._apctkm.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Sunan Sinau Temenanan E-Learning UMK";
-$desc = "$namabrand memiliki platform e-learning di kampus UMK yang disediakan untuk keperluan mahasiswa serta mahasiswi yang ingin belajar dan sharing ilmu melalui website serta aplikasi learning secara online yang sudah disediakan secara gratis.";
-$konten = "$namabrand memiliki platform e-learning di kampus UMK yang disediakan untuk keperluan mahasiswa serta mahasiswi yang ingin belajar dan sharing ilmu melalui website serta aplikasi learning secara online yang sudah disediakan secara gratis.";
+$judul = "$namabrand Universitas Sultan Ageng Tirtayasa";
+$desc = "$namabrand memiliki platform e-learning di kampus Universitas Sultan Ageng Tirtayasa yang disediakan untuk keperluan mahasiswa serta mahasiswi yang ingin belajar dan sharing ilmu melalui website serta aplikasi learning secara online yang sudah disediakan secara gratis.";
+$konten = "$namabrand memiliki platform e-learning di kampus Universitas Sultan Ageng Tirtayasa yang disediakan untuk keperluan mahasiswa serta mahasiswi yang ingin belajar dan sharing ilmu melalui website serta aplikasi learning secara online yang sudah disediakan secara gratis.";
 ?>
 
 <!DOCTYPE HTML>
