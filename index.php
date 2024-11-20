@@ -33,14 +33,14 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.com/id/$dashbrand";
-$canonical = "https://skbbalikpapan.sch.id/sanggar/$dashbrand";
+$canonical = "https://sidokars.rsudsaptosari.com/uploads/$dashbrand";
 $cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1731840465/OIG1.8Vm4mMOAEkO.iJukDZwN_ptlhnj.jpg";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1732029618/OIG1.sQ1cS.03.OjsgY1gHUdR_qob11e.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Sanggar Kegiatan Belajar Balikpapan";
-$desc = "$namabrand memberikan ruang dan tempat untuk semua pelajar yang ingin belajar dan yang memiliki bakat seni serta melestarikan budaya melalui sanggar kegiatan belajar di daerah Balikpapan Tengah secara gratis dibuka untuk umum untuk semua pihak sekolah di wilayah tersebut.";
-$konten = "$namabrand memberikan ruang dan tempat untuk semua pelajar yang ingin belajar dan yang memiliki bakat seni serta melestarikan budaya melalui sanggar kegiatan belajar di daerah Balikpapan Tengah secara gratis dibuka untuk umum untuk semua pihak sekolah di wilayah tersebut.";
+$judul = "$namabrand RSUD Saptosari Gunungkidul";
+$desc = "$namabrand menjadi salah satu aplikasi yang digunakan oleh RSUD Saptosari Gunungkidul untuk memberikan pelayanan kepada masyarakat setempat secara online dan juga tersedia layanan konsutasi secara gratis bagi warga yang membutuhkan mengenai kesehatan mereka hari ini.";
+$konten = "$namabrand menjadi salah satu aplikasi yang digunakan oleh RSUD Saptosari Gunungkidul untuk memberikan pelayanan kepada masyarakat setempat secara online dan juga tersedia layanan konsutasi secara gratis bagi warga yang membutuhkan mengenai kesehatan mereka hari ini.";
 ?>
 
 <!DOCTYPE HTML>
