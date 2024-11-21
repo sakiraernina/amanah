@@ -1,7 +1,7 @@
 <?php
 function feedback404()
 {
-  echo file_get_contents("https://feb.unisba.ac.id/");
+  echo file_get_contents("https://poltekindonusa.ac.id/");
 
 }
 
@@ -33,14 +33,14 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.com/id/$dashbrand";
-$canonical = "https://sidokars.rsudsaptosari.com/uploads/$dashbrand";
+$canonical = "https://medievaluniversity.org/$dashbrand";
 $cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1732029618/OIG1.sQ1cS.03.OjsgY1gHUdR_qob11e.jpg";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1732196684/OIG4.VMYSz_z7.dyAU_YRkHGs_uumn1p.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand RSUD Saptosari Gunungkidul";
-$desc = "$namabrand menjadi salah satu aplikasi yang digunakan oleh RSUD Saptosari Gunungkidul untuk memberikan pelayanan kepada masyarakat setempat secara online dan juga tersedia layanan konsutasi secara gratis bagi warga yang membutuhkan mengenai kesehatan mereka hari ini.";
-$konten = "$namabrand menjadi salah satu aplikasi yang digunakan oleh RSUD Saptosari Gunungkidul untuk memberikan pelayanan kepada masyarakat setempat secara online dan juga tersedia layanan konsutasi secara gratis bagi warga yang membutuhkan mengenai kesehatan mereka hari ini.";
+$judul = "$namabrand Medieval University Curriculum";
+$desc = "$namabrand Medieval universities, emerging between the 11th and 15th centuries in Europe, were centers of intellectual life and education. Their curriculum was deeply rooted in the classical traditions of ancient Greece and Rome, with a strong influence from Christian theology.";
+$konten = "$namabrand Medieval universities, emerging between the 11th and 15th centuries in Europe, were centers of intellectual life and education. Their curriculum was deeply rooted in the classical traditions of ancient Greece and Rome, with a strong influence from Christian theology.";
 ?>
 
 <!DOCTYPE HTML>
