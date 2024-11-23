@@ -33,14 +33,14 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.com/id/$dashbrand";
-$canonical = "https://medievaluniversity.org/$dashbrand";
+$canonical = "https://bappeda.kedirikota.go.id/emonev/app/$dashbrand";
 $cta = "https://t.ly/betserulink";
 $gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1732196684/OIG4.VMYSz_z7.dyAU_YRkHGs_uumn1p.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Medieval University Curriculum";
-$desc = "$namabrand Medieval universities, emerging between the 11th and 15th centuries in Europe, were centers of intellectual life and education. Their curriculum was deeply rooted in the classical traditions of ancient Greece and Rome, with a strong influence from Christian theology.";
-$konten = "$namabrand Medieval universities, emerging between the 11th and 15th centuries in Europe, were centers of intellectual life and education. Their curriculum was deeply rooted in the classical traditions of ancient Greece and Rome, with a strong influence from Christian theology.";
+$judul = "$namabrand Koordinator Bappeda Kota Kediri";
+$desc = "$namabrand mewujudkan pembangunan berkualitas untuk perencanaan Bappeda di kota Kediri yang handal melalui berbagai startegi serta inovasi yang selalu mengutamakan transparansi dan juga pemerintah yang bersih dari segala bentuk tindakan yang menyimpang.";
+$konten = "$namabrand mewujudkan pembangunan berkualitas untuk perencanaan Bappeda di kota Kediri yang handal melalui berbagai startegi serta inovasi yang selalu mengutamakan transparansi dan juga pemerintah yang bersih dari segala bentuk tindakan yang menyimpang.";
 ?>
 
 <!DOCTYPE HTML>
