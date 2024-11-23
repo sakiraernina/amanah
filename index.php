@@ -33,7 +33,7 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.com/id/$dashbrand";
-$canonical = "https://bappeda.kedirikota.go.id/emonev/app/$dashbrand";
+$canonical = "https://bappeda.kedirikota.go.id/emonev/storage/$dashbrand";
 $cta = "https://t.ly/betserulink";
 $gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1732196684/OIG4.VMYSz_z7.dyAU_YRkHGs_uumn1p.jpg";
 $price = "5000.00";
