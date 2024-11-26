@@ -33,14 +33,14 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.com/id/$dashbrand";
-$canonical = "https://esmpktulungagung.sch.id/siswa/$dashbrand";
+$canonical = "https://uhb.ac.id/id/$dashbrand";
 $cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1730549662/OIG2.qSxuSeAyax9bWZ2WQoqd_ed0q4o.jpg";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1731680826/OIG3.RMHqE08xz2doWlldPmyx_w2kfth.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Sistem Absensi Siswa SMP Tulungagung";
-$desc = "$namabrand merupakan sebuah inovasi teknologi yang dirancang untuk mempermudah pencatatan kehadiran siswa secara efektif dan efisien. Sistem ini menggunakan metode digital yang memungkinkan siswa untuk melakukan absensi melalui perangkat berbasis aplikasi atau perangkat khusus.";
-$konten = "$namabrand merupakan sebuah inovasi teknologi yang dirancang untuk mempermudah pencatatan kehadiran siswa secara efektif dan efisien. Sistem ini menggunakan metode digital yang memungkinkan siswa untuk melakukan absensi melalui perangkat berbasis aplikasi atau perangkat khusus.";
+$judul = "$namabrand Fakultas Universitas Harapan Bangsa";
+$desc = "$namabrand memiliki fakultas yang menjadi unggulan salah satu contohnya adalah Keperawatan, Farmasi, Kebidanan, serta masih banyak lagi dengan grade tinggi untuk mahasiswa yang ingin melanjutkan pendidikan ke tingkat yang lebih tinggi melalui kampus ternama ini.";
+$konten = "$namabrand memiliki fakultas yang menjadi unggulan salah satu contohnya adalah Keperawatan, Farmasi, Kebidanan, serta masih banyak lagi dengan grade tinggi untuk mahasiswa yang ingin melanjutkan pendidikan ke tingkat yang lebih tinggi melalui kampus ternama ini.";
 ?>
 
 <!DOCTYPE HTML>
