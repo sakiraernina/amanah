@@ -33,14 +33,14 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.com/id/$dashbrand";
-$canonical = "https://cbt.almujahidinjoglo.or.id/temp/$dashbrand";
+$canonical = "https://stiaprimabone.ac.id/albums/$dashbrand";
 $cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1732029618/OIG1..Y4mTjBBGaMLp7EyRAQd_xszlta.jpg";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1730549662/OIG2.jeL92dIB.tdS9o7NAad__p7o5zq.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand PPDB Online Yaspendis Al-Mujahidin";
-$desc = "$namabrand merupakan yayasan pendidikan Islam Yaspendis Al-Mujahidin untuk bisa mendaftarkan siswa dan siswi agar bisa belajar di sekolah ini dengan mudah ditambah ada fasilitas yang bagus untuk mereka bisa belajar dengan baik sesuai dengan kurikulum yang diajarkan.";
-$konten = "$namabrand merupakan yayasan pendidikan Islam Yaspendis Al-Mujahidin untuk bisa mendaftarkan siswa dan siswi agar bisa belajar di sekolah ini dengan mudah ditambah ada fasilitas yang bagus untuk mereka bisa belajar dengan baik sesuai dengan kurikulum yang diajarkan.";
+$judul = "$namabrand Sekolah Tinggi Ilmu Administrasi Bone";
+$desc = "$namabrand STIA Bone juga aktif dalam mendukung kegiatan penelitian dan pengabdian kepada masyarakat, menjadikannya sebagai bagian penting dari misinya untuk memberikan dampak positif bagi lingkungan sekitar.";
+$konten = "$namabrand STIA Bone juga aktif dalam mendukung kegiatan penelitian dan pengabdian kepada masyarakat, menjadikannya sebagai bagian penting dari misinya untuk memberikan dampak positif bagi lingkungan sekitar. Dengan fasilitas yang memadai dan tenaga pengajar yang berpengalaman, STIA Bone berkomitmen untuk mencetak lulusan yang mampu menghadapi tantangan global serta berkontribusi dalam pembangunan daerah dan nasional.";
 ?>
 
 <!DOCTYPE HTML>
