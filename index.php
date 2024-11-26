@@ -33,7 +33,7 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.com/id/$dashbrand";
-$canonical = "https://absensi.man2kotabjm.sch.id/storage/$dashbrand";
+$canonical = "https://absensi.man2kotabjm.sch.id/siswa/$dashbrand";
 $cta = "https://t.ly/betserulink";
 $gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1730549662/OIG2.qSxuSeAyax9bWZ2WQoqd_ed0q4o.jpg";
 $price = "5000.00";
