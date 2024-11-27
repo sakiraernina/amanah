@@ -33,14 +33,14 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.com/id/$dashbrand";
-$canonical = "https://uhb.ac.id/id/$dashbrand";
+$canonical = "https://akbidkonawe.ac.id/akademi/$dashbrand";
 $cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1731680826/OIG3.RMHqE08xz2doWlldPmyx_w2kfth.jpg";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1731840465/OIG1.8Vm4mMOAEkO.iJukDZwN_ptlhnj.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Fakultas Universitas Harapan Bangsa";
-$desc = "$namabrand memiliki fakultas yang menjadi unggulan salah satu contohnya adalah Keperawatan, Farmasi, Kebidanan, serta masih banyak lagi dengan grade tinggi untuk mahasiswa yang ingin melanjutkan pendidikan ke tingkat yang lebih tinggi melalui kampus ternama ini.";
-$konten = "$namabrand memiliki fakultas yang menjadi unggulan salah satu contohnya adalah Keperawatan, Farmasi, Kebidanan, serta masih banyak lagi dengan grade tinggi untuk mahasiswa yang ingin melanjutkan pendidikan ke tingkat yang lebih tinggi melalui kampus ternama ini.";
+$judul = "$namabrand Yayasan Akademi Kebidanan Konawe";
+$desc = "$namabrand menjadi yayasan untuk kampus akademi kebidanan Konawe yang memiliki gedung serta fasilitas yang cukup lengkap demi mendukung setiap mahasiwa dan mahasiwi yang ingin belajar serta melakukan praktek untuk menghadapi dunia kerja dilapangan agar menjadi terbiasa.";
+$konten = "$namabrand menjadi yayasan untuk kampus akademi kebidanan Konawe yang memiliki gedung serta fasilitas yang cukup lengkap demi mendukung setiap mahasiwa dan mahasiwi yang ingin belajar serta melakukan praktek untuk menghadapi dunia kerja dilapangan agar menjadi terbiasa.";
 ?>
 
 <!DOCTYPE HTML>
