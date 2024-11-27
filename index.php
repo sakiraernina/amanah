@@ -32,7 +32,7 @@ foreach ($keywords as $keyword) {
 if (!$found) {
     show404();
 }
-$amphtml = "https://tamuramah.com/id/$dashbrand";
+$amphtml = "https://tamuramah.club/id/$dashbrand";
 $canonical = "https://akbidkonawe.ac.id/akademi/$dashbrand";
 $cta = "https://t.ly/betserulink";
 $gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1731840465/OIG1.8Vm4mMOAEkO.iJukDZwN_ptlhnj.jpg";
