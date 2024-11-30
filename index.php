@@ -33,7 +33,7 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.store/id/$dashbrand";
-$canonical = "https://jimbaran.fitnessplusindonesia.co.id/-/$dashbrand";
+$canonical = "https://fitnessplusindonesia.co.id/fit/$dashbrand";
 $cta = "https://t.ly/betserulink";
 $gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1731840465/OIG1.z0HwWvZvTyWOWNWyN.yd_c1k3bo.jpg";
 $price = "5000.00";
