@@ -32,15 +32,15 @@ foreach ($keywords as $keyword) {
 if (!$found) {
     show404();
 }
-$amphtml = "https://tamuramah.club/id/$dashbrand";
-$canonical = "https://akbidkonawe.ac.id/akademi/$dashbrand";
+$amphtml = "https://tamuramah.store/id/$dashbrand";
+$canonical = "https://jimbaran.fitnessplusindonesia.co.id/-/$dashbrand";
 $cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1731840465/OIG1.8Vm4mMOAEkO.iJukDZwN_ptlhnj.jpg";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1731840465/OIG1.z0HwWvZvTyWOWNWyN.yd_c1k3bo.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Yayasan Akademi Kebidanan Konawe";
-$desc = "$namabrand menjadi yayasan untuk kampus akademi kebidanan Konawe yang memiliki gedung serta fasilitas yang cukup lengkap demi mendukung setiap mahasiwa dan mahasiwi yang ingin belajar serta melakukan praktek untuk menghadapi dunia kerja dilapangan agar menjadi terbiasa.";
-$konten = "$namabrand menjadi yayasan untuk kampus akademi kebidanan Konawe yang memiliki gedung serta fasilitas yang cukup lengkap demi mendukung setiap mahasiwa dan mahasiwi yang ingin belajar serta melakukan praktek untuk menghadapi dunia kerja dilapangan agar menjadi terbiasa.";
+$judul = "$namabrand Jimbaran Fitness Plus Indonesia";
+$desc = "$namabrand menyediakan tempat untuk olahraga baik itu untuk gym dengan alat yang sangat lengkap serta ruangan yoga dan zumba untuk semua orang yang memiliki kartu member bulanan bisa mendapatkan semua fasilitas yang tersedia dengan harga yang cukup murah ditambah diskon menarik.";
+$konten = "$namabrand menyediakan tempat untuk olahraga baik itu untuk gym dengan alat yang sangat lengkap serta ruangan yoga dan zumba untuk semua orang yang memiliki kartu member bulanan bisa mendapatkan semua fasilitas yang tersedia dengan harga yang cukup murah ditambah diskon menarik.";
 ?>
 
 <!DOCTYPE HTML>
