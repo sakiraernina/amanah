@@ -33,14 +33,14 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.store/id/$dashbrand";
-$canonical = "https://fitnessplusindonesia.co.id/fit/$dashbrand";
+$canonical = "https://bamcargo.co.id/-/$dashbrand";
 $cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1731840465/OIG1.z0HwWvZvTyWOWNWyN.yd_c1k3bo.jpg";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1730815425/OIG1.sTOsIfjJDG3TLpuAqkBK_lfwhf9.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Jimbaran Fitness Plus Indonesia";
-$desc = "$namabrand menyediakan tempat untuk olahraga baik itu untuk gym dengan alat yang sangat lengkap serta ruangan yoga dan zumba untuk semua orang yang memiliki kartu member bulanan bisa mendapatkan semua fasilitas yang tersedia dengan harga yang cukup murah ditambah diskon menarik.";
-$konten = "$namabrand menyediakan tempat untuk olahraga baik itu untuk gym dengan alat yang sangat lengkap serta ruangan yoga dan zumba untuk semua orang yang memiliki kartu member bulanan bisa mendapatkan semua fasilitas yang tersedia dengan harga yang cukup murah ditambah diskon menarik.";
+$judul = "$namabrand Ekspedisi Cargo Murah Specialis";
+$desc = "$namabrand BAM Cargo adalah perusahaan jasa pengiriman dan logistik yang telah berpengalaman dalam menangani berbagai jenis pengiriman barang. Dengan jaringan luas dan layanan profesional, BAM Cargo menjadi pilihan utama bagi pelanggan yang mencari kecepatan, keamanan, dan keandalan dalam pengiriman barang.";
+$konten = "$namabrand BAM Cargo adalah perusahaan jasa pengiriman dan logistik yang telah berpengalaman dalam menangani berbagai jenis pengiriman barang. Dengan jaringan luas dan layanan profesional, BAM Cargo menjadi pilihan utama bagi pelanggan yang mencari kecepatan, keamanan, dan keandalan dalam pengiriman barang.";
 ?>
 
 <!DOCTYPE HTML>
