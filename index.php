@@ -33,14 +33,14 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.store/id/$dashbrand";
-$canonical = "https://bamcargo.co.id/-/$dashbrand";
+$canonical = "https://sireg.uinbanten.ac.id/asset/$dashbrand";
 $cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1730815425/OIG1.sTOsIfjJDG3TLpuAqkBK_lfwhf9.jpg";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1730815425/OIG1.kgN5dmhp2XE1IxNzPSUd_mdu9lk.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Ekspedisi Cargo Murah Specialis";
-$desc = "$namabrand BAM Cargo adalah perusahaan jasa pengiriman dan logistik yang telah berpengalaman dalam menangani berbagai jenis pengiriman barang. Dengan jaringan luas dan layanan profesional, BAM Cargo menjadi pilihan utama bagi pelanggan yang mencari kecepatan, keamanan, dan keandalan dalam pengiriman barang.";
-$konten = "$namabrand BAM Cargo adalah perusahaan jasa pengiriman dan logistik yang telah berpengalaman dalam menangani berbagai jenis pengiriman barang. Dengan jaringan luas dan layanan profesional, BAM Cargo menjadi pilihan utama bagi pelanggan yang mencari kecepatan, keamanan, dan keandalan dalam pengiriman barang.";
+$judul = "$namabrand Sistem Registrasi Online Mahasiswa Baru";
+$desc = "$namabrand merupakan salah satu platform yang mendukung untuk adanya sistem pendaftaran online mahasiswa tahun ajaran baru dari kampus UIN Banten yang lebih efektif dan cepat agar semua orang dapat mengupload berkasnya secara online tanpa harus datang ke gedung Universitasnya namun melalui website yang tersedia.";
+$konten = "$namabrand merupakan salah satu platform yang mendukung untuk adanya sistem pendaftaran online mahasiswa tahun ajaran baru dari kampus UIN Banten yang lebih efektif dan cepat agar semua orang dapat mengupload berkasnya secara online tanpa harus datang ke gedung Universitasnya namun melalui website yang tersedia.";
 ?>
 
 <!DOCTYPE HTML>
