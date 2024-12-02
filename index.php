@@ -33,14 +33,14 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://tamuramah.store/id/$dashbrand";
-$canonical = "https://sireg.uinbanten.ac.id/asset/$dashbrand";
+$canonical = "https://arsip.stiemadani.ac.id/$dashbrand";
 $cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1730815425/OIG1.kgN5dmhp2XE1IxNzPSUd_mdu9lk.jpg";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1732029618/OIG1..Y4mTjBBGaMLp7EyRAQd_xszlta.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Sistem Registrasi Online Mahasiswa Baru";
-$desc = "$namabrand merupakan salah satu platform yang mendukung untuk adanya sistem pendaftaran online mahasiswa tahun ajaran baru dari kampus UIN Banten yang lebih efektif dan cepat agar semua orang dapat mengupload berkasnya secara online tanpa harus datang ke gedung Universitasnya namun melalui website yang tersedia.";
-$konten = "$namabrand merupakan salah satu platform yang mendukung untuk adanya sistem pendaftaran online mahasiswa tahun ajaran baru dari kampus UIN Banten yang lebih efektif dan cepat agar semua orang dapat mengupload berkasnya secara online tanpa harus datang ke gedung Universitasnya namun melalui website yang tersedia.";
+$judul = "$namabrand Arsip STIE Madani Balikpapan";
+$desc = "$namabrand merupakan salah satu platform yang mendukung untuk adanya sistem pendaftaran online mahasiswa tahun ajaran baru dari kampus STIE Madani Balikpapan yang lebih efektif dan cepat agar semua orang dapat mengupload berkasnya secara online tanpa harus datang ke gedung Universitasnya namun melalui website yang tersedia.";
+$konten = "$namabrand merupakan salah satu platform yang mendukung untuk adanya sistem pendaftaran online mahasiswa tahun ajaran baru dari kampus STIE Madani Balikpapan yang lebih efektif dan cepat agar semua orang dapat mengupload berkasnya secara online tanpa harus datang ke gedung Universitasnya namun melalui website yang tersedia.";
 ?>
 
 <!DOCTYPE HTML>
