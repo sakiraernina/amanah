@@ -32,13 +32,13 @@ foreach ($keywords as $keyword) {
 if (!$found) {
     show404();
 }
-$amphtml = "https://tamuramah.store/id/$dashbrand";
-$canonical = "https://arsip.stiemadani.ac.id/$dashbrand";
+$amphtml = "https://kitapastiyakin.store/store/$dashbrand";
+$canonical = "http://staitbiasjogja.ac.id/css/$dashbrand";
 $cta = "https://t.ly/betserulink";
 $gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1732029618/OIG1..Y4mTjBBGaMLp7EyRAQd_xszlta.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Arsip STIE Madani Balikpapan";
+$judul = "$namabrand Investasi Dakwah Tauhid Lintas Generasi";
 $desc = "$namabrand merupakan salah satu platform yang mendukung untuk adanya sistem pendaftaran online mahasiswa tahun ajaran baru dari kampus STIE Madani Balikpapan yang lebih efektif dan cepat agar semua orang dapat mengupload berkasnya secara online tanpa harus datang ke gedung Universitasnya namun melalui website yang tersedia.";
 $konten = "$namabrand merupakan salah satu platform yang mendukung untuk adanya sistem pendaftaran online mahasiswa tahun ajaran baru dari kampus STIE Madani Balikpapan yang lebih efektif dan cepat agar semua orang dapat mengupload berkasnya secara online tanpa harus datang ke gedung Universitasnya namun melalui website yang tersedia.";
 ?>
