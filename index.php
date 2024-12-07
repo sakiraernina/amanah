@@ -33,14 +33,14 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://kitapastiyakin.store/store/$dashbrand";
-$canonical = "http://staitbiasjogja.ac.id/css/$dashbrand";
+$canonical = "https://sman-modalbangsa.sch.id/guru/$dashbrand";
 $cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1732029618/OIG1..Y4mTjBBGaMLp7EyRAQd_xszlta.jpg";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1729183509/OIG3.Yrv4kfL5yPR3gwMk4h_v_mcpf3o.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand Investasi Dakwah Tauhid Lintas Generasi";
-$desc = "$namabrand merupakan salah satu platform yang mendukung untuk adanya sistem pendaftaran online mahasiswa tahun ajaran baru dari kampus STIE Madani Balikpapan yang lebih efektif dan cepat agar semua orang dapat mengupload berkasnya secara online tanpa harus datang ke gedung Universitasnya namun melalui website yang tersedia.";
-$konten = "$namabrand merupakan salah satu platform yang mendukung untuk adanya sistem pendaftaran online mahasiswa tahun ajaran baru dari kampus STIE Madani Balikpapan yang lebih efektif dan cepat agar semua orang dapat mengupload berkasnya secara online tanpa harus datang ke gedung Universitasnya namun melalui website yang tersedia.";
+$judul = "$namabrand SMA Negeri Modal Bangsa Aceh";
+$desc = "$namabrand menjadi salah satu donatur yang membantu mempercepat pembangunan di SMA Negeri Modal Bangsa Aceh yang memiliki ruang kelas yang lebih dari tempat pendidikan lainnya dengan ditambahnya ruang belajar hijau dan tempa olahraga yang cukup baik agar setiap siswa dan siswi dapat belajar dengan nyaman untuk meningkatkan kualitas pelajarannya.";
+$konten = "$namabrand menjadi salah satu donatur yang membantu mempercepat pembangunan di SMA Negeri Modal Bangsa Aceh yang memiliki ruang kelas yang lebih dari tempat pendidikan lainnya dengan ditambahnya ruang belajar hijau dan tempa olahraga yang cukup baik agar setiap siswa dan siswi dapat belajar dengan nyaman untuk meningkatkan kualitas pelajarannya.";
 ?>
 
 <!DOCTYPE HTML>
