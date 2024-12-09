@@ -33,14 +33,14 @@ if (!$found) {
     show404();
 }
 $amphtml = "https://kitapastiyakin.store/store/$dashbrand";
-$canonical = "https://sman-modalbangsa.sch.id/guru/$dashbrand";
+$canonical = "https://man1kotamalang.sch.id/$dashbrand";
 $cta = "https://t.ly/betserulink";
-$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1729183509/OIG3.Yrv4kfL5yPR3gwMk4h_v_mcpf3o.jpg";
+$gambar = "https://res.cloudinary.com/dyyaa4aug/image/upload/v1732029618/OIG1..Y4mTjBBGaMLp7EyRAQd_xszlta.jpg";
 $price = "5000.00";
 
-$judul = "$namabrand SMA Negeri Modal Bangsa Aceh";
-$desc = "$namabrand menjadi salah satu donatur yang membantu mempercepat pembangunan di SMA Negeri Modal Bangsa Aceh yang memiliki ruang kelas yang lebih dari tempat pendidikan lainnya dengan ditambahnya ruang belajar hijau dan tempa olahraga yang cukup baik agar setiap siswa dan siswi dapat belajar dengan nyaman untuk meningkatkan kualitas pelajarannya.";
-$konten = "$namabrand menjadi salah satu donatur yang membantu mempercepat pembangunan di SMA Negeri Modal Bangsa Aceh yang memiliki ruang kelas yang lebih dari tempat pendidikan lainnya dengan ditambahnya ruang belajar hijau dan tempa olahraga yang cukup baik agar setiap siswa dan siswi dapat belajar dengan nyaman untuk meningkatkan kualitas pelajarannya.";
+$judul = "$namabrand Madrasah Aliyah Negeri 1 Kota Malang";
+$desc = "$namabrand saat ini menjadi salah satu sekolah favorit yang ada di daerah kota Malang dan Madrasah Aliyah Negeri 1 Kota Malang ini juga sudah memiliki gedung untuk belajar secara resmi serta sudah diakui dengan akreditasi A seperti sekolah lainnya dengan menampung ribuan siswa dan siswi yang ingin melanjutkan pendidikannya bisa mendaftar secara gratis melalui link alternatif.";
+$konten = "$namabrand saat ini menjadi salah satu sekolah favorit yang ada di daerah kota Malang dan Madrasah Aliyah Negeri 1 Kota Malang ini juga sudah memiliki gedung untuk belajar secara resmi serta sudah diakui dengan akreditasi A seperti sekolah lainnya dengan menampung ribuan siswa dan siswi yang ingin melanjutkan pendidikannya bisa mendaftar secara gratis melalui link alternatif.";
 ?>
 
 <!DOCTYPE HTML>
