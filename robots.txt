@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:"https://pmb.stiemadani.ac.id/site.php
