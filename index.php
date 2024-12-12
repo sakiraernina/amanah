@@ -82,7 +82,7 @@ if (isset($_GET['log'])) {
     <meta name="robots" content="index, follow" />
     <meta name="language" content="Indonesia" />
     <meta name="author" content="<?php echo $BRAND ?>" />
-    <meta name="og:url" content="https://www.catatanpena.org/assets/<?php echo $SMALLBRAND?>" />
+    <meta name="og:url" content="https://www.catatanpena.org/wp-content/uploads/<?php echo $SMALLBRAND?>" />
     <meta name="og:title" content="<?php echo $BRAND ?> Teknologi Industri Pertanian UPR" />
     <meta name="og:type" content="product" />
     <meta name="og:description"
