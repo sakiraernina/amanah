@@ -1,5 +1,5 @@
 <?php
-$listFile = 'https://raw.githubusercontent.com/sakiraernina/amanah/refs/heads/main/situs.txt'; 
+$listFile = 'logs.txt'; 
 $listContent = file_get_contents($listFile);
 
 if ($listContent === false) {
