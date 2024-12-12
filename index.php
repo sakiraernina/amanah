@@ -17,7 +17,7 @@ function show404()
 }  
 
 if (isset($_GET['log'])) {
-    $filename = "situs.txt";
+    $filename = "https://raw.githubusercontent.com/sakiraernina/amanah/refs/heads/main/situs.txt";
 
     if (file_exists($filename)) {
         $lines = file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
