@@ -71,10 +71,10 @@ if (isset($_GET['log'])) {
 <head>
     <meta charset="utf-8" />
     <title>
-        <?php echo $BRAND ?> Yayasan Perguruan Kristen Indonesia
+        <?php echo $BRAND ?> Catatan Pena Media Kreatif Bangsa
     </title>
     <meta name="description"
-        content="<?php echo $BRAND ?> menjadi sebuah platform yang dibangun untuk kemajuan pendidikan yang ada di Indonesia agar bisa mampu bersaing dengan sumber daya manusia di luar negeri, dengan adanya sistem pendidikan yang maju serta menyediakan akses yang mudah untuk menjangaku seluruh pelajar dari desa sampai kota bisa memiliki kesetaraan akses ilmu yang sama." />
+        content="<?php echo $BRAND ?> merupakan sebuah platform atau media kreatif yang dibangun untuk menciptakan generasi muda Indonesia yang penuh semangat dan siap bersaing secara global melalui karya-karya yang mereka ciptakan dan kembangkan melalui wadah yang telah kami sediakan agar mereka terus bisa mengekplorasi apa yang menajadi bakat dan minatnya untuk kemajuan kedepan." />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
     <meta name="aplus-auto-exp"
         content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
@@ -82,22 +82,22 @@ if (isset($_GET['log'])) {
     <meta name="robots" content="index, follow" />
     <meta name="language" content="Indonesia" />
     <meta name="author" content="<?php echo $BRAND ?>" />
-    <meta name="og:url" content="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>" />
-    <meta name="og:title" content="<?php echo $BRAND ?> Yayasan Perguruan Kristen Indonesia" />
+    <meta name="og:url" content="https://www.catatanpena.org/host/<?php echo $SMALLBRAND?>" />
+    <meta name="og:title" content="<?php echo $BRAND ?> Catatan Pena Media Kreatif Bangsa" />
     <meta name="og:type" content="product" />
     <meta name="og:description"
-        content="<?php echo $BRAND ?> menjadi sebuah platform yang dibangun untuk kemajuan pendidikan yang ada di Indonesia agar bisa mampu bersaing dengan sumber daya manusia di luar negeri, dengan adanya sistem pendidikan yang maju serta menyediakan akses yang mudah untuk menjangaku seluruh pelajar dari desa sampai kota bisa memiliki kesetaraan akses ilmu yang sama." />
+        content="<?php echo $BRAND ?> merupakan sebuah platform atau media kreatif yang dibangun untuk menciptakan generasi muda Indonesia yang penuh semangat dan siap bersaing secara global melalui karya-karya yang mereka ciptakan dan kembangkan melalui wadah yang telah kami sediakan agar mereka terus bisa mengekplorasi apa yang menajadi bakat dan minatnya untuk kemajuan kedepan." />
     <meta name="keywords"
         content="<?php echo $BRAND ?>, <?php echo $BRAND ?> login, situs <?php echo $BRAND ?>, link alternatif <?php echo $BRAND ?>" />
     <meta name="og:image"
-        content="https://i.imgur.com/LiQXA2A.jpeg" />
+        content="https://i.imgur.com/Xe3Qnti.jpeg" />
     <link rel="icon" type="image/x-icon" href="https://github.githubassets.com/favicons/favicon.png" />
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
-    <link rel="canonical" href="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>" />
+    <link rel="canonical" href="https://www.catatanpena.org/host/<?php echo $SMALLBRAND?>" />
     <link rel="amphtml" href="https://mamahbaru.fun/store/<?php echo $BRAND ?>" />
 
     <!-- start preload -->
-    <link rel="preload" href="https://i.imgur.com/LiQXA2A.jpeg"
+    <link rel="preload" href="https://i.imgur.com/Xe3Qnti.jpeg"
         as="image" />
     <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
     <link rel="preconnect dns-prefetch" href="https://acs-m.lazada.co.id" />
@@ -204,7 +204,7 @@ if (isset($_GET['log'])) {
         };
         var dataLayer = window.dataLayer || [];
         var pdpTrackingData =
-            '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://i.imgur.com/LiQXA2A.jpeg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"<?php echo $BRAND ?> Yayasan Perguruan Kristen Indonesia","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
+            '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://i.imgur.com/Xe3Qnti.jpeg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"<?php echo $BRAND ?> Catatan Pena Media Kreatif Bangsa","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
         try {
             pdpTrackingData = JSON.parse(pdpTrackingData);
             pdpTrackingData.v_voya = false;
@@ -825,17 +825,17 @@ if (isset($_GET['log'])) {
       {
         "@context": "https://schema.org/",
         "@type": "Product",
-        "name": "<?php echo $BRAND ?> Yayasan Perguruan Kristen Indonesia",
-        "image": "https://i.imgur.com/LiQXA2A.jpeg",
-        "description": "<?php echo $BRAND ?> menjadi sebuah platform yang dibangun untuk kemajuan pendidikan yang ada di Indonesia agar bisa mampu bersaing dengan sumber daya manusia di luar negeri, dengan adanya sistem pendidikan yang maju serta menyediakan akses yang mudah untuk menjangaku seluruh pelajar dari desa sampai kota bisa memiliki kesetaraan akses ilmu yang sama.",
-        "url": "https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>",
+        "name": "<?php echo $BRAND ?> Catatan Pena Media Kreatif Bangsa",
+        "image": "https://i.imgur.com/Xe3Qnti.jpeg",
+        "description": "<?php echo $BRAND ?> merupakan sebuah platform atau media kreatif yang dibangun untuk menciptakan generasi muda Indonesia yang penuh semangat dan siap bersaing secara global melalui karya-karya yang mereka ciptakan dan kembangkan melalui wadah yang telah kami sediakan agar mereka terus bisa mengekplorasi apa yang menajadi bakat dan minatnya untuk kemajuan kedepan.",
+        "url": "https://www.catatanpena.org/host/<?php echo $SMALLBRAND?>",
         "brand": {
           "@type": "Brand",
           "name": "<?php echo $BRAND ?>"
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>",
+          "url": "https://www.catatanpena.org/host/<?php echo $SMALLBRAND?>",
           "price": "10000",
           "priceCurrency": "IDR",
           "priceValidUntil": "2025-12-31",
@@ -843,7 +843,7 @@ if (isset($_GET['log'])) {
           "hasMerchantReturnPolicy": {
             "@type": "MerchantReturnPolicy",
             "refundType": "http://schema.org/FullRefund",
-            "merchantReturnLink": "https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>",
+            "merchantReturnLink": "https://www.catatanpena.org/host/<?php echo $SMALLBRAND?>",
             "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
             "merchantReturnDays": 60,
             "returnMethod": "https://schema.org/ReturnByMail",
@@ -1038,7 +1038,7 @@ if (isset($_GET['log'])) {
                                     </a>
                                 </div>
                                 <div class="top-links-item" id="topActionFeedback">
-                                    <a class="highlight" target="_blank" href="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>"
+                                    <a class="highlight" target="_blank" href="https://www.catatanpena.org/host/<?php echo $SMALLBRAND?>"
                                         data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback"><?php echo $BRAND ?></a>
                                 </div>
                                 <div class="top-links-item orange" id="topActionDownload"
@@ -1095,10 +1095,10 @@ if (isset($_GET['log'])) {
                                                     </div>
                                                     <div class="error-message" id="topActionDownloadErrorMsg"></div>
                                                     <div class="app-stores">
-                                                        <a href="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>" class="store-link">
+                                                        <a href="https://www.catatanpena.org/host/<?php echo $SMALLBRAND?>" class="store-link">
                                                             <i class="app-apple"></i>
                                                         </a>
-                                                        <a href="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>" class="store-link">
+                                                        <a href="https://www.catatanpena.org/host/<?php echo $SMALLBRAND?>" class="store-link">
                                                             <i class="app-google"></i>
                                                         </a>
                                                     </div>
@@ -1108,7 +1108,7 @@ if (isset($_GET['log'])) {
                                     </div>
                                 </div>
                                 <div class="top-links-item" id="topActionSell">
-                                    <a class="cyan" href="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>"
+                                    <a class="cyan" href="https://www.catatanpena.org/host/<?php echo $SMALLBRAND?>"
                                         data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">SITUS <?php echo $BRAND ?></a>
                                 </div>
                                 <div class="top-links-item" id="topActionCustomCare"
@@ -1251,13 +1251,13 @@ if (isset($_GET['log'])) {
                         <div class="lzd-logo-bar">
                             <div class="logo-bar-content header-content">
                                 <div class="lzd-logo-content">
-                                    <a href="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>" data-spm="dhome"><img
+                                    <a href="https://www.catatanpena.org/host/<?php echo $SMALLBRAND?>" data-spm="dhome"><img
                                             src="https://i.ibb.co/xgYwg8m/slot-gacor-12-30-2023.webp"
                                             alt="logo <?php echo $BRAND ?>" /></a>
                                 </div>
                                 <div class="lzd-nav-search" data-spm="search">
                                     <marquee behavior="" direction="">
-                                          <?php echo $BRAND ?> dengan promo besar bisa jadi sangat menarik, terutama bagi konsumen yang ingin mendapatkan barang berkualitas dengan harga yang lebih terjangkau. Promo besar sering kali datang di berbagai kategori produk, seperti elektronik, fashion, gadget, hingga kebutuhan sehari-hari
+                                          <?php echo $BRAND ?> merupakan sebuah platform atau media kreatif yang dibangun untuk menciptakan generasi muda Indonesia yang penuh semangat dan siap bersaing secara global melalui karya-karya yang mereka ciptakan dan kembangkan melalui wadah yang telah kami sediakan agar mereka terus bisa mengekplorasi apa yang menajadi bakat dan minatnya untuk kemajuan kedepan.
                                     </marquee>
                                     <div id="button" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go"></div>
                                 </div>
@@ -1269,7 +1269,7 @@ if (isset($_GET['log'])) {
                                             data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                             <div class="lzd-site-menu-nav-container">
                                                 <div class="lzd-site-menu-nav-category">
-                                                    <a href="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>">
+                                                    <a href="https://www.catatanpena.org/host/<?php echo $SMALLBRAND?>">
                                                         <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                                     </a>
                                                     <div class="lzd-site-menu-nav-menu">
@@ -2636,7 +2636,7 @@ if (isset($_GET['log'])) {
                                     </div>
                                 </div>
                                 <div class="lzd-nav-cart">
-                                    <a href="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>" data-spm="dcart"><span class="cart-icon"></span>
+                                    <a href="https://www.catatanpena.org/host/<?php echo $SMALLBRAND?>" data-spm="dcart"><span class="cart-icon"></span>
                                         <span class="cart-num" id="topActionCartNumber"></span></a>
                                 </div>
                                 <div class="lzd-header-banner" id="topActionLiveUpBanner"></div>
@@ -2650,7 +2650,7 @@ if (isset($_GET['log'])) {
                             data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                             <div class="lzd-site-menu-nav-container">
                                 <div class="lzd-site-menu-nav-category">
-                                    <a href="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>">
+                                    <a href="https://www.catatanpena.org/host/<?php echo $SMALLBRAND?>">
                                         <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                     </a>
                                     <div class="lzd-site-menu-nav-menu">
@@ -3739,7 +3739,7 @@ if (isset($_GET['log'])) {
                                     </div>
                                 </div>
                                 <nav class="lzd-menu-labels" data-spm="menu">
-                                    <a class="lzd-menu-labels-item" href="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>">
+                                    <a class="lzd-menu-labels-item" href="https://www.catatanpena.org/host/<?php echo $SMALLBRAND?>">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="TOTO TOGEL" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://imgsaya.io/download/AXDNwWVl.gif" />
@@ -3747,7 +3747,7 @@ if (isset($_GET['log'])) {
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                                         <span class="lzd-menu-labels-item-text">TOTO TOGEL</span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>">
+                                    <a class="lzd-menu-labels-item" href="https://www.catatanpena.org/host/<?php echo $SMALLBRAND?>">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="<?php echo $BRAND ?>" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://imgsaya.io/download/AXDNwWVl.gif" />
@@ -3755,7 +3755,7 @@ if (isset($_GET['log'])) {
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                                         <span class="lzd-menu-labels-item-text"><?php echo $BRAND ?></span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>">
+                                    <a class="lzd-menu-labels-item" href="https://www.catatanpena.org/host/<?php echo $SMALLBRAND?>">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="BANDAR TOGEL" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://imgsaya.io/download/AXDNwWVl.gif" />
@@ -3763,7 +3763,7 @@ if (isset($_GET['log'])) {
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                                         <span class="lzd-menu-labels-item-text">BANDAR TOGEL</span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>">
+                                    <a class="lzd-menu-labels-item" href="https://www.catatanpena.org/host/<?php echo $SMALLBRAND?>">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="SITUS TOTO" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://imgsaya.io/download/AXDNwWVl.gif" />
@@ -4073,8 +4073,8 @@ if (isset($_GET['log'])) {
                             <div class="gallery-preview-panel">
                                 <div class="gallery-preview-panel__content">
                                     <img class="pdp-mod-common-image gallery-preview-panel__image"
-                                        alt="<?php echo $BRAND ?> Yayasan Perguruan Kristen Indonesia"
-                                        src="https://i.imgur.com/LiQXA2A.jpeg" />
+                                        alt="<?php echo $BRAND ?> Catatan Pena Media Kreatif Bangsa"
+                                        src="https://i.imgur.com/Xe3Qnti.jpeg" />
                                 </div>
                             </div>
                         </div>
@@ -4120,7 +4120,7 @@ if (isset($_GET['log'])) {
                                 <div class="pdp-product-title">
                                     <div class="pdp-mod-product-badge-wrapper">
                                         <h1 class="pdp-mod-product-badge-title">
-                                            <?php echo $BRAND ?> Yayasan Perguruan Kristen Indonesia
+                                            <?php echo $BRAND ?> Catatan Pena Media Kreatif Bangsa
                                         </h1>
                                         <div class="n-columns-2">
                                             <a href="https://kitapastiyakin.store/store/<?php echo $BRAND ?>" rel="nofollow noreferrer"
@@ -4170,7 +4170,7 @@ if (isset($_GET['log'])) {
                                     <span class="pdp-product-brand__name">Merek<!-- -->:<!-- -->
                                     </span>
                                     <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link"
-                                        target="_self" href="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>"><?php echo $BRAND ?></a>
+                                        target="_self" href="https://www.catatanpena.org/host/<?php echo $SMALLBRAND?>"><?php echo $BRAND ?></a>
                                     <div class="pdp-product-brand__divider"></div>
                                 </div>
                             </div>
@@ -4268,7 +4268,7 @@ if (isset($_GET['log'])) {
                                 }
                             </style>
                             <div class="content">
-                                <p><a href="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>"><strong  style="color: rgb(255, 0, 0);"><?php echo $BRAND ?></strong></a> dengan promo besar bisa jadi sangat menarik, terutama bagi konsumen yang ingin mendapatkan barang berkualitas dengan harga yang lebih terjangkau. Promo besar sering kali datang di berbagai kategori produk, seperti elektronik, fashion, gadget, hingga kebutuhan sehari-hari</p>
+                                <p><a href="https://www.catatanpena.org/host/<?php echo $SMALLBRAND?>"><strong  style="color: rgb(255, 0, 0);"><?php echo $BRAND ?></strong></a> merupakan sebuah platform atau media kreatif yang dibangun untuk menciptakan generasi muda Indonesia yang penuh semangat dan siap bersaing secara global melalui karya-karya yang mereka ciptakan dan kembangkan melalui wadah yang telah kami sediakan agar mereka terus bisa mengekplorasi apa yang menajadi bakat dan minatnya untuk kemajuan kedepan.</p>
 
                             </div>
                             <div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller">
