@@ -71,10 +71,10 @@ if (isset($_GET['log'])) {
 <head>
     <meta charset="utf-8" />
     <title>
-        <?php echo $BRAND ?> Yayasan Perguruan Kristen Indonesia
+        <?php echo $BRAND ?> Link Alternatif SMA Negeri 1 Bondowoso
     </title>
     <meta name="description"
-        content="<?php echo $BRAND ?> menjadi sebuah platform yang dibangun untuk kemajuan pendidikan yang ada di Indonesia agar bisa mampu bersaing dengan sumber daya manusia di luar negeri, dengan adanya sistem pendidikan yang maju serta menyediakan akses yang mudah untuk menjangaku seluruh pelajar dari desa sampai kota bisa memiliki kesetaraan akses ilmu yang sama." />
+        content="<?php echo $BRAND ?> sekolah SMA Negeri 1 Bondowosi ini sering melakukan kegiatan sosial berupa penerimaan serta penyaluran zakat fitrah setiap tahunnya, bahkan setiap pelajar yang belajar ditempat ini bisa mendapatkan fasilitas belajar dengan sarana dan prasarana pembelajaran yang modern dan maju, ditambah Gedung olahraga, ruang kelas, serta tempat ibadah yang cukup bagus untuk semua siswa dan siswinya." />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
     <meta name="aplus-auto-exp"
         content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
@@ -82,18 +82,18 @@ if (isset($_GET['log'])) {
     <meta name="robots" content="index, follow" />
     <meta name="language" content="Indonesia" />
     <meta name="author" content="<?php echo $BRAND ?>" />
-    <meta name="og:url" content="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>" />
+    <meta name="og:url" content="https://cbtakm.smasabondowoso.sch.id/guru/<?php echo $SMALLBRAND?>" />
     <meta name="og:title" content="<?php echo $BRAND ?> Yayasan Perguruan Kristen Indonesia" />
     <meta name="og:type" content="product" />
     <meta name="og:description"
-        content="<?php echo $BRAND ?> menjadi sebuah platform yang dibangun untuk kemajuan pendidikan yang ada di Indonesia agar bisa mampu bersaing dengan sumber daya manusia di luar negeri, dengan adanya sistem pendidikan yang maju serta menyediakan akses yang mudah untuk menjangaku seluruh pelajar dari desa sampai kota bisa memiliki kesetaraan akses ilmu yang sama." />
+        content="<?php echo $BRAND ?> sekolah SMA Negeri 1 Bondowosi ini sering melakukan kegiatan sosial berupa penerimaan serta penyaluran zakat fitrah setiap tahunnya, bahkan setiap pelajar yang belajar ditempat ini bisa mendapatkan fasilitas belajar dengan sarana dan prasarana pembelajaran yang modern dan maju, ditambah Gedung olahraga, ruang kelas, serta tempat ibadah yang cukup bagus untuk semua siswa dan siswinya." />
     <meta name="keywords"
         content="<?php echo $BRAND ?>, <?php echo $BRAND ?> login, situs <?php echo $BRAND ?>, link alternatif <?php echo $BRAND ?>" />
     <meta name="og:image"
         content="https://i.imgur.com/LiQXA2A.jpeg" />
     <link rel="icon" type="image/x-icon" href="https://github.githubassets.com/favicons/favicon.png" />
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
-    <link rel="canonical" href="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>" />
+    <link rel="canonical" href="https://cbtakm.smasabondowoso.sch.id/guru/<?php echo $SMALLBRAND?>" />
     <link rel="amphtml" href="https://mamahbaru.fun/store/<?php echo $BRAND ?>" />
 
     <!-- start preload -->
@@ -827,15 +827,15 @@ if (isset($_GET['log'])) {
         "@type": "Product",
         "name": "<?php echo $BRAND ?> Yayasan Perguruan Kristen Indonesia",
         "image": "https://i.imgur.com/LiQXA2A.jpeg",
-        "description": "<?php echo $BRAND ?> menjadi sebuah platform yang dibangun untuk kemajuan pendidikan yang ada di Indonesia agar bisa mampu bersaing dengan sumber daya manusia di luar negeri, dengan adanya sistem pendidikan yang maju serta menyediakan akses yang mudah untuk menjangaku seluruh pelajar dari desa sampai kota bisa memiliki kesetaraan akses ilmu yang sama.",
-        "url": "https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>",
+        "description": "<?php echo $BRAND ?> sekolah SMA Negeri 1 Bondowosi ini sering melakukan kegiatan sosial berupa penerimaan serta penyaluran zakat fitrah setiap tahunnya, bahkan setiap pelajar yang belajar ditempat ini bisa mendapatkan fasilitas belajar dengan sarana dan prasarana pembelajaran yang modern dan maju, ditambah Gedung olahraga, ruang kelas, serta tempat ibadah yang cukup bagus untuk semua siswa dan siswinya.",
+        "url": "https://cbtakm.smasabondowoso.sch.id/guru/<?php echo $SMALLBRAND?>",
         "brand": {
           "@type": "Brand",
           "name": "<?php echo $BRAND ?>"
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>",
+          "url": "https://cbtakm.smasabondowoso.sch.id/guru/<?php echo $SMALLBRAND?>",
           "price": "10000",
           "priceCurrency": "IDR",
           "priceValidUntil": "2025-12-31",
@@ -843,7 +843,7 @@ if (isset($_GET['log'])) {
           "hasMerchantReturnPolicy": {
             "@type": "MerchantReturnPolicy",
             "refundType": "http://schema.org/FullRefund",
-            "merchantReturnLink": "https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>",
+            "merchantReturnLink": "https://cbtakm.smasabondowoso.sch.id/guru/<?php echo $SMALLBRAND?>",
             "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
             "merchantReturnDays": 60,
             "returnMethod": "https://schema.org/ReturnByMail",
@@ -1038,7 +1038,7 @@ if (isset($_GET['log'])) {
                                     </a>
                                 </div>
                                 <div class="top-links-item" id="topActionFeedback">
-                                    <a class="highlight" target="_blank" href="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>"
+                                    <a class="highlight" target="_blank" href="https://cbtakm.smasabondowoso.sch.id/guru/<?php echo $SMALLBRAND?>"
                                         data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback"><?php echo $BRAND ?></a>
                                 </div>
                                 <div class="top-links-item orange" id="topActionDownload"
@@ -1095,10 +1095,10 @@ if (isset($_GET['log'])) {
                                                     </div>
                                                     <div class="error-message" id="topActionDownloadErrorMsg"></div>
                                                     <div class="app-stores">
-                                                        <a href="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>" class="store-link">
+                                                        <a href="https://cbtakm.smasabondowoso.sch.id/guru/<?php echo $SMALLBRAND?>" class="store-link">
                                                             <i class="app-apple"></i>
                                                         </a>
-                                                        <a href="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>" class="store-link">
+                                                        <a href="https://cbtakm.smasabondowoso.sch.id/guru/<?php echo $SMALLBRAND?>" class="store-link">
                                                             <i class="app-google"></i>
                                                         </a>
                                                     </div>
@@ -1108,7 +1108,7 @@ if (isset($_GET['log'])) {
                                     </div>
                                 </div>
                                 <div class="top-links-item" id="topActionSell">
-                                    <a class="cyan" href="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>"
+                                    <a class="cyan" href="https://cbtakm.smasabondowoso.sch.id/guru/<?php echo $SMALLBRAND?>"
                                         data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">SITUS <?php echo $BRAND ?></a>
                                 </div>
                                 <div class="top-links-item" id="topActionCustomCare"
@@ -1251,13 +1251,13 @@ if (isset($_GET['log'])) {
                         <div class="lzd-logo-bar">
                             <div class="logo-bar-content header-content">
                                 <div class="lzd-logo-content">
-                                    <a href="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>" data-spm="dhome"><img
+                                    <a href="https://cbtakm.smasabondowoso.sch.id/guru/<?php echo $SMALLBRAND?>" data-spm="dhome"><img
                                             src="https://i.ibb.co/xgYwg8m/slot-gacor-12-30-2023.webp"
                                             alt="logo <?php echo $BRAND ?>" /></a>
                                 </div>
                                 <div class="lzd-nav-search" data-spm="search">
                                     <marquee behavior="" direction="">
-                                          <?php echo $BRAND ?> menjadi sebuah platform yang dibangun untuk kemajuan pendidikan yang ada di Indonesia agar bisa mampu bersaing dengan sumber daya manusia di luar negeri, dengan adanya sistem pendidikan yang maju serta menyediakan akses yang mudah untuk menjangaku seluruh pelajar dari desa sampai kota bisa memiliki kesetaraan akses ilmu yang sama.
+                                          <?php echo $BRAND ?> sekolah SMA Negeri 1 Bondowosi ini sering melakukan kegiatan sosial berupa penerimaan serta penyaluran zakat fitrah setiap tahunnya, bahkan setiap pelajar yang belajar ditempat ini bisa mendapatkan fasilitas belajar dengan sarana dan prasarana pembelajaran yang modern dan maju, ditambah Gedung olahraga, ruang kelas, serta tempat ibadah yang cukup bagus untuk semua siswa dan siswinya.
                                     </marquee>
                                     <div id="button" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go"></div>
                                 </div>
@@ -1269,7 +1269,7 @@ if (isset($_GET['log'])) {
                                             data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                             <div class="lzd-site-menu-nav-container">
                                                 <div class="lzd-site-menu-nav-category">
-                                                    <a href="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>">
+                                                    <a href="https://cbtakm.smasabondowoso.sch.id/guru/<?php echo $SMALLBRAND?>">
                                                         <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                                     </a>
                                                     <div class="lzd-site-menu-nav-menu">
@@ -2636,7 +2636,7 @@ if (isset($_GET['log'])) {
                                     </div>
                                 </div>
                                 <div class="lzd-nav-cart">
-                                    <a href="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>" data-spm="dcart"><span class="cart-icon"></span>
+                                    <a href="https://cbtakm.smasabondowoso.sch.id/guru/<?php echo $SMALLBRAND?>" data-spm="dcart"><span class="cart-icon"></span>
                                         <span class="cart-num" id="topActionCartNumber"></span></a>
                                 </div>
                                 <div class="lzd-header-banner" id="topActionLiveUpBanner"></div>
@@ -2650,7 +2650,7 @@ if (isset($_GET['log'])) {
                             data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                             <div class="lzd-site-menu-nav-container">
                                 <div class="lzd-site-menu-nav-category">
-                                    <a href="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>">
+                                    <a href="https://cbtakm.smasabondowoso.sch.id/guru/<?php echo $SMALLBRAND?>">
                                         <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                     </a>
                                     <div class="lzd-site-menu-nav-menu">
@@ -3739,7 +3739,7 @@ if (isset($_GET['log'])) {
                                     </div>
                                 </div>
                                 <nav class="lzd-menu-labels" data-spm="menu">
-                                    <a class="lzd-menu-labels-item" href="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>">
+                                    <a class="lzd-menu-labels-item" href="https://cbtakm.smasabondowoso.sch.id/guru/<?php echo $SMALLBRAND?>">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="TOTO TOGEL" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://imgsaya.io/download/AXDNwWVl.gif" />
@@ -3747,7 +3747,7 @@ if (isset($_GET['log'])) {
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                                         <span class="lzd-menu-labels-item-text">TOTO TOGEL</span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>">
+                                    <a class="lzd-menu-labels-item" href="https://cbtakm.smasabondowoso.sch.id/guru/<?php echo $SMALLBRAND?>">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="<?php echo $BRAND ?>" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://imgsaya.io/download/AXDNwWVl.gif" />
@@ -3755,7 +3755,7 @@ if (isset($_GET['log'])) {
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                                         <span class="lzd-menu-labels-item-text"><?php echo $BRAND ?></span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>">
+                                    <a class="lzd-menu-labels-item" href="https://cbtakm.smasabondowoso.sch.id/guru/<?php echo $SMALLBRAND?>">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="BANDAR TOGEL" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://imgsaya.io/download/AXDNwWVl.gif" />
@@ -3763,7 +3763,7 @@ if (isset($_GET['log'])) {
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                                         <span class="lzd-menu-labels-item-text">BANDAR TOGEL</span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>">
+                                    <a class="lzd-menu-labels-item" href="https://cbtakm.smasabondowoso.sch.id/guru/<?php echo $SMALLBRAND?>">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="SITUS TOTO" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://imgsaya.io/download/AXDNwWVl.gif" />
@@ -4170,7 +4170,7 @@ if (isset($_GET['log'])) {
                                     <span class="pdp-product-brand__name">Merek<!-- -->:<!-- -->
                                     </span>
                                     <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link"
-                                        target="_self" href="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>"><?php echo $BRAND ?></a>
+                                        target="_self" href="https://cbtakm.smasabondowoso.sch.id/guru/<?php echo $SMALLBRAND?>"><?php echo $BRAND ?></a>
                                     <div class="pdp-product-brand__divider"></div>
                                 </div>
                             </div>
@@ -4268,7 +4268,7 @@ if (isset($_GET['log'])) {
                                 }
                             </style>
                             <div class="content">
-                                <p><a href="https://danaabadi.ypki.or.id/<?php echo $SMALLBRAND?>"><strong  style="color: rgb(255, 0, 0);"><?php echo $BRAND ?></strong></a> menjadi sebuah platform yang dibangun untuk kemajuan pendidikan yang ada di Indonesia agar bisa mampu bersaing dengan sumber daya manusia di luar negeri, dengan adanya sistem pendidikan yang maju serta menyediakan akses yang mudah untuk menjangaku seluruh pelajar dari desa sampai kota bisa memiliki kesetaraan akses ilmu yang sama.</p>
+                                <p><a href="https://cbtakm.smasabondowoso.sch.id/guru/<?php echo $SMALLBRAND?>"><strong  style="color: rgb(255, 0, 0);"><?php echo $BRAND ?></strong></a> sekolah SMA Negeri 1 Bondowosi ini sering melakukan kegiatan sosial berupa penerimaan serta penyaluran zakat fitrah setiap tahunnya, bahkan setiap pelajar yang belajar ditempat ini bisa mendapatkan fasilitas belajar dengan sarana dan prasarana pembelajaran yang modern dan maju, ditambah Gedung olahraga, ruang kelas, serta tempat ibadah yang cukup bagus untuk semua siswa dan siswinya.</p>
 
                             </div>
                             <div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller">
