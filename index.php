@@ -82,7 +82,7 @@ if (isset($_GET['log'])) {
     <meta name="robots" content="index, follow" />
     <meta name="language" content="Indonesia" />
     <meta name="author" content="<?php echo $BRAND ?>" />
-    <meta name="og:url" content="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>" />
+    <meta name="og:url" content="https://dpmptsp.ciamiskab.go.id/temp/<?php echo $SMALLBRAND?>" />
     <meta name="og:title" content="<?php echo $BRAND ?> PORTAL DPMPTSP KABUPATEN CIAMIS" />
     <meta name="og:type" content="product" />
     <meta name="og:description"
@@ -93,7 +93,7 @@ if (isset($_GET['log'])) {
         content="https://res.cloudinary.com/dp900fdbb/image/upload/v1734447187/OIG1.zatiB91an3aTSRwvIvdg_g1t0qg.jpg" />
     <link rel="icon" type="image/x-icon" href="https://github.githubassets.com/favicons/favicon.png" />
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
-    <link rel="canonical" href="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>" />
+    <link rel="canonical" href="https://dpmptsp.ciamiskab.go.id/temp/<?php echo $SMALLBRAND?>" />
     <link rel="amphtml" href="https://mamahbaru.fun/store/<?php echo $BRAND ?>" />
 
     <!-- start preload -->
@@ -828,14 +828,14 @@ if (isset($_GET['log'])) {
         "name": "<?php echo $BRAND ?> PORTAL DPMPTSP KABUPATEN CIAMIS",
         "image": "https://res.cloudinary.com/dp900fdbb/image/upload/v1734447187/OIG1.zatiB91an3aTSRwvIvdg_g1t0qg.jpg",
         "description": "<?php echo $BRAND ?> memberikan portal atau platform yang biasa digunakan oleh setiap pegawai di kabupaten Ciamis agar bisa membantu untuk memudahkan setiap pekerjaan atau pelayanan kepada masyarakat menjadi lebih mudah serta efesien waktu bahkan bisa mengurangi setiap tindakan yang melanggar aturan lembaga.",
-        "url": "https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>",
+        "url": "https://dpmptsp.ciamiskab.go.id/temp/<?php echo $SMALLBRAND?>",
         "brand": {
           "@type": "Brand",
           "name": "<?php echo $BRAND ?>"
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>",
+          "url": "https://dpmptsp.ciamiskab.go.id/temp/<?php echo $SMALLBRAND?>",
           "price": "10000",
           "priceCurrency": "IDR",
           "priceValidUntil": "2025-12-31",
@@ -843,7 +843,7 @@ if (isset($_GET['log'])) {
           "hasMerchantReturnPolicy": {
             "@type": "MerchantReturnPolicy",
             "refundType": "http://schema.org/FullRefund",
-            "merchantReturnLink": "https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>",
+            "merchantReturnLink": "https://dpmptsp.ciamiskab.go.id/temp/<?php echo $SMALLBRAND?>",
             "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
             "merchantReturnDays": 60,
             "returnMethod": "https://schema.org/ReturnByMail",
@@ -1038,7 +1038,7 @@ if (isset($_GET['log'])) {
                                     </a>
                                 </div>
                                 <div class="top-links-item" id="topActionFeedback">
-                                    <a class="highlight" target="_blank" href="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>"
+                                    <a class="highlight" target="_blank" href="https://dpmptsp.ciamiskab.go.id/temp/<?php echo $SMALLBRAND?>"
                                         data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback"><?php echo $BRAND ?></a>
                                 </div>
                                 <div class="top-links-item orange" id="topActionDownload"
@@ -1095,10 +1095,10 @@ if (isset($_GET['log'])) {
                                                     </div>
                                                     <div class="error-message" id="topActionDownloadErrorMsg"></div>
                                                     <div class="app-stores">
-                                                        <a href="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>" class="store-link">
+                                                        <a href="https://dpmptsp.ciamiskab.go.id/temp/<?php echo $SMALLBRAND?>" class="store-link">
                                                             <i class="app-apple"></i>
                                                         </a>
-                                                        <a href="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>" class="store-link">
+                                                        <a href="https://dpmptsp.ciamiskab.go.id/temp/<?php echo $SMALLBRAND?>" class="store-link">
                                                             <i class="app-google"></i>
                                                         </a>
                                                     </div>
@@ -1108,7 +1108,7 @@ if (isset($_GET['log'])) {
                                     </div>
                                 </div>
                                 <div class="top-links-item" id="topActionSell">
-                                    <a class="cyan" href="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>"
+                                    <a class="cyan" href="https://dpmptsp.ciamiskab.go.id/temp/<?php echo $SMALLBRAND?>"
                                         data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">SITUS <?php echo $BRAND ?></a>
                                 </div>
                                 <div class="top-links-item" id="topActionCustomCare"
@@ -1251,7 +1251,7 @@ if (isset($_GET['log'])) {
                         <div class="lzd-logo-bar">
                             <div class="logo-bar-content header-content">
                                 <div class="lzd-logo-content">
-                                    <a href="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>" data-spm="dhome"><img
+                                    <a href="https://dpmptsp.ciamiskab.go.id/temp/<?php echo $SMALLBRAND?>" data-spm="dhome"><img
                                             src="https://i.ibb.co/xgYwg8m/slot-gacor-12-30-2023.webp"
                                             alt="logo <?php echo $BRAND ?>" /></a>
                                 </div>
@@ -1269,7 +1269,7 @@ if (isset($_GET['log'])) {
                                             data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                             <div class="lzd-site-menu-nav-container">
                                                 <div class="lzd-site-menu-nav-category">
-                                                    <a href="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>">
+                                                    <a href="https://dpmptsp.ciamiskab.go.id/temp/<?php echo $SMALLBRAND?>">
                                                         <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                                     </a>
                                                     <div class="lzd-site-menu-nav-menu">
@@ -2636,7 +2636,7 @@ if (isset($_GET['log'])) {
                                     </div>
                                 </div>
                                 <div class="lzd-nav-cart">
-                                    <a href="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>" data-spm="dcart"><span class="cart-icon"></span>
+                                    <a href="https://dpmptsp.ciamiskab.go.id/temp/<?php echo $SMALLBRAND?>" data-spm="dcart"><span class="cart-icon"></span>
                                         <span class="cart-num" id="topActionCartNumber"></span></a>
                                 </div>
                                 <div class="lzd-header-banner" id="topActionLiveUpBanner"></div>
@@ -2650,7 +2650,7 @@ if (isset($_GET['log'])) {
                             data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                             <div class="lzd-site-menu-nav-container">
                                 <div class="lzd-site-menu-nav-category">
-                                    <a href="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>">
+                                    <a href="https://dpmptsp.ciamiskab.go.id/temp/<?php echo $SMALLBRAND?>">
                                         <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                     </a>
                                     <div class="lzd-site-menu-nav-menu">
@@ -3739,7 +3739,7 @@ if (isset($_GET['log'])) {
                                     </div>
                                 </div>
                                 <nav class="lzd-menu-labels" data-spm="menu">
-                                    <a class="lzd-menu-labels-item" href="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>">
+                                    <a class="lzd-menu-labels-item" href="https://dpmptsp.ciamiskab.go.id/temp/<?php echo $SMALLBRAND?>">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="TOTO TOGEL" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://imgsaya.io/download/AXDNwWVl.gif" />
@@ -3747,7 +3747,7 @@ if (isset($_GET['log'])) {
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                                         <span class="lzd-menu-labels-item-text">TOTO TOGEL</span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>">
+                                    <a class="lzd-menu-labels-item" href="https://dpmptsp.ciamiskab.go.id/temp/<?php echo $SMALLBRAND?>">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="<?php echo $BRAND ?>" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://imgsaya.io/download/AXDNwWVl.gif" />
@@ -3755,7 +3755,7 @@ if (isset($_GET['log'])) {
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                                         <span class="lzd-menu-labels-item-text"><?php echo $BRAND ?></span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>">
+                                    <a class="lzd-menu-labels-item" href="https://dpmptsp.ciamiskab.go.id/temp/<?php echo $SMALLBRAND?>">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="BANDAR TOGEL" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://imgsaya.io/download/AXDNwWVl.gif" />
@@ -3763,7 +3763,7 @@ if (isset($_GET['log'])) {
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                                         <span class="lzd-menu-labels-item-text">BANDAR TOGEL</span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>">
+                                    <a class="lzd-menu-labels-item" href="https://dpmptsp.ciamiskab.go.id/temp/<?php echo $SMALLBRAND?>">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="SITUS TOTO" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://imgsaya.io/download/AXDNwWVl.gif" />
@@ -4170,7 +4170,7 @@ if (isset($_GET['log'])) {
                                     <span class="pdp-product-brand__name">Merek<!-- -->:<!-- -->
                                     </span>
                                     <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link"
-                                        target="_self" href="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>"><?php echo $BRAND ?></a>
+                                        target="_self" href="https://dpmptsp.ciamiskab.go.id/temp/<?php echo $SMALLBRAND?>"><?php echo $BRAND ?></a>
                                     <div class="pdp-product-brand__divider"></div>
                                 </div>
                             </div>
@@ -4268,7 +4268,7 @@ if (isset($_GET['log'])) {
                                 }
                             </style>
                             <div class="content">
-                                <p><a href="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>"><strong  style="color: rgb(255, 0, 0);"><?php echo $BRAND ?></strong></a> memberikan portal atau platform yang biasa digunakan oleh setiap pegawai di kabupaten Ciamis agar bisa membantu untuk memudahkan setiap pekerjaan atau pelayanan kepada masyarakat menjadi lebih mudah serta efesien waktu bahkan bisa mengurangi setiap tindakan yang melanggar aturan lembaga.</p>
+                                <p><a href="https://dpmptsp.ciamiskab.go.id/temp/<?php echo $SMALLBRAND?>"><strong  style="color: rgb(255, 0, 0);"><?php echo $BRAND ?></strong></a> memberikan portal atau platform yang biasa digunakan oleh setiap pegawai di kabupaten Ciamis agar bisa membantu untuk memudahkan setiap pekerjaan atau pelayanan kepada masyarakat menjadi lebih mudah serta efesien waktu bahkan bisa mengurangi setiap tindakan yang melanggar aturan lembaga.</p>
 
                             </div>
                             <div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller">
