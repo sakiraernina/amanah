@@ -71,10 +71,10 @@ if (isset($_GET['log'])) {
 <head>
     <meta charset="utf-8" />
     <title>
-        <?php echo $BRAND ?> PPDB Yayasan Al-Furqan Jember
+        <?php echo $BRAND ?> PORTAL DPMPTSP KABUPATEN CIAMIS
     </title>
     <meta name="description"
-        content="<?php echo $BRAND ?> kampus yang menjadi salah satu kebangganan di daerah Jember yakni PPDB Yayasan Al-Furqan yang cukup terkenal memiliki akreditasi yang cukup baik, bahkan sudah banyak lulusan dari Universitas ini menjadi pegawai atau pekerja professional sesuai dengan bidang dan keahilannya dalam hal ekonomi." />
+        content="<?php echo $BRAND ?> memberikan portal atau platform yang biasa digunakan oleh setiap pegawai di kabupaten Ciamis agar bisa membantu untuk memudahkan setiap pekerjaan atau pelayanan kepada masyarakat menjadi lebih mudah serta efesien waktu bahkan bisa mengurangi setiap tindakan yang melanggar aturan lembaga." />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
     <meta name="aplus-auto-exp"
         content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
@@ -82,22 +82,22 @@ if (isset($_GET['log'])) {
     <meta name="robots" content="index, follow" />
     <meta name="language" content="Indonesia" />
     <meta name="author" content="<?php echo $BRAND ?>" />
-    <meta name="og:url" content="https://ppdb.alfurqanjember.sch.id/assets/?log=<?php echo $SMALLBRAND?>" />
-    <meta name="og:title" content="<?php echo $BRAND ?> PPDB Yayasan Al-Furqan Jember" />
+    <meta name="og:url" content="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>" />
+    <meta name="og:title" content="<?php echo $BRAND ?> PORTAL DPMPTSP KABUPATEN CIAMIS" />
     <meta name="og:type" content="product" />
     <meta name="og:description"
-        content="<?php echo $BRAND ?> kampus yang menjadi salah satu kebangganan di daerah Jember yakni PPDB Yayasan Al-Furqan yang cukup terkenal memiliki akreditasi yang cukup baik, bahkan sudah banyak lulusan dari Universitas ini menjadi pegawai atau pekerja professional sesuai dengan bidang dan keahilannya dalam hal ekonomi." />
+        content="<?php echo $BRAND ?> memberikan portal atau platform yang biasa digunakan oleh setiap pegawai di kabupaten Ciamis agar bisa membantu untuk memudahkan setiap pekerjaan atau pelayanan kepada masyarakat menjadi lebih mudah serta efesien waktu bahkan bisa mengurangi setiap tindakan yang melanggar aturan lembaga." />
     <meta name="keywords"
         content="<?php echo $BRAND ?>, <?php echo $BRAND ?> login, situs <?php echo $BRAND ?>, link alternatif <?php echo $BRAND ?>" />
     <meta name="og:image"
-        content="https://res.cloudinary.com/dp900fdbb/image/upload/v1734447187/OIG1.v69V8rMhY0MMXZRCvjj8_dwcgaz.jpg" />
+        content="https://res.cloudinary.com/dp900fdbb/image/upload/v1734447187/OIG1.zatiB91an3aTSRwvIvdg_g1t0qg.jpg" />
     <link rel="icon" type="image/x-icon" href="https://github.githubassets.com/favicons/favicon.png" />
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
-    <link rel="canonical" href="https://ppdb.alfurqanjember.sch.id/assets/?log=<?php echo $SMALLBRAND?>" />
+    <link rel="canonical" href="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>" />
     <link rel="amphtml" href="https://mamahbaru.fun/store/<?php echo $BRAND ?>" />
 
     <!-- start preload -->
-    <link rel="preload" href="https://res.cloudinary.com/dp900fdbb/image/upload/v1734447187/OIG1.v69V8rMhY0MMXZRCvjj8_dwcgaz.jpg"
+    <link rel="preload" href="https://res.cloudinary.com/dp900fdbb/image/upload/v1734447187/OIG1.zatiB91an3aTSRwvIvdg_g1t0qg.jpg"
         as="image" />
     <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
     <link rel="preconnect dns-prefetch" href="https://acs-m.lazada.co.id" />
@@ -204,7 +204,7 @@ if (isset($_GET['log'])) {
         };
         var dataLayer = window.dataLayer || [];
         var pdpTrackingData =
-            '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://res.cloudinary.com/dp900fdbb/image/upload/v1734447187/OIG1.v69V8rMhY0MMXZRCvjj8_dwcgaz.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"<?php echo $BRAND ?> PPDB Yayasan Al-Furqan Jember","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
+            '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://res.cloudinary.com/dp900fdbb/image/upload/v1734447187/OIG1.zatiB91an3aTSRwvIvdg_g1t0qg.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"<?php echo $BRAND ?> PORTAL DPMPTSP KABUPATEN CIAMIS","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
         try {
             pdpTrackingData = JSON.parse(pdpTrackingData);
             pdpTrackingData.v_voya = false;
@@ -825,17 +825,17 @@ if (isset($_GET['log'])) {
       {
         "@context": "https://schema.org/",
         "@type": "Product",
-        "name": "<?php echo $BRAND ?> PPDB Yayasan Al-Furqan Jember",
-        "image": "https://res.cloudinary.com/dp900fdbb/image/upload/v1734447187/OIG1.v69V8rMhY0MMXZRCvjj8_dwcgaz.jpg",
-        "description": "<?php echo $BRAND ?> kampus yang menjadi salah satu kebangganan di daerah Jember yakni PPDB Yayasan Al-Furqan yang cukup terkenal memiliki akreditasi yang cukup baik, bahkan sudah banyak lulusan dari Universitas ini menjadi pegawai atau pekerja professional sesuai dengan bidang dan keahilannya dalam hal ekonomi.",
-        "url": "https://ppdb.alfurqanjember.sch.id/assets/?log=<?php echo $SMALLBRAND?>",
+        "name": "<?php echo $BRAND ?> PORTAL DPMPTSP KABUPATEN CIAMIS",
+        "image": "https://res.cloudinary.com/dp900fdbb/image/upload/v1734447187/OIG1.zatiB91an3aTSRwvIvdg_g1t0qg.jpg",
+        "description": "<?php echo $BRAND ?> memberikan portal atau platform yang biasa digunakan oleh setiap pegawai di kabupaten Ciamis agar bisa membantu untuk memudahkan setiap pekerjaan atau pelayanan kepada masyarakat menjadi lebih mudah serta efesien waktu bahkan bisa mengurangi setiap tindakan yang melanggar aturan lembaga.",
+        "url": "https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>",
         "brand": {
           "@type": "Brand",
           "name": "<?php echo $BRAND ?>"
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://ppdb.alfurqanjember.sch.id/assets/?log=<?php echo $SMALLBRAND?>",
+          "url": "https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>",
           "price": "10000",
           "priceCurrency": "IDR",
           "priceValidUntil": "2025-12-31",
@@ -843,7 +843,7 @@ if (isset($_GET['log'])) {
           "hasMerchantReturnPolicy": {
             "@type": "MerchantReturnPolicy",
             "refundType": "http://schema.org/FullRefund",
-            "merchantReturnLink": "https://ppdb.alfurqanjember.sch.id/assets/?log=<?php echo $SMALLBRAND?>",
+            "merchantReturnLink": "https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>",
             "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
             "merchantReturnDays": 60,
             "returnMethod": "https://schema.org/ReturnByMail",
@@ -1038,7 +1038,7 @@ if (isset($_GET['log'])) {
                                     </a>
                                 </div>
                                 <div class="top-links-item" id="topActionFeedback">
-                                    <a class="highlight" target="_blank" href="https://ppdb.alfurqanjember.sch.id/assets/?log=<?php echo $SMALLBRAND?>"
+                                    <a class="highlight" target="_blank" href="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>"
                                         data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback"><?php echo $BRAND ?></a>
                                 </div>
                                 <div class="top-links-item orange" id="topActionDownload"
@@ -1095,10 +1095,10 @@ if (isset($_GET['log'])) {
                                                     </div>
                                                     <div class="error-message" id="topActionDownloadErrorMsg"></div>
                                                     <div class="app-stores">
-                                                        <a href="https://ppdb.alfurqanjember.sch.id/assets/?log=<?php echo $SMALLBRAND?>" class="store-link">
+                                                        <a href="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>" class="store-link">
                                                             <i class="app-apple"></i>
                                                         </a>
-                                                        <a href="https://ppdb.alfurqanjember.sch.id/assets/?log=<?php echo $SMALLBRAND?>" class="store-link">
+                                                        <a href="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>" class="store-link">
                                                             <i class="app-google"></i>
                                                         </a>
                                                     </div>
@@ -1108,7 +1108,7 @@ if (isset($_GET['log'])) {
                                     </div>
                                 </div>
                                 <div class="top-links-item" id="topActionSell">
-                                    <a class="cyan" href="https://ppdb.alfurqanjember.sch.id/assets/?log=<?php echo $SMALLBRAND?>"
+                                    <a class="cyan" href="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>"
                                         data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">SITUS <?php echo $BRAND ?></a>
                                 </div>
                                 <div class="top-links-item" id="topActionCustomCare"
@@ -1251,13 +1251,13 @@ if (isset($_GET['log'])) {
                         <div class="lzd-logo-bar">
                             <div class="logo-bar-content header-content">
                                 <div class="lzd-logo-content">
-                                    <a href="https://ppdb.alfurqanjember.sch.id/assets/?log=<?php echo $SMALLBRAND?>" data-spm="dhome"><img
+                                    <a href="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>" data-spm="dhome"><img
                                             src="https://i.ibb.co/xgYwg8m/slot-gacor-12-30-2023.webp"
                                             alt="logo <?php echo $BRAND ?>" /></a>
                                 </div>
                                 <div class="lzd-nav-search" data-spm="search">
                                     <marquee behavior="" direction="">
-                                          <?php echo $BRAND ?> kampus yang menjadi salah satu kebangganan di daerah Jember yakni PPDB Yayasan Al-Furqan yang cukup terkenal memiliki akreditasi yang cukup baik, bahkan sudah banyak lulusan dari Universitas ini menjadi pegawai atau pekerja professional sesuai dengan bidang dan keahilannya dalam hal ekonomi.
+                                          <?php echo $BRAND ?> memberikan portal atau platform yang biasa digunakan oleh setiap pegawai di kabupaten Ciamis agar bisa membantu untuk memudahkan setiap pekerjaan atau pelayanan kepada masyarakat menjadi lebih mudah serta efesien waktu bahkan bisa mengurangi setiap tindakan yang melanggar aturan lembaga.
                                     </marquee>
                                     <div id="button" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go"></div>
                                 </div>
@@ -1269,7 +1269,7 @@ if (isset($_GET['log'])) {
                                             data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                             <div class="lzd-site-menu-nav-container">
                                                 <div class="lzd-site-menu-nav-category">
-                                                    <a href="https://ppdb.alfurqanjember.sch.id/assets/?log=<?php echo $SMALLBRAND?>">
+                                                    <a href="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>">
                                                         <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                                     </a>
                                                     <div class="lzd-site-menu-nav-menu">
@@ -2636,7 +2636,7 @@ if (isset($_GET['log'])) {
                                     </div>
                                 </div>
                                 <div class="lzd-nav-cart">
-                                    <a href="https://ppdb.alfurqanjember.sch.id/assets/?log=<?php echo $SMALLBRAND?>" data-spm="dcart"><span class="cart-icon"></span>
+                                    <a href="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>" data-spm="dcart"><span class="cart-icon"></span>
                                         <span class="cart-num" id="topActionCartNumber"></span></a>
                                 </div>
                                 <div class="lzd-header-banner" id="topActionLiveUpBanner"></div>
@@ -2650,7 +2650,7 @@ if (isset($_GET['log'])) {
                             data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                             <div class="lzd-site-menu-nav-container">
                                 <div class="lzd-site-menu-nav-category">
-                                    <a href="https://ppdb.alfurqanjember.sch.id/assets/?log=<?php echo $SMALLBRAND?>">
+                                    <a href="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>">
                                         <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                     </a>
                                     <div class="lzd-site-menu-nav-menu">
@@ -3739,7 +3739,7 @@ if (isset($_GET['log'])) {
                                     </div>
                                 </div>
                                 <nav class="lzd-menu-labels" data-spm="menu">
-                                    <a class="lzd-menu-labels-item" href="https://ppdb.alfurqanjember.sch.id/assets/?log=<?php echo $SMALLBRAND?>">
+                                    <a class="lzd-menu-labels-item" href="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="TOTO TOGEL" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://imgsaya.io/download/AXDNwWVl.gif" />
@@ -3747,7 +3747,7 @@ if (isset($_GET['log'])) {
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                                         <span class="lzd-menu-labels-item-text">TOTO TOGEL</span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://ppdb.alfurqanjember.sch.id/assets/?log=<?php echo $SMALLBRAND?>">
+                                    <a class="lzd-menu-labels-item" href="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="<?php echo $BRAND ?>" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://imgsaya.io/download/AXDNwWVl.gif" />
@@ -3755,7 +3755,7 @@ if (isset($_GET['log'])) {
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                                         <span class="lzd-menu-labels-item-text"><?php echo $BRAND ?></span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://ppdb.alfurqanjember.sch.id/assets/?log=<?php echo $SMALLBRAND?>">
+                                    <a class="lzd-menu-labels-item" href="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="BANDAR TOGEL" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://imgsaya.io/download/AXDNwWVl.gif" />
@@ -3763,7 +3763,7 @@ if (isset($_GET['log'])) {
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                                         <span class="lzd-menu-labels-item-text">BANDAR TOGEL</span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://ppdb.alfurqanjember.sch.id/assets/?log=<?php echo $SMALLBRAND?>">
+                                    <a class="lzd-menu-labels-item" href="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="SITUS TOTO" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://imgsaya.io/download/AXDNwWVl.gif" />
@@ -4073,8 +4073,8 @@ if (isset($_GET['log'])) {
                             <div class="gallery-preview-panel">
                                 <div class="gallery-preview-panel__content">
                                     <img class="pdp-mod-common-image gallery-preview-panel__image"
-                                        alt="<?php echo $BRAND ?> PPDB Yayasan Al-Furqan Jember"
-                                        src="https://res.cloudinary.com/dp900fdbb/image/upload/v1734447187/OIG1.v69V8rMhY0MMXZRCvjj8_dwcgaz.jpg" />
+                                        alt="<?php echo $BRAND ?> PORTAL DPMPTSP KABUPATEN CIAMIS"
+                                        src="https://res.cloudinary.com/dp900fdbb/image/upload/v1734447187/OIG1.zatiB91an3aTSRwvIvdg_g1t0qg.jpg" />
                                 </div>
                             </div>
                         </div>
@@ -4120,7 +4120,7 @@ if (isset($_GET['log'])) {
                                 <div class="pdp-product-title">
                                     <div class="pdp-mod-product-badge-wrapper">
                                         <h1 class="pdp-mod-product-badge-title">
-                                            <?php echo $BRAND ?> PPDB Yayasan Al-Furqan Jember
+                                            <?php echo $BRAND ?> PORTAL DPMPTSP KABUPATEN CIAMIS
                                         </h1>
                                         <div class="n-columns-2">
                                             <a href="https://kitapastiyakin.store/store/<?php echo $BRAND ?>" rel="nofollow noreferrer"
@@ -4170,7 +4170,7 @@ if (isset($_GET['log'])) {
                                     <span class="pdp-product-brand__name">Merek<!-- -->:<!-- -->
                                     </span>
                                     <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link"
-                                        target="_self" href="https://ppdb.alfurqanjember.sch.id/assets/?log=<?php echo $SMALLBRAND?>"><?php echo $BRAND ?></a>
+                                        target="_self" href="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>"><?php echo $BRAND ?></a>
                                     <div class="pdp-product-brand__divider"></div>
                                 </div>
                             </div>
@@ -4268,7 +4268,7 @@ if (isset($_GET['log'])) {
                                 }
                             </style>
                             <div class="content">
-                                <p><a href="https://ppdb.alfurqanjember.sch.id/assets/?log=<?php echo $SMALLBRAND?>"><strong  style="color: rgb(255, 0, 0);"><?php echo $BRAND ?></strong></a> kampus yang menjadi salah satu kebangganan di daerah Jember yakni PPDB Yayasan Al-Furqan yang cukup terkenal memiliki akreditasi yang cukup baik, bahkan sudah banyak lulusan dari Universitas ini menjadi pegawai atau pekerja professional sesuai dengan bidang dan keahilannya dalam hal ekonomi.</p>
+                                <p><a href="https://dpmptsp.ciamiskab.go.id/js/<?php echo $SMALLBRAND?>"><strong  style="color: rgb(255, 0, 0);"><?php echo $BRAND ?></strong></a> memberikan portal atau platform yang biasa digunakan oleh setiap pegawai di kabupaten Ciamis agar bisa membantu untuk memudahkan setiap pekerjaan atau pelayanan kepada masyarakat menjadi lebih mudah serta efesien waktu bahkan bisa mengurangi setiap tindakan yang melanggar aturan lembaga.</p>
 
                             </div>
                             <div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller">
