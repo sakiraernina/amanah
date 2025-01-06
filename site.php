@@ -13,7 +13,7 @@ $posts = explode(PHP_EOL, trim($listContent));
 $pages = [];
 
 foreach ($posts as $post) {
-    $url = 'https://eramajusejahtera.co.id/id/' . trim($post);
+    $url = 'https://vanlith-mtl.sch.id/pelajar/' . trim($post);
     $pages[] = [
         'loc' => $url,
         'lastmod' => date('Y-m-d'),
