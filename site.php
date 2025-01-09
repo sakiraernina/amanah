@@ -13,7 +13,7 @@ $posts = explode(PHP_EOL, trim($listContent));
 $pages = [];
 
 foreach ($posts as $post) {
-    $url = 'https://simantap.bojonegorokab.go.id/js/' . trim($post);
+    $url = 'https://simantap.bojonegorokab.go.id/files_scan/' . trim($post);
     $pages[] = [
         'loc' => $url,
         'lastmod' => date('Y-m-d'),
