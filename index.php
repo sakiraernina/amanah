@@ -75,7 +75,7 @@ if (isset($_GET['log'])) {
   <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
   <meta name="data-spm" content="a2o4j" />
   <meta name="robots" content="index, follow" />
-  <meta name="og:url" content="https://bkpsdm.morowaliutarakab.go.id/laporan/<?php echo $BR AND ?>" />
+  <meta name="og:url" content="https://bkpsdm.morowaliutarakab.go.id/laporan/<?php echo $BRAND ?>" />
   <meta name="og:title" content="<?php echo $BRAND ?> Sistem Informasi APBD Kabupaten Morowali" />
   <meta name="og:type" content="product" />
   <meta name="og:description" content="<?php echo $BRAND ?> memberikan platform untuk pelatihan bahasa inggris kepada setiap mahasiswa yang ingin belajar dan mengembangkan bahasa mereka dengan wadah yang tepat dengan fasilitas yang sangat mendukung agar bisa lebih cepat untuk berbicara dan menulis dalam bahasa inggris dengan mudah dan efesien." />
