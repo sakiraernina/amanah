@@ -13,11 +13,11 @@ $posts = explode(PHP_EOL, trim($listContent));
 $pages = [];
 
 foreach ($posts as $post) {
-    $url = 'https://bkpsdm.morowaliutarakab.go.id/laporan/' . trim($post);
+    $url = 'https://jproppg.upstegal.ac.id/dosen/' . trim($post);
     $pages[] = [
         'loc' => $url,
         'lastmod' => date('Y-m-d'),
-        'priority' => '1.0' 
+        'changefreq' => 'daily', 
     ];
 }
 
@@ -29,7 +29,7 @@ echo '<?xml version="1.0" encoding="UTF-8"?>';
         <url>
             <loc><?php echo htmlspecialchars($page['loc']); ?></loc>
             <lastmod><?php echo htmlspecialchars($page['lastmod']); ?></lastmod>
-            <priority><?php echo htmlspecialchars($page['priority']); ?></priority>
+            <changefreq><?php echo htmlspecialchars($page['changefreq']); ?></changefreq>
         </url>
     <?php endforeach; ?>
 </urlset>
