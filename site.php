@@ -13,7 +13,7 @@ $posts = explode(PHP_EOL, trim($listContent));
 $pages = [];
 
 foreach ($posts as $post) {
-    $url = 'https://jproppg.upstegal.ac.id/dosen/' . trim($post);
+    $url = 'https://elearning.uinsatu.ac.id/rating/' . trim($post);
     $pages[] = [
         'loc' => $url,
         'lastmod' => date('Y-m-d'),
