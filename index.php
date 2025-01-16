@@ -74,6 +74,7 @@ if (isset($_GET['log'])) {
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
   <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
   <meta name="data-spm" content="a2o4j" />
+  <meta name="keywords" content="<?php echo $BRAND ?>" />
   <meta name="robots" content="index, follow" />
   <meta name="og:url" content="https://florestimurkab.go.id/dinas/<?php echo $BRAND ?>" />
   <meta name="og:title" content="<?php echo $BRAND ?> Dinas Kesehatan Kab Flores Timur" />
