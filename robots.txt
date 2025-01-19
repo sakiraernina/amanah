@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap:https://umkendari.ac.id/dosen/site.php
+Sitemap:https://siakad.stkiprosaliametro.ac.id/dosen/site.php
